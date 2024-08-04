@@ -1,0 +1,13 @@
+unknown: nan
+Monica Geller: Hey! How's it goin'?
+Phoebe Buffay: Well, not much has changed in the last five minutes.
+Monica Geller: Yes it has! I made cookies!
+Phoebe Buffay: Oh that's all right. I'm still full from your homemade potato chips.
+Monica Geller: But you should eat them now because they're hot from the oven.
+Phoebe Buffay: Okay.
+Monica Geller: Oh-ho! But not in here! Can't eat 'em in bed, remember? No crumbies!
+Phoebe Buffay: Okay, I'll be out in a second.
+Monica Geller: Okay!
+unknown: nan
+Monica Geller: What are you doing?
+Phoebe Buffay: That doesn't lock does it?

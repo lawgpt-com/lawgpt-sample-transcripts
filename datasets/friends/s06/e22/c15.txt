@@ -1,0 +1,9 @@
+unknown: nan
+Joey Tribbiani: Hey Gunther.
+Gunther: Hey! Take these cappuccinos to table 11 and that guy over there wants the biscotti.
+Joey Tribbiani: Oh uh, well I just came in for a cup of coffee to go.
+Gunther: Do you still work here?
+Joey Tribbiani: No! No, I quit a long time ago. Did I forget to you that one? I'm sorry.
+Gunther: Oh that's cool, I was gonna fire you anyway.
+Joey Tribbiani: Great!
+unknown: nan

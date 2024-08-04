@@ -1,0 +1,10 @@
+unknown: nan
+Ross Geller: Hello.
+Woman: Hi, is uh Phoebe here?
+Ross Geller: Uh no-no, she-she's out for the night.
+Woman: Ohh great.
+Ross Geller: Can I, can I help you with something?
+Woman: Well, I don't know. Are you a masseur?
+Ross Geller: Yes I am.
+Woman: Great! Dad! Thank you so much, I'll be back to pick him up in an hour.
+unknown: nan

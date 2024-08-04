@@ -1,0 +1,12 @@
+unknown: nan
+Waitress: Hey Monica, there's a customer who wants to complement the chef, should I let him in?
+Monica Geller: Sure, I love this part!
+Waitress: Come on in.
+unknown: nan
+Richard Burke: Hi!
+Monica Geller: Richard!
+Richard Burke: Actually, I'm not here to complement the chef.
+Monica Geller: Ohh... Oh, that's okay I hate when people come back to complement the chef. Like I have nothing better to do! So what's up?
+Richard Burke: Well, it was great seeing you the other night.
+Monica Geller: Oh, good to see you too. Did you come down here to tell me that?
+Richard Burke: No! I came here to tell you something else. I came here to tell you I still love you.

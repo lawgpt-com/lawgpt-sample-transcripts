@@ -1,0 +1,15 @@
+unknown: nan
+Supervisor: So basically this is very easy. You read from the script and try to sell as much toner as you possibly can.
+Phoebe Buffay: Okay, I can do that! Oh, by the way, I love my office.
+Supervisor: Why don't we do a trial run.
+Phoebe Buffay: Oh okay. Umm, all right. Hi, this is Phoebe from Empire Office Supplies, can I speak to your supply manager please?
+Supervisor: I'm the supply manager.
+Phoebe Buffay: Umm, okay I would like to talk to you about your toner needs.
+Supervisor: We don't need any toner.
+Phoebe Buffay: Oh okay, well I'm sorry to bother you. Bye-bye. Yeah you're right, this is easy.
+Supervisor: Okay, what was wrong with that call?
+Phoebe Buffay: Oh well, all right...um, no offense, but you were kind of rude.
+Supervisor: They're always going to tell you they don't need toner, but that's okay because whatever they say, you can find the answer to it here in this script.
+Phoebe Buffay: Oh.
+Supervisor: So, I think you're ready to sell toner, do you have any last questions?
+Phoebe Buffay: No. Oh wait yes! I do, I do have one question. What is toner?

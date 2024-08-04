@@ -1,0 +1,7 @@
+unknown: nan
+The Flight Attendant: Welcome to Las Vegas.
+unknown: nan
+The Flight Attendant: Thank you! Enjoy your flight?
+Rachel Green: Yes, I did. Thank you very much, it was excellent.
+The Flight Attendant: Hope you had a nice flight.
+Ross Geller: Ohh, it was the best!

@@ -1,0 +1,28 @@
+unknown: nan
+Hotel Clerk: I think you'll find this room more to your liking.
+Chandler Bing: Okay, great.
+Hotel Clerk: They say he's only got half a tank left.
+Chandler Bing: Half a tank? We still got a lot of high-speed chasing to do!
+Monica Geller: We're switching rooms again.
+Chandler Bing: What? Why?
+Monica Geller: This is a garden view room, and we paid for an ocean view room.
+Hotel Clerk: Our last ocean view room was unacceptable to you.
+Monica Geller: Excuse me, umm, can I talk to you over here for just a second?
+Chandler Bing: Uh-huh.
+Monica Geller: Chandler!
+Chandler Bing: Yeah.
+Monica Geller: Look, these clowns are trying to take us for a ride and I'm not gonna let 'em! And we're not a couple of suckers!
+Chandler Bing: I hear ya, Mugsy! But look, all these rooms are fine okay? Can you just pick one so I can watch--have a perfect, magical weekend together with you.
+unknown: nan
+Monica Geller: Okay, this one I like!
+Chandler Bing: Nothing! It's over! Dammit! This is regularly scheduled programming!
+Monica Geller: Can we turn the TV off? Okay? Do we really want to spend the entire weekend like this?
+Chandler Bing: Oh, I'm sorry, am I getting in the way of all the room switching fun?
+Monica Geller: Hey, don't blame me for wigging tonight!
+Chandler Bing: Oh, who should I blame? The nice bell man who had to drag out luggage to 10 different rooms?
+Monica Geller: I don't know, how about the idiot who thought he could drive from Albany to Canada on a half a tank of gas!
+Chandler Bing: Do not speak ill of the dead.
+Monica Geller: We're supposed to uh, be spending a romantic weekend together, it-it, what is the matter with you?
+Chandler Bing: I just want to watch a little television. What is the big deal? Geez, relax mom.
+Monica Geller: What did you say?
+Chandler Bing: I said, "Geez, relax Monnnnn."

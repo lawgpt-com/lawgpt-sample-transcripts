@@ -1,0 +1,13 @@
+unknown: nan
+Monica Geller: Does she use the cups? Yes! I believe she does. Does she use the plates? Yes! I believe she does.
+unknown: nan
+Monica Geller: Oh. Thank you. Ohhh, thank you very much. Oh, thank you for coming. Uh, just a second!
+Phoebe Buffay: No-no, let me in!
+Monica Geller: Phoebe?
+Phoebe Buffay: Yeah!
+Monica Geller: Can you just hold on for one minute?
+Phoebe Buffay: No, you have to let me in right now!!
+Monica Geller: Are you alone?
+Phoebe Buffay: Yes!
+Monica Geller: All right.
+unknown: nan

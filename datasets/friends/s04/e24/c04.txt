@@ -1,0 +1,19 @@
+unknown: nan
+Rachel Green: Ooh, ooh, ooh,ooh,ooh. Hi.
+Ticket Agent: Hello.
+Rachel Green: Hello. Umm, when is your next flight to London?
+Ticket Agent: There's one leaving in thirty minutes.
+Rachel Green: Ohh, good.
+Ticket Agent: And I do have one seat left.
+Rachel Green: Ohh, thank you, thank you, thank you.
+Ticket Agent: The last minute fare on this ticket is twenty seven hundred dollars.
+Rachel Green: Huh.. How about 600?
+Ticket Agent: Sorry.
+Rachel Green: How about 600 and these earrings?
+Ticket Agent: They prefer it if I don't barter.
+Rachel Green: Ohh, I just don't think I have enough left on my credit card.
+Ticket Agent: Well you can split it with another credit card.
+Rachel Green: Ohh, okay, how about five. Ohh, thank you.
+Ticket Agent: I'm just going to need to see your passport.
+Rachel Green: Okay, you know what? I don't have it, but I can tell you exactly where it is on my night stand, and...okay. But you know what? I have my drivers license and I have a twenty.
+Ticket Agent: nan

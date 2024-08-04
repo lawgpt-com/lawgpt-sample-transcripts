@@ -1,0 +1,4 @@
+unknown: nan
+Monica Geller: I know! I know! I know!
+The Teacher: Monica, you asked the question.
+unknown: nan

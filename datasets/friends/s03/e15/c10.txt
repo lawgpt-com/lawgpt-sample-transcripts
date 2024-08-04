@@ -1,0 +1,16 @@
+unknown: nan
+Rachel Green: Hello!
+Mark Robinson: Oh, hi. It's Mark.
+Rachel Green: Oh.
+Mark Robinson: What? Is it my breath?
+Rachel Green: No! Sorry, I just thought you were somebody else. Hi!
+Mark Robinson: Hi. Well, look, I was just gonna leave a message, isn't tonight your, your big anniversary dinner?
+Rachel Green: Yeah. Well, umm.....
+Mark Robinson: Rach, are you okay?
+Rachel Green: Yeah, I'm fine.
+Mark Robinson: You wanna talk, I mean I can come over?
+Rachel Green: No! Really, no, please, please, that's, that's okay.
+Mark Robinson: All right, all right, I'm coming over, and I'm bringing Chinese food.
+Rachel Green: Oh, yeah, I'm not, I'm not hungry.
+Mark Robinson: It's for me.
+Rachel Green: Oh. Okay, bye.

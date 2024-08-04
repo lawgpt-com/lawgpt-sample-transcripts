@@ -1,0 +1,22 @@
+unknown: nan
+Ross Geller: Hi.
+Rachel Green: Hi, sweetie!
+Ross Geller: Hello.
+Mark Robinson: Hi, Ross.
+Ross Geller: Yeah, huh.
+Rachel Green: I've got some bad news.
+Ross Geller: What?
+Rachel Green: I can get a quick bite to eat, but then I have to come back up here.
+Ross Geller: Come on sweetie! You've had to work late every night for the past two weeks, what is it this time?
+Mark Robinson: Actually, it's kinda my fault. I-I quit today.
+Ross Geller: But work comes first! Oh hey, but that's sad about you though, what happened? Burn out? Burn all out, did ya?
+Rachel Green: Nooo, he's leaving for a better job.
+Ross Geller: Oh well that's great, so I guess this is ah, this is good bye then. Huh? Good bye.
+Mark Robinson: Okay, then.
+Ross Geller: Okay.
+Rachel Green: Well we're gonna miss you around here.
+Mark Robinson: Yeah, me too.
+unknown: nan
+Mark Robinson: So, see ya on Saturday.
+Rachel Green: Yeah, you bet.
+unknown: nan

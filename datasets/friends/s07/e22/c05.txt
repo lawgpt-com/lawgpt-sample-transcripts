@@ -1,0 +1,18 @@
+unknown: nan
+Man: Hey guys!
+Joey Tribbiani: Hey!
+Phoebe Buffay: Hey sweetie!
+Man: Ready to go?
+Phoebe Buffay: Yeah! Sure! Ooh, I left my purse up at Monica's. I'll be right back.
+Man: Wait a minute!
+Phoebe Buffay: What? Oh. Ooh. Whoa! That one kept going.
+Joey Tribbiani: So! You and Phoebe huh? How long have you been going out?
+Man: Over a month.
+Joey Tribbiani: Wow! Maybe uh, maybe you and I ought to get to know each other a little better.
+Man: Sure, I'd like that.
+Joey Tribbiani: So uh, what's your name?
+Man: Its Jake.
+Joey Tribbiani: Joey. Hey Jake, do you like the Knicks?
+Jake: Yeah, big fan.
+Joey Tribbiani: Me too! There's a game on Tuesday do you wanna go?
+Jake: Yeah that would be great! Let me make sure I'm not doing anything Tuesday.

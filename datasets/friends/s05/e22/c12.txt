@@ -1,0 +1,10 @@
+unknown: nan
+Ross Geller: Hey Rach, can you pass me the TV Guide?
+Rachel Green: Yep!
+unknown: nan
+Monica Geller: Go!!
+unknown: nan
+Rachel Green: What?!! Stop it! Stop it! Oh my God!
+Monica Geller: Okay! Okay! Okay! We'll see you in about 3 to 4 hours.
+Rachel Green: Oh!
+unknown: nan

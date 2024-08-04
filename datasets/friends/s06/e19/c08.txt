@@ -1,0 +1,49 @@
+unknown: nan
+Ross Geller: Hey!
+Chandler Bing: Hey!
+Phoebe Buffay: Hey!
+Monica Geller: Hey! How did it go with Elizabeth?
+Ross Geller: Huh? Oh-oh, it was fine. Uh, it was just a misunderstanding. She didn't want me to go with her. She just wanted to let me know that she's going to Florida for spring vacation.
+Chandler Bing: Wait a minute, is she going for spring vacation or is she going for spring break?
+Ross Geller: What's-what's the difference?
+Monica Geller: Well, spring vacation is doing nice things with your grandparents. Spring break you're doing frat guys.
+Ross Geller: Hey, y'know what? Not all spring breaks are like that.
+Phoebe Buffay: What did you do on yours?
+Ross Geller: I went to Egypt with my dad.
+Chandler Bing: I can see it now, "Look dad, it's the Sphinx!"
+Ross Geller: Hey, I think Elizabeth is a little more serious than, "Spring break!" All right? I mean she's taken my class!
+Monica Geller: And slept with the professor.
+Ross Geller: I'm gonna call her.
+Chandler Bing: Yeah.
+unknown: nan
+Rachel Green: Hey! You guys umm, I want you to meet Sebastian.
+Sebastian: Hi.
+Rachel Green: We just uh, we just met at the newsstand. We both grabbed for the last Field & Stream. What? I read that.
+Sebastian: Can I get you a cup of coffee?
+Rachel Green: Oh yes! Thank you!
+Phoebe Buffay: Rachel, what the hell is this?!
+Rachel Green: What?
+Phoebe Buffay: You ask us to find you a guy and you come traipsing in here with your own!
+Rachel Green: You found me a guy?
+Monica Geller: Yes! We found you a really cute and funny guy from Chandler's work!
+Phoebe Buffay: Yeah and I-I found you one too who is not a weirdo.
+Rachel Green: Well, y'know what though you guys? I really appreciate that but I think I'm just gonna take Sebastian to the charity.
+Chandler Bing: Are you sure?! Because our guy smells incredible!
+Monica Geller: Uh, would you stop it with that already?!
+unknown: nan
+Sebastian: Here you go.
+Rachel Green: Oh, thank you.
+Sebastian: Sure.
+Phoebe Buffay: So, Sebastian, do you do any volunteer work?
+Sebastian: Uh, no not really. Why?
+Phoebe Buffay: No reason, it's just I know a single guy that cares about other people.
+Chandler Bing: Are you funny?
+Sebastian: Excuse me?
+Rachel Green: What are you guys doing?
+Monica Geller: Are you funny? Tell us a joke!
+Sebastian: Look, I just wanted to have coffee with Rachel.
+Phoebe Buffay: Well, so do a lot of people.
+Sebastian: Actually, I uh, I gotta get going. Give me a call sometime.
+Rachel Green: Oh, but y'know, no, you didn't give me your phone number.
+Sebastian: Okay! See you later!
+Chandler Bing: Turns out he is kinda funny.

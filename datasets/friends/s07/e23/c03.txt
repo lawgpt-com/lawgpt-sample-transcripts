@@ -1,0 +1,25 @@
+unknown: nan
+The Assistant Director: Hey Joey! We're ready.
+Joey Tribbiani: Yeah! Me too.
+The Assistant Director: Richard? We're ready for you. Joey Tribbiani? This is Richard Crosby he's playing Vincent.
+Joey Tribbiani: I'm doing my scenes with you?
+Richard Burke: Nice to meet you Joey.
+Joey Tribbiani: Wow! I can't believe this! This is incredible. I mean you just won an Oscar!
+Richard Burke: No I didn't.
+Joey Tribbiani: I think you did.
+Richard Burke: I think I lost. Three times.
+Joey Tribbiani: Uh...Cookie?
+The Director: Okay! We're about an hour away from getting the scene lit. So uh, if you guys don't mind, can we run it a couple of times?
+Richard Burke: Yeah, sure.
+The Director: Okay, all right. Let's do it. And...Action!
+Joey Tribbiani: We have to find the rest of the platoon!
+Richard Burke: Forget the platoon! The platoon is gone!
+Joey Tribbiani: What?!
+Richard Burke: The platoon is dead! Face facts Tony!
+Joey Tribbiani: So what are we gonna do?! We have no reinforcements! No-no food!
+Richard Burke: No, we still have food in the basement! I saw potatoes and some dry pasta!
+unknown: nan
+The Director: Hang on a minute! Joey, you keep touching your face. Is something wrong?
+Joey Tribbiani: No. Nope, I uh...I th-I thought it might be kind of a cool character thing. Y'know? He's uh, he's a face toucher.
+The Director: I don't think so. Let's take it back to Richard's last line. Action!
+Richard Burke: We may not have any weapons, but we still have food. In the basement I saw potatoes and some dry pasta, and a few tins of tuna!

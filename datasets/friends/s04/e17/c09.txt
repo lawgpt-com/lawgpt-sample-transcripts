@@ -1,0 +1,8 @@
+unknown: nan
+Ross Geller: Hello?
+Emily Waltham: Ross.
+Ross Geller: Emily, hi! Uh, how-how was you flight?
+Emily Waltham: It was dreadful. I felt terrible about how I acted when you said those wonderful things.
+Ross Geller: No, no, that-that, that's all right. Umm, I'm just glad you called.
+Emily Waltham: Ross umm, there's something that I've got to tell you, there's-there's someone else.
+Ross Geller: Does that mean the same thing in England as it does in America?

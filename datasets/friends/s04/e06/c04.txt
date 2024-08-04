@@ -1,0 +1,14 @@
+unknown: nan
+Monica Geller: Oh, is everything in the car?
+Phoebe Buffay: Yes. Did you settle the bill?
+Monica Geller: No. I hate this part.
+Phoebe Buffay: Oh, look what we almost left.
+Monica Geller: No, that's not mine.
+Phoebe Buffay: Oh, all right. Oh! Look what we almost took!
+unknown: nan
+Monica Geller: Excuse me, Mrs. Burkart? Well, we're all cleaned up in the kitchen.
+Mrs. Burkart: Oh, good. Thank you.
+Monica Geller: Um, and, well there's the.. the the small matter of...
+Mrs. Burkart: Dear?
+Monica Geller: Just the matter of ...payment?
+Mrs. Burkart: Jack used to handle the finances!

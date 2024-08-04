@@ -1,0 +1,3 @@
+unknown: nan
+Ross Geller: 'I am Bea. I drink tea. Won't you dance around with....' Ohhh!
+Monica Geller: Ross!!!

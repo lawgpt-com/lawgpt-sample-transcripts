@@ -1,0 +1,14 @@
+unknown: nan
+Rachel Green: Okay! I'm ready.
+Ross Geller: You sure?
+Rachel Green: Yes, I've done my studying and I really know my stuff.
+Ross Geller: All right then. Rachel Green! Let's play Bamboozled! How do you test the temperature of the baby's bath water?
+Rachel Green: Uh, put your elbow in it.
+Ross Geller: Excellent! How do you put a baby down for a nap?
+Rachel Green: Full, dry, on its back, and no loose covers.
+Ross Geller: That's correct! This is an audio question, what do you do when the baby makes this sound?
+Rachel Green: Check if it's wet, check if it's hungry, burp it!
+Ross Geller: Excellent! Excellent, now-now do you want another question or a Wicked Wango card?
+Rachel Green: A card! A card! I pick a card!
+Ross Geller: Oh, I'm sorry you've been Bamboozled! You're gonna be a terrible mother! I've lost sight of why we're doing this!
+unknown: nan

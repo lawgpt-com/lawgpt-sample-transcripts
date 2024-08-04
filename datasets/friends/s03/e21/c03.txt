@@ -1,0 +1,17 @@
+unknown: nan
+Peter Becker: Hi!
+Monica Geller: Hi! Hey, Pete you're back! Hey, check this out.
+Peter Becker: Wow! Skates!
+unknown: nan
+Monica Geller: Wow! You're a lot sturdier that Chandler. He crumpled like a piece of paper. So how was you're trip?
+Peter Becker: Well...
+Monica Geller: Oh, what'd ya bring me?! Awww, hotel toiletries from Japan. Oh, these are gonna go in my permanent collection. You want some coffee?
+Peter Becker: Yeah, sure, that'd be great.
+unknown: nan
+Monica Geller: Regular or decaf?
+Peter Becker: Ah, which ever is closest.
+Monica Geller: Okay.
+Peter Becker: So ask me what I did today.
+Monica Geller: So what did you do today Pete?
+Peter Becker: I bought a restaurant and I would like you to be the head chef.
+Monica Geller: What?! Oh.

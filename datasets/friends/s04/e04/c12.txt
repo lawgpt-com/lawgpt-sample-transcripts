@@ -1,0 +1,10 @@
+unknown: nan
+Ross Geller: Hello.
+Chandler Bing: Hi.
+Ross Geller: We'd like to close our accounts.
+Bank Officer: Close your accounts? Is there some kind of problem?
+Ross Geller: No-no.
+Chandler Bing: No, we'd just like to close them.
+Bank Officer: Okay, Ms. Lambert handles all our closures. Would you come over here please?
+Ms. Lambert: Hi, I'm Karen.
+Chandler Bing: I wanna quit the bank!

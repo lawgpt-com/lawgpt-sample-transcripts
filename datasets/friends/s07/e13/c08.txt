@@ -1,0 +1,12 @@
+unknown: nan
+Phoebe Buffay: Hi, this Phoebe from Empire Office Supplies, can I speak to your supply manager please? Earl, thanks. Hi Earl, this is Phoebe from Empire Office Supplies I'd like to talk to you about your toner needs.
+unknown: nan
+Earl: I don't need any toner.
+Phoebe Buffay: I'm hearing what you're saying, but at our prices everyone needs toner.
+Earl: Not me.
+Phoebe Buffay: May I ask why?
+Earl: You wanna know why. You wanna know why?
+Phoebe Buffay: I surely do!
+Earl: Okay, I don't need any toner because I'm going to kill myself.
+unknown: nan
+Phoebe Buffay: Umm, is-is that because you're out of toner?

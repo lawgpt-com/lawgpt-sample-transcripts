@@ -1,0 +1,15 @@
+unknown: nan
+Ross Geller: Uh, Phoebe...
+Phoebe Buffay: Oh Ross, hi.
+Ross Geller: Phoebe, what are you doing?
+Phoebe Buffay: I'm sorry, I'm with a client right now.
+Ross Geller: Phoebe!
+Phoebe Buffay: Okay, let's talk outside.
+unknown: nan
+Ross Geller: Phoebe, you can't massage people in my apartment!
+Phoebe Buffay: What's the big deal? I did it at Monica and Chandler's!
+Ross Geller: And they knew about it?
+Phoebe Buffay: Okay, well Ross, what is this really about?
+Ross Geller: Look, this is my home and I want to be able to come and go whenever I want!
+Phoebe Buffay: Okay, I will find someplace else to do the rest of my appointments. I just don't know what the big deal is!
+Ross Geller: The big deal is I don't want naked, greasy strangers in my apartment when I want to kick back with a puzzle-beer! Cold beer.

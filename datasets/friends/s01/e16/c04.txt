@@ -1,0 +1,15 @@
+unknown: nan
+Chandler Bing: And to you too, Helen.
+Helen: Nina Bookbinder is here to see you.
+Chandler Bing: Oh, okay. Send her in.
+unknown: nan
+Nina Bookbinder: Hi.
+Chandler Bing: Hi, Nina. Come on in.
+Nina Bookbinder: You wanted to see me?
+Chandler Bing: Uh, Yes. Yes. Ive just been going over your data here, and little thing, youve been post-dating your Friday numbers.
+Nina Bookbinder: Which is bad, because?
+Chandler Bing: Well, it throws my WENUS out of whack.
+Nina Bookbinder: Your... excuse me?
+Chandler Bing: WENUS. Weekly Estimated Net...
+Nina Bookbinder: Oh, Net Usage Statistics, right. Gotcha, gotcha. Wont happen again. I wouldnt want to do anything to hurt your... "wenus."
+unknown: nan

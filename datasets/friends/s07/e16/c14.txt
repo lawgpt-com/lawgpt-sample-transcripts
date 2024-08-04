@@ -1,0 +1,12 @@
+unknown: nan
+Monica Geller: Honey! Dinner's ready!
+unknown: nan
+Joey Tribbiani: What's my little chef got for me tonight?
+Monica Geller: Your favorite!
+Joey Tribbiani: Ho-ho-ho, fried stuff with cheese!
+Monica Geller: Yep! And lot's of it!
+Joey Tribbiani: Thanks sweetheart. Give me a little sugar here. Okay.
+unknown: nan
+Monica Geller: Okay, in we go.
+unknown: nan
+Joey Tribbiani: Here we go! Here we go! Here we go! How you doin'?

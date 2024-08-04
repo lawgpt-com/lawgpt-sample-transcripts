@@ -1,0 +1,13 @@
+unknown: nan
+Ticket Agent: This is the boarding call for Flight 009.
+Ross Geller: Emily!
+Emily Waltham: Oh my God! What are you doing here?
+Ross Geller: I just, I had to see you one more time before you took-off.
+Emily Waltham: You are so sweet.
+Ross Geller: That's, that's, that's a big candy bar. I had the most amazing time with you.
+Emily Waltham: Me too.
+Ticket Agent: This is the final boarding call for Flight 009.
+Emily Waltham: Well, that' me. Here, have this. I'm only allowed one piece of carryon anyway.
+Ross Geller: Wait uh, listen. I-I, I have to tell you something. Umm, I've been thinking, I'm just gonna come out and say it. Okay? I-I-I ah, I-I think I love you.
+Emily Waltham: Oh. Thank you.
+Ross Geller: That's no problem.

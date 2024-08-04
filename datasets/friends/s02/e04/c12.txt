@@ -1,0 +1,4 @@
+unknown: nan
+Ross Geller: Good morning.
+Old Woman: Well, somebody got some last night.
+Ross Geller: Twice.

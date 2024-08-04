@@ -1,0 +1,24 @@
+unknown: nan
+Mona: Hi!
+Ross Geller: Hey!
+Mona: Hey, I went by the photo shop, take a look, here is a mockup of our card. What do you think?
+Ross Geller: Huh. Wow, this is great.
+Mona: Now, do you think it should say, "Love Ross and Mona?"
+Ross Geller: Well, we-we haven't said that to each other yet, but I guess its okay to say it to other people.
+Mona: How many did you want? I'm getting a hundred.
+Ross Geller: A hundred?! Well, I-I guess I'll take a-Mona, uh...I-I'm not sure about the whole uh, card thing.
+Mona: Really? Why not?
+Ross Geller: Sending out a holiday card, together, I mean I just don't know if we're really quite there yet.
+Mona: Oh y'know, I didn't think of it that way. You're right. You're right. So, can I ask you a question?
+Ross Geller: Yeah.
+Mona: Where are we?
+Ross Geller: Huh.
+Mona: Y'know, like where are we? Where is this relationship going?
+Ross Geller: Hmm...
+Mona: I mean I love spending time with you, y'know I just-I hope we're moving forward. I mean, we should probably talk about that. Don't you think?
+unknown: nan
+Ross Geller: Let's do the card!
+Mona: What?
+Ross Geller: The card! I think we're there!
+Mona: Okay. I-But I think we should still have this conversation.
+Ross Geller: Really?! I mean, even with the card?

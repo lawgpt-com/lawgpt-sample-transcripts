@@ -1,0 +1,4 @@
+unknown: nan
+Monica Geller: Never done that before.
+Chandler Bing: Nope.
+unknown: nan

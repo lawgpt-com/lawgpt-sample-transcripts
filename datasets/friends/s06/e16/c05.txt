@@ -1,0 +1,16 @@
+unknown: nan
+Ross Geller: We're really gonna do this, huh?
+Carol Willick: Looks like it.
+Ross Geller: Y'know, if, if this is too weird for you, we can still back out at...
+Carol Willick: I got it!
+Ross Geller: Okay.
+Carol Willick: Susan! Hi!
+Susan Bunch: Hey!
+Carol Willick: Thank you so much for coming.
+Susan Bunch: Oh, I wouldn't miss it for the world.
+unknown: nan
+Ross Geller: I'm-I'm Ross by the way.
+Susan Bunch: Hello Ross. I love what you've done with this space.
+Carol Willick: Thank you so much.
+unknown: nan
+Ross Geller: How hot is this?!

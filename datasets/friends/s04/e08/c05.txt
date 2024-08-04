@@ -1,0 +1,10 @@
+unknown: nan
+Doctor: I'll be right with you. Okay? Thanks, Wendy.
+Monica Geller: Oh my God! How cute is the on-call doctor?
+Rachel Green: Ooh, so cute, that I'm thinking about jamming this pen in my eye.
+unknown: nan
+Nurse: Dr. Burke will see you know.
+Monica Geller: Oh no-no-no, not Dr. Burke. Dr. Burke is out of town. The-the on-call doctor will see me now.
+Nurse: Dr. Richard Burke is out of town. Dr. Timothy Burke, his son, will see you now.
+Timothy Burke: Ready?
+unknown: nan

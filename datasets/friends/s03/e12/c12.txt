@@ -1,0 +1,10 @@
+unknown: nan
+Phoebe Buffay: Hey!
+Monica Geller: Hey.
+Phoebe Buffay: What are you wrapping?
+Monica Geller: Oh-ho, look what I got Julio.
+Phoebe Buffay: Yeah, it's a vase.
+Monica Geller: Yeah, just like the one in the poem.
+Phoebe Buffay: Well not exactly like the one in the poem.
+Monica Geller: What do you mean?
+Phoebe Buffay: Remember how you said you were really dense about poetry? Oh.

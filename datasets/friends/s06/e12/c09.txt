@@ -1,0 +1,17 @@
+unknown: nan
+Rachel Green: Phoebe. We would like to talk to you for a second.
+Phoebe Buffay: Okay.
+Monica Geller: So, maybe I am a little high maintenance. And maybe Rachel is a little bit of a pushover. But you know what we decided you are?
+Rachel Green: Yes, we are very sorry to tell you this, but you, Phoebe, are flaky.
+Monica Geller: Hah!
+Phoebe Buffay: That true, I am flaky.
+Rachel Green: So, what, you're just, you're just okay with being flaky?
+Phoebe Buffay: Yeah, totally.
+Monica Geller: Well, then, I'm okay with being high maintenance.
+Rachel Green: Yeah, and I am okay with being a pushover.
+Phoebe Buffay: That's great. Good for you guys.
+Monica Geller: I am not high maintenance!
+Rachel Green: I am not a pushover!
+Phoebe Buffay: Who said you were?
+Monica Geller: You did!
+Phoebe Buffay: Oh, I'm flaky. I'll say anything.

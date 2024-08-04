@@ -1,0 +1,5 @@
+unknown: nan
+unknown: nan
+Joey Tribbiani: Is that the fire alarm?
+Chandler Bing: Yeah. Oh it's not warm yet, we still have time.
+Joey Tribbiani: Cool.

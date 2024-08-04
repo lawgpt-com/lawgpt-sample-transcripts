@@ -1,0 +1,15 @@
+unknown: nan
+Cheryl: So you want to come inside?
+Ross Geller: Yes. Yes I do.
+Cheryl: I'll be right back. Make yourself comfortable.
+Cheryl: Guess who?
+Ross Geller: Department of Sanitation?
+Cheryl: It's me!
+Ross Geller: Oh! Ah. Aw!
+Cheryl: What?
+Ross Geller: Ah, Cheryl!
+Cheryl: Oh, Ross!
+unknown: nan
+Cheryl: Wait! No! No! It's my hamster! It's Mitzi!
+Ross Geller: Oh my god! I'm so sorry, Cheryl. I must have freaked out.
+Cheryl: Oh, thank god, it's not Mitzi. It's just a rat.

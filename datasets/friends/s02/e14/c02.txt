@@ -1,0 +1,25 @@
+unknown: nan
+Interviewer: Well, this all looks good.
+Monica Geller: Great.
+Interviewer: And if I want to call for a reference on your last job?
+Monica Geller: Oh, that's there on the bottom, see the manager, Chandler Bing.
+Interviewer: Alright, lets see if you're as good in person as you are on paper. Make me a salad.
+Monica Geller: A salad? Really I, I could do something a little more complicated if you like.
+Interviewer: No, just a salad will be fine.
+Monica Geller: You got it.
+Interviewer: Now, I want you to tell me what you're doing while you're doing it.
+Monica Geller: Alright, well I'm tearing the lettuce.
+Interviewer: Uh-huh. Is it dirty?
+Monica Geller: Oh-oh, no no don't worry, I'm gonna wash it.
+Interviewer: Don't, I like it dirty.
+Monica Geller: That's your call.
+Interviewer: So, uh, what are you going to do next?
+Monica Geller: Well, I thought that I would cut up the tomatos.
+Interviewer: Are they, uh, firm?
+Monica Geller: They'r alright.
+Interviewer: You sure they haven't gone bad? You're sure they're not very, very bad?
+Monica Geller: No really, they're OK.
+Interviewer: You gonna slice them up real nice?
+Monica Geller: Actually, I was gonna do them jullienne.
+Interviewer: Aaaahhhhhhh.
+Monica Geller: I'm outa here.

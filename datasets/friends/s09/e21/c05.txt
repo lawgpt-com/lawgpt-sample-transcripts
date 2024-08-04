@@ -1,0 +1,20 @@
+unknown: nan
+Rachel Green: Hi there!
+Receptionist: Hello, welcome to Lavender Day Spa SPA. How may I help you?
+Rachel Green: Oh, hi. I have a massage appointment under Rachel Green, and here is my gift certificate.
+Receptionist: This has been torn up.
+Rachel Green: And... taped back together.
+Receptionist: Ok well, I'll call you as soon as your massage therapist is ready.
+Rachel Green: Ok.
+Receptionist: Have a seat through the glass doors.
+Rachel Green: through the glass doors.
+Receptionist: Through the glass doors.
+Rachel Green: Alright-y then.
+Receptionist: Phoebe, your next client's in the waiting room.
+Phoebe Buffay: Ok. Do we have to talk like that then they're not around? Oh, no, no! Listen, is there someone who can fill in for me?
+Receptionist: Sorry, everyone is booked!
+Phoebe Buffay: But that woman can't know I work here. She's a friend of mine and I made this big stink about how awful this massage chains are.
+Receptionist: Then why you work here?
+Phoebe Buffay: 'Cause it's good money! But that doesn't change the fact that this is an evil blood sucking corporate machine!
+Receptionist: Well, I think this is a great place to work!
+Phoebe Buffay: Ok, are they listening?

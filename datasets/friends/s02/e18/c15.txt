@@ -1,0 +1,9 @@
+unknown: nan
+unknown: nan
+Ross Geller: Hey.
+Richard Burke: Hey.
+Ross Geller: Hey.
+Richard Burke: Ohh, brisk tonight.
+Ross Geller: Oh man.
+Richard Burke: Let's never speak of this.
+Ross Geller: You got it.

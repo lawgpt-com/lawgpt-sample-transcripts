@@ -1,0 +1,4 @@
+unknown: nan
+Chandler Bing: Oh my God!
+Monica Geller: I know! I'll tell you something, we are gonna do that again!
+Chandler Bing: Oh, okay!

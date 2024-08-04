@@ -1,0 +1,25 @@
+unknown: nan
+Monica Geller: Hey. Call me when you get there. Okay?
+Rachel Green: Okay.
+Monica Geller: I'm really gonna miss you.
+unknown: nan
+Rachel Green: Oh! I have your key. Here you go.
+Monica Geller: Thanks.
+Rachel Green: Yeah.
+unknown: nan
+Rachel Green: Oh God! This is silly, I'm gonna see you in a couple of hours!
+Monica Geller: Yeah.
+Rachel Green: Bye house!
+unknown: nan
+Rachel Green: Bye Mon.
+Monica Geller: Bye.
+unknown: nan
+Chandler Bing: Hey.
+Monica Geller: She really left.
+Chandler Bing: I know.
+Monica Geller: Thank you.
+Chandler Bing: No problem roomie.
+Monica Geller: Can I ask you a question?
+Chandler Bing: Sure!
+Monica Geller: What the hell is that dog doing here?!
+unknown: nan

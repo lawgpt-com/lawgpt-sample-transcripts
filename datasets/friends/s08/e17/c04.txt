@@ -1,0 +1,6 @@
+unknown: nan
+Phoebe Buffay: Oh hello.
+Guy: Oh, it's you. I see you everywhere. I'm Jim, Jim Nelson.
+Phoebe Buffay: Oh Jim, Jim Nelson I'm Phoebe, Phoebe Buffay. We certainly have been seeing a lot of each other lately.
+Jim: We have. Maybe we'll be seeing each other at dinner tomorrow night, say around 8 o'clock?
+Phoebe Buffay: Well, maybe we will. Oh!

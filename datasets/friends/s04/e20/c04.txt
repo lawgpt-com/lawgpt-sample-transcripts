@@ -1,0 +1,18 @@
+unknown: nan
+Monica Geller: Oh my God! Ohh! Look at this one! It's so beautiful!
+Phoebe Buffay: Yeah, but y'know, about have of these are gonna end up getting divorced.
+The Saleslady: May I help you ladies?
+Monica Geller: Oh, yes, umm, I'm here to pick up a dress that you have on hold.
+The Saleslady: Yes, what's the name, please?
+Monica Geller: Emily Waltham.
+The Saleslady: Yes! I have it right here. Would you like to try it on Ms. Waltham?
+Monica Geller: Okay.
+unknown: nan
+Phoebe Buffay: You're the most beautiful bride I've ever seen.
+Monica Geller: I am, aren't I?
+The Saleslady: Ms. Waltham?
+Monica Geller: Yes?
+The Saleslady: We're closing.
+Monica Geller: All right.
+The Saleslady: And could I get my ring back?
+unknown: nan

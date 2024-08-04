@@ -1,0 +1,12 @@
+unknown: nan
+Ross Geller: I'd like to return this couch. I'm not satisfied with it.
+unknown: nan
+The Saleswoman: You wanna return this couch? It's cut in half!
+Ross Geller: That's what I'm telling you.
+The Saleswoman: Did you cut this couch in half?
+Ross Geller: This couch, is cut in half! I would like to exchange it for one that is not cut in half!
+The Saleswoman: You're telling me this couch was delivered to you like this?!
+Ross Geller: Look, I am a reasonable man. I will accept store credit.
+The Saleswoman: I'll give you store credit in the amount of four dollars.
+Ross Geller: I take it.
+unknown: nan

@@ -1,0 +1,17 @@
+unknown: nan
+Chandler Bing: Hi, could we get two burritos to go, please?
+Monica Geller: I'm sorry. But not that sorry, 'cause you don't have to live with it. Um, we have a reservation under the name Chandler Bing.
+Maitre D': Oh-kay, we'll have a table for you in about 45 minutes.
+Chandler Bing: Forty-five minutes? We have tickets to the Musicman at 8:00.
+Maitre D': I'm sorry. Christmas is a very busy time, sir.
+Chandler Bing: Is this because of the burrito thing?
+Monica Geller: You need to give him money.
+Chandler Bing: Give him money? It was a joke!
+Monica Geller: No, to get a table! Places like are always shakin' you down. Everybody wants to be paid off.
+Chandler Bing: Right, calm down, O'Mally. I'll slip him some money.
+Monica Geller: You've got to be smooth about it.
+Chandler Bing: Hey, I can be smooth. Listen, we're a little bit in a hurry, so, if you can get us a table a little quicker, I'd appreciate it.
+Maitre D': Of course, sir.
+Chandler Bing: Okay.
+Monica Geller: How did it go?
+Chandler Bing: Had the money in the wrong hand.

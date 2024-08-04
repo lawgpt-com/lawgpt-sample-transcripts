@@ -1,0 +1,11 @@
+unknown: nan
+Monica Geller: Let go!
+Ross Geller: No! You let go!
+Monica Geller: No!
+Ross Geller: How come it's always us left in the field holding the ball?
+Monica Geller: I don't know. I guess the other people just don't care enough.
+unknown: nan
+Ross Geller: Hey! It's starting to snow.
+unknown: nan
+Ross Geller: Gimme the this!
+Monica Geller: Let go!

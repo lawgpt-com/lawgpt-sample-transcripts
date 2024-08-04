@@ -1,0 +1,6 @@
+unknown: nan
+Chandler Bing: Well okay Jerry, thanks for stopping by.
+unknown: nan
+Monica Geller: Hi.
+Joey Tribbiani: Hey!
+unknown: nan

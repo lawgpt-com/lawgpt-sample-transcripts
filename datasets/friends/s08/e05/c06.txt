@@ -1,0 +1,20 @@
+unknown: nan
+Chandler Bing: Hey Bob.
+Bob (Chandler's coworker): Hey! How's my pal Toby doing today?
+Chandler Bing: If I see him, I'll ask.
+Bob (Chandler's coworker): Toby!
+unknown: nan
+Mr. Franklin: Hey-hey! Bing? Was that Bob from six you were just talking too?
+Chandler Bing: Yeah!
+Mr. Franklin: Oh then you know each other.
+Chandler Bing: We're on a semi-first name basis.
+Mr. Franklin: What do you think of adding him to our team?
+Chandler Bing: Bob? Ooh, working here with us? Everyday? Yeah, I don't know if he has what it takes.
+Mr. Franklin: Really? They love him down on six.
+Chandler Bing: But this is eleven. It's almost twice as hard up here.
+Mr. Franklin: Okay, I hear you loud and clear. Bob will stay put.
+Chandler Bing: I think it's best sir.
+Mr. Franklin: But we really do need to find someone up here. The work is starting to pile up. I've got a stack of documents on my desk this high.
+Chandler Bing: Y'know what you should do, just toss 'em in the shedder and claim you never got 'em.
+Mr. Franklin: That's a good one.
+Chandler Bing: What does a guy have to do to be taken seriously around here?!

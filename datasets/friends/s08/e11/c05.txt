@@ -1,0 +1,21 @@
+unknown: nan
+Nurse: Hi!
+Rachel Green: Hi!
+Nurse: Just so you know, Dr. Long can't be here today, she was called to the hospital, so Dr. Schiff will be seeing you.
+Rachel Green: Oh, okay. Hey, can I ask you a question? Was it me, or-or was the guy who took my blood sample really cute? Y'know who I'm talking about, bald haircut, hairy fingers...
+Dr. Schiff: Hi Rachel? I'm Dr. Schiff.
+Rachel Green: Yes, you are.
+Dr. Schiff: So, how's it going?
+Rachel Green: Oh, really, really good. But enough about me, come on! Where-where are you from? What do you do?
+Dr. Schiff: I'm a doctor.
+Rachel Green: Right! Right! I-I actually meant in your spare time, do you cook? Do you ski? Or do you just hang out with your wife or girlfriend?
+Dr. Schiff: Uh, I don't have a wife or girlfriend, but I do like to ski.
+Rachel Green: Oh, I love to ski! How amazing is this?!
+Dr. Schiff: So, are you experiencing any discomfort?
+Rachel Green: No. I'm very comfortable.
+Dr. Schiff: Any painful gas?
+Rachel Green: No! Shoot, Dr. Schiff what kind of question is that?!
+Dr. Schiff: Okay then, would you like to lie down on the table?
+Rachel Green: Well would you like me to lie down on the table?
+Dr. Schiff: I'm sorry, is there something going on here?
+Rachel Green: Do you feel it too?

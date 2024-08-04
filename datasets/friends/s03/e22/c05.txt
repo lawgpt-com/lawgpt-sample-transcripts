@@ -1,0 +1,11 @@
+unknown: nan
+Monica Geller: Hey!
+Rachel Green: Hey!
+Phoebe Buffay: Oh, is the play over?
+Monica Geller: Yeah. Where were you?
+Hold Voice: Thank you for your patience, you're the next caller.
+Monica Geller: You were the next caller five hours ago. You must be going crazy.
+Phoebe Buffay: Nah. I kept myself busy.
+unknown: nan
+Phoebe Buffay: Oh, okay, yeah. I put your stuff in her room, and her stuff in your room.
+unknown: nan

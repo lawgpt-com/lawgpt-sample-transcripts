@@ -1,0 +1,42 @@
+unknown: nan
+Monica Geller: You guys! Do you realize that any minute now, Phoebe can be pregnant?
+Joey Tribbiani: Huh.
+Rachel Green: I know! I know, it's such a huge, life-altering thing.
+Joey Tribbiani: I know.
+unknown: nan
+Ross Geller: The test is ready.
+#ALL#: Yeah! Yes!
+Ross Geller: Okay, each team will answer ten questions. The first team that answers the most questions wins. Okay, the categories are, Fears and Pet Peeves, Ancient History, Literature, and It's All Relative. Now, the coin toss to see who goes first. Okay, somebody call it this time.
+#ALL#: Oh yeah!
+unknown: nan
+Rachel Green: Tails!
+Ross Geller: It's heads. Gentlemen, pick your category.
+Chandler Bing: Fears and Pet Peeves.
+Ross Geller: What is Monica's biggest pet peeve?
+Joey Tribbiani: Animals dressed as humans.
+Ross Geller: That's correct. Ladies?
+Monica Geller: Same category?
+Ross Geller: According to Chandler, what phenomenon scares the bejeezus out of him?
+Monica Geller: Michael Flatley, Lord of the Dance!
+Ross Geller: That is correct.
+Joey Tribbiani: The Irish gig guy?!
+Chandler Bing: His legs flail about as if independent of his body!
+Ross Geller: Gentlemen, you're pick.
+Joey Tribbiani: It's All Relative.
+Ross Geller: Monica and I have a grandmother who died, you both went to her funeral, name that grandmother!
+Joey Tribbiani: Nana?
+Chandler Bing: She has a real name.
+Joey Tribbiani: Althea!
+Chandler Bing: Althea?! What are you doing?!
+Joey Tribbiani: I took a shot.
+Chandler Bing: You're shooting with Althea?!
+Ross Geller: Althea is correct.
+Chandler Bing: Nice shooting!
+unknown: nan
+Rachel Green: We'll take Literature!!
+Ross Geller: Every week, the TV Guide comes to Chandler and Joey's apartment. What name appears on the address label?
+Rachel Green: Chandler gets it! It's Chandler Bing!
+Monica Geller: No!!
+Ross Geller: I'm afraid the TV Guide comes to Chinandolor Bong.
+Monica Geller: I knew that! Rachel! Use you're head!
+Chandler Bing: Actually, it's Miss Chinandolor Bong.

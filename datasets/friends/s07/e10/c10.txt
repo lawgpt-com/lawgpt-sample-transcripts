@@ -1,0 +1,8 @@
+unknown: nan
+Ross Geller: Hey!
+Salesman: Hello, Sir. You're here to return those pants?
+Ross Geller: No, these are my pants.
+Salesman: Oh. Okay! How can I help you?
+Ross Geller: Well, uh, do you have a Santa-outfit left?
+Salesman: Two days before Christmas? Sorry, man.
+Ross Geller: Okay look, do-do, you have anything Christmassy? I promised my son, and I really don't want to disappoint him, um, come on, I...uh, you gotta have something.

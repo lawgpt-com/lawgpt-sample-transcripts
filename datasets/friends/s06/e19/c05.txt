@@ -1,0 +1,19 @@
+unknown: nan
+Elizabeth Stevens: Professor Geller?
+Ross Geller: Hmm? Oh, a student I don't know.
+Elizabeth Stevens: I was wondering if I could talk to you for a moment?
+Ross Geller: Yes, yes of course, what-what would this be regarding?
+Elizabeth Stevens: Making out in your office.
+Ross Geller: Shh! Of course, why don't we go inside?
+unknown: nan
+Ross Geller: Oh-ooh!
+Elizabeth Stevens: What?
+Ross Geller: Doorknob! Doorknob!
+Elizabeth Stevens: Oh! Sorry! Umm, I actually do need to talk to you.
+Ross Geller: Oh, okay. What-what about?
+Elizabeth Stevens: Spring vacation.
+Ross Geller: Spring vacation.
+Elizabeth Stevens: Yeah, we have time off and a lot of people are going on trips...
+unknown: nan
+Professor Feesen: Professor Geller!
+Ross Geller: Yes, professor Feesen-sen-stenlger... I'll be with you in one moment. So, I will take one box of the Thin Mints.

@@ -1,0 +1,13 @@
+unknown: nan
+Ross Geller: Nice luggage.
+Carol Willick: I was gonna say...
+unknown: nan
+Susan Bunch: Hey!
+unknown: nan
+Ross Geller: Hi!
+Emily Waltham: Hey! I missed you.
+Ross Geller: Oh, I missed you too.
+Susan Bunch: Thanks for everything, I had such a great time.
+Emily Waltham: Oh, so did I.
+unknown: nan
+Ross Geller: No tongue.

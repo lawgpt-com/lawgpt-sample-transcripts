@@ -1,0 +1,22 @@
+unknown: nan
+Sleep Clinic Worker: Your name, please?
+Joey Tribbiani: Joey Tribbiani.
+Sleep Clinic Worker: Um-hmm, and did you stay up all night in preparation for your sleep study. Uh, sir?
+Chandler Bing: Yes he did.
+Sleep Clinic Worker: Alll right, we'll call you in a few minutes.
+unknown: nan
+Chandler Bing: Hey, check out that girl! She is really hot!
+Joey Tribbiani: Yeah, she is. Wow! How you doin'?
+unknown: nan
+Joey Tribbiani: What?!
+Chandler Bing: You're coming on to the entire room! I'm Chandler.
+Woman: I'm Marjorie.
+Chandler Bing: Hi.
+Marjorie: Hi.
+Chandler Bing: You mind if I...
+Marjorie: No, please.
+unknown: nan
+Chandler Bing: So uh, what are you in for?
+Marjorie: I talk in my sleep.
+Chandler Bing: What a coincidence, I listen in my sleep.
+Joey Tribbiani: So why don't you give me your number?

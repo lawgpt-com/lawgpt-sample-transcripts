@@ -1,0 +1,9 @@
+unknown: nan
+unknown: nan
+Chandler Bing: Dude, it's Chandler. Let me in.
+Ross Geller: Go away! I don't want to see anybody.
+Chandler Bing: I know, I went to the tanning place and the same thing happened to me. You have to let me in.
+Ross Geller: Really? Did you count Mississipily?
+Ross Geller: Dude, you're not tanned.
+Chandler Bing: No, I just had to get a picture of this.
+Chandler Bing: I see you later! end.

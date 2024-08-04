@@ -1,0 +1,7 @@
+unknown: nan
+Rachel Green: Hi, my name is Rachel Green, I have an appointment for Emma.
+Receptionist: Dr. Gettleman is finishing up with a patient, he should be out shortly.
+Dr. Gettleman: I think you just have a cold, it's definitely not Strep.
+Ross Geller: Thanks doctor.
+Dr. Gettleman: Would you like a lollypop?
+Ross Geller: You even have to ask?! He is alive!

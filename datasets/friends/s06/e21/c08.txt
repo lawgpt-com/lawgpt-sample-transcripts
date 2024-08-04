@@ -1,0 +1,4 @@
+unknown: nan
+Ross Geller: Joey?!
+Paul Stevens: Hi Ross.
+Rachel Green: I was just getting him to like you.

@@ -1,0 +1,16 @@
+unknown: nan
+Ursula Buffay: Who is it?
+Phoebe Buffay: It's Phoebe.
+Ursula Buffay: Oh great! Oh, you. Umm, what's up?
+Phoebe Buffay: Umm, well I sorta have some bad news, can I come in?
+Ursula Buffay: Umm, yeah-no thanks.
+Phoebe Buffay: Umm, well, umm Grandma died.
+Ursula Buffay: Wow! Didn't she die like five years ago?
+Phoebe Buffay: No, she just died today! Okay, umm, we're having a memorial service tomorrow.
+Ursula Buffay: Okay, I know that I went to that all ready.
+Phoebe Buffay: No you didn't!
+Ursula Buffay: Well, then who's been dead for five years?
+Phoebe Buffay: Well, lots of people! Look, are you coming to memorial service or not?
+Ursula Buffay: Umm, no. See I already thought she was dead so I kinda made my peace with it. Plus, I'm going to a concert tomorrow. So... I'd invite you, but umm, I only have two tickets left.
+Phoebe Buffay: Fine. Okay, enjoy your concert.
+Ursula Buffay: Thanks! Enjoy your funeral.

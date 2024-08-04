@@ -1,0 +1,17 @@
+unknown: nan
+Mona: Ross?
+Ross Geller: Yeah?
+Mona: Hey it's Mona! From the wedding.
+Ross Geller: Oh hi!
+Mona: Hi!
+Ross Geller: Wow! Uh...how are you?
+Mona: I'm good except umm, you still owe me a dance.
+Ross Geller: Oh that's right. Well uh, would you be interested in seeing a Ukrainian film?
+Mona: Oh you're serious. Sure!
+Ross Geller: Great! Well umm...
+unknown: nan
+Mona: I think I might need one more cup of coffee.
+Ross Geller: Sure! Uh, let me get it for ya.
+Mona: Okay.
+unknown: nan
+unknown: nan

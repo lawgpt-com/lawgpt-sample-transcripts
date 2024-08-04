@@ -1,0 +1,14 @@
+unknown: nan
+Monica Geller: Nice jeans!
+Brenda: Oh thanks! I like your top.
+Monica Geller: Oh. You're not gettin' it.
+unknown: nan
+Brenda: What happened?!
+Monica Geller: Oh, I fell asleep.
+Brenda: I was thinking about taking my lunch break.
+Monica Geller: Oh, will you do the top of the cabinets? That'll really work up your appetite for lunch.
+Brenda: All right.
+unknown: nan
+Monica Geller: Hello.
+Brenda: What's going on?!
+Monica Geller: I'm sorry. I've never had a maid before, is this not okay?

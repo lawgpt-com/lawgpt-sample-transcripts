@@ -1,0 +1,40 @@
+unknown: nan
+Phoebe Buffay: Oh hey Joey! What's up?
+Joey Tribbiani: I can't decide which route to take to Vegas. Hey, you've traveled a lot right?
+Phoebe Buffay: Yeah, I've been around.
+Joey Tribbiani: Okay, so-so which route should I take the northern route or the southern route?
+Phoebe Buffay: Ooh, if you take the northern route there's a man in Illinois with a beard of bees. {Okay, I must protest this, I've lived in Illinois all my life and know of no man with a beard of bees! Wisconsin, on the other hand, might be a different story.}
+Joey Tribbiani: Great! Problem solved!
+Phoebe Buffay: But on the southern route there's a chicken that plays tic-tac-toe.
+Joey Tribbiani: Well, back to square one.
+Phoebe Buffay: Oh, I know a way that you can decide! All right, I'm going to ask you a series of questions and you answer as quickly as you can.
+Joey Tribbiani: Yes!
+Phoebe Buffay: Good, but wait. Okay, all right, here we go. Now I want you to relax. Take a deep breath. Clear your mind. Which do you like better peanut butter or egg whites?
+Joey Tribbiani: Peanut butter!
+Phoebe Buffay: Which would you rather be a fireman or a swimmer?
+Joey Tribbiani: A swimmer!
+Phoebe Buffay: Who would you rather sleep with Monica or Rachel?
+Joey Tribbiani: Monica. Oh... huh, I always thought it would be Rachel.
+Phoebe Buffay: No thinking! No thinking! Tie or ascot?
+Joey Tribbiani: Ascot!
+Phoebe Buffay: North route or south route?
+Joey Tribbiani: North route!
+Phoebe Buffay: Bamn! There you go! Huh?
+Joey Tribbiani: Wow! That was incredible! Beard of bees, here I come!
+Ross Geller: Hey!
+Phoebe Buffay: Oh, this guy again.
+Joey Tribbiani: Hey man, what's up?
+Ross Geller: Uhh, not much. You guys want to see a movie tonight?
+Joey Tribbiani: Sure, what do you want to see?
+Ross Geller: I don't know, umm...
+Joey Tribbiani: Oh, I know how we can decide. Phoebe, show him your game!
+Phoebe Buffay: Umm, no thank you.
+Ross Geller: What's with her?
+Joey Tribbiani: I don't know. But hey, I know we can decide. Okay, I'm gonna ask you questions and you answer real quick. Okay?
+Ross Geller: Okay.
+Joey Tribbiani: What do you like better action or comedy?
+Ross Geller: Action.
+Joey Tribbiani: Who would you rather sleep with Monica or Rachel?
+unknown: nan
+Ross Geller: Dude, you are sick.
+Joey Tribbiani: Oh, I'm sorry. I forgot you had that whole Rachel thing.
