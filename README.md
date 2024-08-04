@@ -1,2 +1,2 @@
-# friends-transcripts
-Repository with several transcripts from the series Friends
+# sample-transcripts
+Repository with several transcripts for LawGPT conversation purposes.
