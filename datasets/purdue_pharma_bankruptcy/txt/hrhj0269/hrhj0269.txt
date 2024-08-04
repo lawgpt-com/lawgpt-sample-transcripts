@@ -1,0 +1,13644 @@
+Page 1
+1
+
+UNITED STATES BANKRUPTCY COURT
+
+2
+
+SOUTHERN DISTRICT OF NEW YORK
+
+3
+
+Case No. 19-23649-rdd
+
+4
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - x
+
+5
+
+In the Matter of:
+
+6
+7
+
+PURDUE PHARMA L.P.,
+
+8
+9
+10
+
+Debtor.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - x
+
+11
+
+United States Bankruptcy Court
+
+12
+
+Tele/Video Proceedings
+
+13
+
+300 Quarropas Street, Room 248
+
+14
+
+White Plains, NY 10601
+
+15
+16
+
+August 27, 2021
+
+17
+
+10:03 AM
+
+18
+19
+20
+21
+
+B E F O R E :
+
+22
+
+HON ROBERT D. DRAIN
+
+23
+
+U.S. BANKRUPTCY JUDGE
+
+24
+25
+
+ECRO: JUSTIN WALKER
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 2
+1
+
+HEARING re Continuance of Confirmation Hearing
+
+2
+3
+
+HEARING re Notice of Adjournment of Hearing on Motion to
+
+4
+
+Authorize Key Employee Incentive Plan, Trust Authorization
+
+5
+
+Motion and Protective Order Motion (related
+
+6
+
+document(s)3077, 3137, 3484, 3486, 3485, 3077) with hearing
+
+7
+
+to be held on 9/13/2021 at 10:00 AM
+
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Transcribed by:
+
+212-267-6868
+
+Sonya Ledanski Hyde
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 3
+1
+
+A P P E A R A N C E S :
+
+2
+3
+
+DAVIS POLK WARDWELL LLP
+
+4
+
+Attorney for Debtors
+
+5
+
+450 Lexington Avenue
+
+6
+
+New York, NY 10017
+
+7
+8
+
+BY:
+
+9
+
+MARSHALL SCOTT HUEBNER (TELEPHONICALLY)
+ELI J. VONNEGUT (TELEPHONICALLY)
+
+10
+
+BENJAMIN S. KAMINETZKY (TELEPHONICALLY)
+
+11
+12
+
+MILBANK, TWEED, HADLEY & MCCLOY LLP
+
+13
+
+Attorneys for the Raymond Sackler Family
+
+14
+
+55 Hudson Yards
+
+15
+
+New York, NY 10001
+
+16
+17
+
+BY:
+
+GERARD UZZI (TELEPHONICALLY)
+
+18
+19
+
+US ATTORNEY'S OFFICE
+
+20
+
+86 Chambers Street, 3rd Floor
+
+21
+
+New York, NY 10007
+
+22
+23
+
+BY:
+
+LAWRENCE FOGELMAN (TELEPHONICALLY)
+
+24
+25
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 4
+1
+
+UNITED STATES DEPARTMENT OF JUSTICE
+
+2
+
+Attorneys for the U.S. Trustee
+
+3
+
+201 Varick Street, Suite 1006
+
+4
+
+New York, NY 10014
+
+5
+6
+
+BY:
+
+PAUL SCHWARTZBERG (TELEPHONICALLY)
+
+7
+8
+
+PILLSBURY WINTHROP SHAW PITTMAN LLP
+
+9
+
+Attorneys for Ad Hoc Group of Non-Consenting States
+
+10
+
+31 West 52nd Street
+
+11
+
+New York, NY 10019
+
+12
+13
+
+BY:
+
+ANDREW M. TROOP (TELEPHONICALLY)
+
+14
+15
+
+OFFICE OF THE ATTORNEY GENERAL - STATE OF MARYLAND
+
+16
+
+Attorney for State of Maryland
+
+17
+
+200 Saint Paul Place
+
+18
+
+Baltimore, MD 20852
+
+19
+20
+
+BY:
+
+BRIAN EDMUNDS (TELEPHONICALLY)
+
+21
+22
+23
+24
+25
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 5
+1
+
+LEVENFELD PEARLSTEIN, LLC
+
+2
+
+Attorneys for Ad Hoc Group of NAS Babies
+
+3
+
+2 North LaSalle, Suite 1300
+
+4
+
+Chicago, IL 60602
+
+5
+6
+
+BY:
+
+HAROLD D. ISRAEL
+
+7
+8
+9
+
+KRAMER LEVIN NAFTALIS & FRANKEL LLP
+Attorneys for
+
+10
+
+1177 Avenue of the Americas
+
+11
+
+New York, NY 10036
+
+12
+13
+
+BY: KENNETH H. ECKSTEIN
+
+14
+15
+
+ALSO PRESENT TELEPHONICALLY:
+
+16
+
+ROXANA ALEALI
+
+17
+
+ANDREW VINCENT ALFANO
+
+18
+
+PHILIP D. ANKER
+
+19
+
+MICHAEL ATINSON
+
+20
+
+MITCHELL JAY AUSLANDER
+
+21
+
+PRIYA BARANPURIA
+
+22
+
+DAVID E. BLABEY
+
+23
+
+LOUIS BOGRAD
+
+24
+
+SARA BRAUNER
+
+25
+
+GARY BRESSLER
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 6
+1
+
+DAVID BROWN
+
+2
+
+GABE BRUNSWICK
+
+3
+
+AARON R CAHN
+
+4
+
+MARK CHALOS
+
+5
+
+GERARD CICERO
+
+6
+
+HAYDEN COLEMAN
+
+7
+
+DANIEL CONNOLLY
+
+8
+
+HAYDEN COLEMAN
+
+9
+
+DYLAN CONSLA
+
+10
+
+ABBY G. CUNNINGHAM
+
+11
+
+MARIO D’ANGELO
+
+12
+
+PETER C. D’APICE
+
+13
+
+STACY DASARO
+
+14
+
+JOSEPH G. DAVIS
+
+15
+
+MARK DEARMAN
+
+16
+
+CLINT DOCKEN
+
+17
+
+JOHN C. DOUGHERTY
+
+18
+
+JOHN DUBEL
+
+19
+
+STEPHANIE EBERHARDT
+
+20
+
+KENNETH H. ECKSTEIN
+
+21
+
+BERNARD ARDAVAN ESKANDARI
+
+22
+
+MATHEW FARRELL
+
+23
+
+LAURA FEMINO
+
+24
+
+ROBERT FINZI
+
+25
+
+MATTHEW FITZSIMMONS
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 7
+1
+
+HEATHER FRAZIER
+
+2
+
+BRYCE L. FRIEDMAN
+
+3
+
+KATHERINE N. GALLE
+
+4
+
+CAROLINE GANGE
+
+5
+
+GILL GELDREICH
+
+6
+
+MELISSA GIBSON
+
+7
+
+MAGALI GIDDENS
+
+8
+
+SCOTT GILBERT
+
+9
+
+JEFFREY R. GLEIT
+
+10
+
+MATTHEW J. GOLD
+
+11
+
+MICHAEL GOLDSTEIN
+
+12
+
+GEOFFREY S. GOODMAN
+
+13
+
+ISLEY MARKMAN GOSTIN
+
+14
+
+GARY GOTTO
+
+15
+
+JARED T. GREEN
+
+16
+
+JAMES S. GREEN, JR.
+
+17
+
+DEBORAH GREENSPAN
+
+18
+
+EMILY GRIM
+
+19
+
+JOHN GUARD
+
+20
+
+ADAM P. HABERKORN
+
+21
+
+CATHERINE BEIDERMAN HEITZENRATER
+
+22
+
+ANGELA K. HERRING
+
+23
+
+MICHELE HIRSHMAN
+
+24
+
+JENNA A. HUDSON
+
+25
+
+TIMOTHY J. HURLEY
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 8
+1
+
+MITCHELL HURLEY
+
+2
+
+ELISA HYDER
+
+3
+
+LINDA IMES
+
+4
+
+MARK S. INDELICATO
+
+5
+
+SAMUEL ISSACHAROFF
+
+6
+
+EVAN JONES
+
+7
+
+EVAN M. JONES
+
+8
+
+GREGORY JOSEPH
+
+9
+
+ETHAN KAMINETZKY
+
+10
+
+NICKOLAS KARAVOLAS
+
+11
+
+NEIL FX KELLY
+
+12
+
+KAREN KENNEDY
+
+13
+
+MARC KESSELMAN
+
+14
+
+DARREN S. KLEIN
+
+15
+
+JEREMY C. KLEINMAN
+
+16
+
+LAWRENCE KOTLER
+
+17
+
+ANN KRAMER
+
+18
+
+ALEXANDER LEES
+
+19
+
+DANIEL LENNARD
+
+20
+
+MARA LEVENTHAL
+
+21
+
+DANIELLE J. LEVINE
+
+22
+
+JEFFREY LIESENMER
+
+23
+
+EDAN LISOVICZ
+
+24
+
+JOHN LONGMIRE
+
+25
+
+JOHN LOWNE
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 9
+1
+
+ROBERT MACKENZIE
+
+2
+
+KEVIN MACLAY
+
+3
+
+ROBERT MARSTERS
+
+4
+
+BRIAN S. MASUMOTO
+
+5
+
+DOUGLAS KIRK MAYER
+
+6
+
+JAMES I. MCCLAMMY
+
+7
+
+LAURA MCCLOUD
+
+8
+
+HUGH M. MCDONALD
+
+9
+
+SHANNON M. MCNULTY
+
+10
+
+MICHELE MEISES
+
+11
+
+LIVY MEZEI
+
+12
+
+NATHANIEL MILLER
+
+13
+
+JONATHAN E. MITNICK
+
+14
+
+DAVID MOLTON
+
+15
+
+MAURA KATHLEEN MONAGHAN
+
+16
+
+AMANDA MORALES
+
+17
+
+ANDREW J. MUHA
+
+18
+
+AISLING MURRAY
+
+19
+
+EDWARD E. NEIGER
+
+20
+
+NATHALIE E. NIEVES
+
+21
+
+MICHAEL PATRICK O’NEIL
+
+22
+
+THOMAS ROBINSON O’NEILL
+
+23
+
+DAMIAN O’SULLIVAN
+
+24
+
+RACHEL R. OBALDO
+
+25
+
+JAMES FRANKLIN OZMENT
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 10
+1
+
+JENNIFER PEACOCK
+
+2
+
+MARK PLEVIN
+
+3
+
+STEPHEN POHL
+
+4
+
+KATHERINE PORTER
+
+5
+
+ARIK PREIS
+
+6
+
+DOUGLASS PRESS
+
+7
+
+NICHOLAS PREY
+
+8
+
+MICHELE PULGGARI
+
+9
+
+KAMI QUINN
+
+10
+
+MARION QUIRK
+
+11
+
+CHRISTINA RICARTE
+
+12
+
+JOSEPH RICE
+
+13
+
+RACHAEL RINGER
+
+14
+
+CHRISTOPHER ROBERTSON
+
+15
+
+JEFFREY J. ROSEN
+
+16
+
+JORDAN ROSENBAUM
+
+17
+
+PAUL S. ROTHSTEIN
+
+18
+
+JASON RUBINSTEIN
+
+19
+
+MEGAN PARIS RUNDLET
+
+20
+
+WILLIAM T. RUSSELL
+
+21
+
+JEREMEY RYAN
+
+22
+
+JAMES SALWEN
+
+23
+
+DANIEL JOSEPH SAVAL
+
+24
+
+SETH SCHINFELD
+
+25
+
+ELIZABETH SCHLECKER
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 11
+1
+
+FREDERICK E. SCHMIDT
+
+2
+
+MICHAEL SHEPHERD
+
+3
+
+RICHARD SHORE
+
+4
+
+J. CHRISTOPHER SHORE
+
+5
+
+RICHARD SILBERT
+
+6
+
+LIANNA SIMMONDS
+
+7
+
+PAUL SINGER
+
+8
+
+PAUL M. SINGER
+
+9
+
+MARC F. SKAPOF
+
+10
+
+ARTEM SKOROSTENSKY
+
+11
+
+D. RYAN SLAUGH
+
+12
+
+JOSEPH SORKIN
+
+13
+
+CLAUDIA Z. SPRINGER
+
+14
+
+CATHERINE STEEGE
+
+15
+
+HOWARD STEEL
+
+16
+
+ERIC STODOLA
+
+17
+
+ADAM SWINGLE
+
+18
+
+JEROME TAPLEY
+
+19
+
+PAMELA THURMOND
+
+20
+
+MARC J. TOBAK
+
+21
+
+SARA E. TONNESEN
+
+22
+
+ALICE TSIER
+
+23
+
+JOSEPH TURNER
+
+24
+
+ALLEN J. UNDERWOOD
+
+25
+
+MELISSA L. VAN ECK
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 12
+1
+
+MICHAEL J. VENDITTO
+
+2
+
+JOYCE M. VILLNAVE
+
+3
+
+JONATHAN WAGNER
+
+4
+
+RYAN A. WAGNER
+
+5
+
+JORDAN A. WEBER
+
+6
+
+WENDY WEINBERG
+
+7
+
+SHIRA WEINER
+
+8
+
+WILLIAM P. WEINTRAUB
+
+9
+
+MARTIN WEIS
+
+10
+
+MARTIN JAMES WEIS
+
+11
+
+ALLISON H. WEISS
+
+12
+
+THEODORE WELLS, JR.
+
+13
+
+DANIEL WOLF
+
+14
+
+LAUREN S. ZABEL
+
+15
+
+DAVID ZYLBERBERG
+
+16
+
+LAUREN DEL VALLE
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 13
+1
+
+P R O C E E D I N G S
+
+2
+3
+
+THE COURT:
+
+Good morning.
+
+This is Judge Drain.
+
+We’re here in In Re Purdue Pharma L.P., et al.
+
+4
+
+As I asked the Debtors to circulate to the wide
+
+5
+
+email list yesterday in working on my ruling on the Debtors'
+
+6
+
+request for confirmation of their amended Chapter 11 plan, I
+
+7
+
+realized that although the parties believed that they could
+
+8
+
+rely on their pleadings with respect to issues that were
+
+9
+
+contested related to plan confirmation, my review of the
+
+10
+
+pleadings left open some questions that I wanted to address
+
+11
+
+with the parties.
+
+12
+
+Those issues pertain to the sole remaining
+
+13
+
+objection by the Co-Defendant group and certain aspects of
+
+14
+
+the plan's treatment of these for those other than the
+
+15
+
+professionals that fall under the definition of professional
+
+16
+
+persons under the plan.
+
+17
+
+those disputes be available today so I could discuss them
+
+18
+
+with them.
+
+19
+
+So I asked that the parties to
+
+In addition, I wanted an update on one issue that
+
+20
+
+had been left open involving the rights of Gulf and St. Paul
+
+21
+
+insurers.
+
+22
+
+remaining objection by those two parties has been resolved,
+
+23
+
+so we don't need to address that further.
+
+24
+25
+
+I was informed this morning that that limited
+
+I also was told that one aspect of the State of
+West Virginia's objection to the plan had been resolved, I
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 14
+1
+
+think in part based on questions that I had from the bench,
+
+2
+
+which involved California's -- the State of California's,
+
+3
+
+that is -- carveout from contributing to the so-called one
+
+4
+
+percent fund for small states, which I gather, again from
+
+5
+
+hearing from the Debtors, has now been eliminated, and
+
+6
+
+instead, California is going to be contributed to the one
+
+7
+
+percent fund.
+
+8
+
+And then, finally, I noted that I had not seen a
+
+9
+
+revised plan that addressed the release issues that were the
+
+10
+
+subject of a fair amount of discussion during oral argument,
+
+11
+
+and that I would really benefit from seeing the changes.
+
+12
+
+I've been provided with a blacklined amended Chapter 11 plan
+
+13
+
+that reflects the parties' work to narrow the release
+
+14
+
+further, in light of my comments and other parties'
+
+15
+
+comments.
+
+16
+
+So that's what I want to address this morning.
+
+17
+
+That obviously meant that I would put off my bench ruling
+
+18
+
+that I had originally said I would give you all this
+
+19
+
+morning.
+
+20
+
+to give you that ruling on Wednesday, September 1st.
+
+21
+
+Given my hearing schedule, I will use every effort
+
+So, unless anyone wants to make any further
+
+22
+
+announcement, I'd like to address the two issues that the
+
+23
+
+parties had left in their briefing.
+
+24
+
+understand them fully, but I did have a couple of questions
+
+25
+
+that I wanted to raise with them in each case.
+
+212-267-6868
+
+I'm sure they
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 15
+1
+2
+
+MR. HUEBNER:
+the Debtors.
+
+Your Honor, Marshall Huebner, for
+
+Can you hear me clearly?
+
+3
+
+THE COURT:
+
+Yes.
+
+4
+
+MR. HUEBNER:
+
+Just very quickly, Your Honor.
+
+5
+
+Obviously, I was going to announce that very good news on
+
+6
+
+California, and the good news on Gulf, and both apologize
+
+7
+
+and make sure that everybody knows that we were able to
+
+8
+
+negotiate substantially revised releases.
+
+9
+
+the number of parties, it took a lot of yesterday.
+
+10
+
+Obviously, given
+
+With respect to California, Your Honor, let me say
+
+11
+
+two quick things, and then I'll turn it over, if Your Honor
+
+12
+
+would like, to Mr. Vonnegut to walk you through the changes
+
+13
+
+to the plan, because there are just a couple of other very
+
+14
+
+minor ones.
+
+15
+
+case, Your Honor has read everything and is ready to go,
+
+16
+
+then obviously, we'll skip that.
+
+17
+
+We're happy to do that if, as is typically the
+
+With respect to California, Your Honor, I do want
+
+18
+
+to say two things.
+
+19
+
+of the parties really appreciate that California changed
+
+20
+
+their decision and agreed to make what was a voluntary
+
+21
+
+contribution under the structure to the intensity fund.
+
+22
+
+Number one, I think we and probably many
+
+We are waiting to get back to West Virginia.
+
+We
+
+23
+
+don't know, and nothing is decided yet, whether that means
+
+24
+
+that it resolved their objection in toto, or that was
+
+25
+
+something that (indiscernible) was obviously very upset and
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 16
+1
+
+ineloquent about, or whether they're still pressing for the
+
+2
+
+remainder of their -- for an allocation objection.
+
+3
+
+Obviously, as soon as there is an update, we will advise the
+
+4
+
+Court.
+
+5
+
+Finally, I should note that Your Honor very
+
+6
+
+clearly encouraged everybody to try to remain in
+
+7
+
+conversation and we will never stop trying to get a deal
+
+8
+
+with a very, very small number of remaining objectors.
+
+9
+
+know, there is certainly nothing to announce, but there are
+
+You
+
+10
+
+still some conversations going on, and we, for our part,
+
+11
+
+will never stop trying to bring everybody into the deal and
+
+12
+
+see what else is possible.
+
+13
+
+And so with that, Your Honor, I guess the question
+
+14
+
+is would like Mr. Vonnegut to (indiscernible) or do you have
+
+15
+
+them and we should deal with Your Honor's questions for
+
+16
+
+whichever parties you'd like to question?
+
+17
+
+THE COURT:
+
+Well, I see that there are 164 parties
+
+18
+
+on the line today.
+
+19
+
+line for the Co-Defendant and fee issues.
+
+20
+
+does make sense to go through the amended plan, or the
+
+21
+
+changes in the amended plan.
+
+22
+
+So it may make sense to very briefly summarize them.
+
+23
+
+then, I regret to have to say this, but I do have some
+
+24
+
+questions about them.
+
+25
+
+I doubt that most of them are on the
+
+MR. HUEBNER:
+
+212-267-6868
+
+So it probably
+
+I have reviewed them, though.
+
+Absolutely, Your Honor.
+
+Veritext Legal Solutions
+www.veritext.com
+
+And
+
+And let me
+
+516-608-2400
+
+Page 17
+1
+
+just ask all parties.
+
+2
+
+not great, so I've put in my headphones and would ask, as we
+
+3
+
+have on the prior dates, that anyone who has the ability to
+
+4
+
+use either wired or wireless headphones please do so, which
+
+5
+
+I just do think improves the audio.
+
+6
+
+I'm already hearing that the sound is
+
+So with that, I will go on mute and off camera,
+
+7
+
+and Mr. Vonnegut to please go off mute and on camera and do
+
+8
+
+the quick walk-through that the Court has requested.
+
+9
+
+THE COURT:
+
+10
+
+Okay.
+
+MR. VONNEGUT:
+
+That's fine.
+
+Thank you.
+
+Your Honor, for the
+
+11
+
+record, Eli Vonnegut, of Davis Polk & Wardwell, on behalf of
+
+12
+
+the Debtors.
+
+Can you hear me clearly?
+
+13
+
+THE COURT:
+
+Yes, I can, thanks.
+
+14
+
+MR. VONNEGUT:
+
+Thank you.
+
+Your Honor, the tenth
+
+15
+
+amended plan filed overnight reflects a pretty new set of
+
+16
+
+changes to the ninth amended plan, and I'll just walk to
+
+17
+
+them briefly.
+
+18
+
+First, in the definition of excluded claim, we've
+
+19
+
+made clear, as we discussed in court the other day, that the
+
+20
+
+carveout for taxes applies to all taxes.
+
+21
+
+to income taxes, so we've just deleted the word income in II
+
+22
+
+of that defined term.
+
+23
+
+It's not limited
+
+Next, you'll see a little change in the
+
+24
+
+architecture of how we carved out non-opioid claims from the
+
+25
+
+releases.
+
+212-267-6868
+
+So they are no longer a subset of the defined
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 18
+1
+
+term excluded claim.
+
+2
+
+in the two third-party release sections in 10.6(B) and
+
+3
+
+10.7(B) in the plan.
+
+4
+
+Instead, they are carved out directly
+
+Then in excluded party, this is not a substantive
+
+5
+
+change.
+
+6
+
+effectuated the DMP settlement that was discussed with some
+
+7
+
+creditors after we filed the initial set of changes.
+
+8
+9
+
+This was just cleanup related to the way that we
+
+Then, Your Honor, you'll see -- and I'll turn it
+over to Mr. Uzzi very shortly to discuss the substance of
+
+10
+
+this -- but the next two changes were related to the
+
+11
+
+broadening of the carveout for non-opioid claims.
+
+12
+
+see our new term is non-opioid excluded claim.
+
+13
+
+the claims that are excluded from the releases and that are
+
+14
+
+carved out directly in sections 10.6(B) and 10.7(B).
+
+15
+
+So you'll
+
+Those are
+
+In releasing parties, that is also a change
+
+16
+
+intended to narrow the scope of the releases.
+
+17
+
+back to the architecture again, in order to be encompassed
+
+18
+
+in a third-party release, a claim needs to be held by a
+
+19
+
+releasing party.
+
+20
+
+remove holders of causes of action and to limit the
+
+21
+
+releasing parties to holders of claims.
+
+22
+
+So just to go
+
+And the Sacklers have agreed here to
+
+And there's just a parenthetical here illustrating
+
+23
+
+exactly what is meant by the defined term, claim, although
+
+24
+
+that is defined as defined in the Bankruptcy Code.
+
+25
+
+In shareholder released parties, we've just
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 19
+1
+
+corrected a cross-cite.
+
+It turns out to be an exhibit, not
+
+2
+
+a schedule, to the shareholder settlement agreement that we
+
+3
+
+are citing to.
+
+4
+
+In Section 10.3(d), as discussed and as agreed
+
+5
+
+with Maryland, we've added a provision making very clear
+
+6
+
+that nobody who benefits from a release is excused from
+
+7
+
+ongoing compliance with the discovery.
+
+8
+
+always the case.
+
+Again, that was
+
+We just wanted to make it very blunt.
+
+9
+
+And then you will see, Your Honor, in Sections
+
+10
+
+10.6(B) and 10.7(B), the carveout from those third-party
+
+11
+
+releases for the non-opioid excluded claims.
+
+12
+13
+
+I believe that covers the entirety of the changes
+in the tenth amended plan, Your Honor.
+
+14
+
+THE COURT:
+
+15
+
+MR. VONNEGUT:
+
+16
+
+So I'll turn it over to Mr. Uzzi to
+
+discuss the substance of the non-opioid excluded claims.
+
+17
+
+THE COURT:
+
+18
+
+MR. UZZI:
+
+19
+
+Okay.
+
+Milbank.
+
+Okay.
+
+That's fine.
+
+Your Honor, it's Gerard Uzzi, from
+
+Can you hear and see me?
+
+20
+
+THE COURT:
+
+21
+
+MR. UZZI:
+
+Yes, I can, thanks.
+All right.
+
+Your Honor, I can make a
+
+22
+
+brief presentation if you'd like.
+
+23
+
+go straight to the questions.
+
+24
+25
+
+THE COURT:
+
+Otherwise, we could just
+
+It's --
+
+Why don't we go to the questions,
+
+because I think your answers will, in essence, be the
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 20
+1
+
+presentation.
+
+2
+
+MR. UZZI:
+
+3
+
+THE COURT:
+
+Okay.
+My first one was, I did see the change
+
+4
+
+to the definition of releasing parties, that limits the
+
+5
+
+releasing parties to all holders of claims and strikes
+
+6
+
+causes of action.
+
+7
+
+I think this is probably just stay scriveners
+
+8
+
+error, therefore, because -- or maybe you need to explain it
+
+9
+
+to me, when you actually turn to 10.6(B) and 10.7(B).
+
+10
+
+think...
+
+11
+
+just confirm one point first...
+
+12
+
+Well, let me just go back to one point.
+
+But I
+
+Let me
+
+Yeah.
+
+Each of those provides for a release of all causes
+
+13
+
+of action.
+
+14
+
+the back door; the change that you all made to the
+
+15
+
+definition of releasing parties isn't coming in the back
+
+16
+
+door.
+
+17
+
+up, I guess, is it says in (b), releases by non-debtors.
+
+18
+
+And...
+
+I don't think so, but I guess where it really comes
+
+19
+20
+
+And I want to make sure that it's not coming in
+
+MR. UZZI:
+
+Your Honor, let me explain what we were
+
+trying to do, and I think it may answer the question.
+
+21
+
+THE COURT:
+
+Well, maybe it's just the title.
+
+22
+
+Maybe it should say releases by non-debtor releasing
+
+23
+
+parties, and maybe that gets you there.
+
+24
+
+trying to do -- this was really a question, as opposed to a
+
+25
+
+criticism -- I think what you're trying to do is say that
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+I think what you're
+
+516-608-2400
+
+Page 21
+1
+
+the releasing parties are the ones who are giving the
+
+2
+
+release here, and they are releasing all causes of action.
+
+3
+
+Right?
+
+4
+5
+
+MR. UZZI:
+
+That's correct, Your Honor.
+
+That is
+
+correct.
+
+6
+
+THE COURT:
+
+It's not a backdoor way to say that in
+
+7
+
+10.7(B), the release is expanded beyond releasing parties to
+
+8
+
+other non-debtors.
+
+9
+
+MR. UZZI:
+
+10
+
+That is correct, Your Honor.
+
+THE COURT:
+
+Okay.
+
+So maybe it's just the heading
+
+11
+
+that confused me.
+
+12
+
+also may be a drafting point.
+
+13
+
+was a pretty carefully drafted set of defined terms and
+
+14
+
+provisions that all interlocked.
+
+15
+
+narrower, maybe some of them became redundant.
+
+16
+17
+
+The second question I had -- well, this
+Originally, obviously, this
+
+And by making them
+
+You have a defined term on Page 32, protected
+parties.
+
+18
+
+I don't see where that comes in.
+MR. UZZI:
+
+Your Honor, that's used throughout the
+
+19
+
+plan to cover parties that are protected by the channeling
+
+20
+
+injunction.
+
+21
+
+THE COURT:
+
+All right.
+
+Okay.
+
+Because, again, it
+
+22
+
+includes -- the definition of protected parties includes
+
+23
+
+each of the Debtors' related parties, which is a defined
+
+24
+
+term, related parties.
+
+25
+
+MR. UZZI:
+
+212-267-6868
+
+Yes, sir.
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 22
+1
+
+THE COURT:
+
+And as I read that definition, that
+
+2
+
+includes equity holders.
+
+3
+
+shareholders.
+
+4
+
+terms of the plan aren't vitiated by the use of protected
+
+5
+
+parties somewhere else.
+
+6
+7
+8
+9
+
+So I just want to make sure that the narrowed
+
+MR. UZZI:
+good point.
+
+Understood, Your Honor.
+
+It's a very
+
+We'll double check.
+
+THE COURT:
+think.
+
+So it would include the
+
+Okay.
+
+And then another point, I
+
+The defined term, related parties, I believe was
+
+10
+
+intended to be narrowed as far as the shareholder release is
+
+11
+
+concerned -- the release of the shareholding settling
+
+12
+
+parties.
+
+13
+
+example, independent contractors, co-promoters, third-party
+
+14
+
+sales reps, medical liaisons --
+
+15
+
+The defined term, related parties, includes, for
+
+MR. VONNEGUT:
+
+Yes.
+
+Your Honor, I can help with
+
+16
+
+this one.
+
+The defined term, related parties, isn't actually
+
+17
+
+used for the releases of the shareholders.
+
+18
+
+shareholders is shareholder released parties.
+
+19
+
+where what we did was we put attorneys, independent
+
+20
+
+contractors, et cetera, in their own clause, and then made
+
+21
+
+clear in the third-party release that those shareholder
+
+22
+
+released parties are not covered by the third-party release.
+
+23
+
+THE COURT:
+
+24
+
+MR. HUEBNER:
+
+25
+
+THE COURT:
+
+212-267-6868
+
+The term for the
+And that's
+
+I don't know if someone is -So related parties is only used -I don't know who Lauren
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 23
+1
+
+(indiscernible), or Danny Benjamin is, but he’s trying to
+
+2
+
+speak and he’s on the screen.
+
+3
+
+CLERK:
+
+4
+
+THE COURT:
+
+5
+
+CLERK:
+
+6
+
+THE COURT:
+
+7
+
+I’m not sure why.
+
+(indiscernible)
+Okay.
+
+We're going to turn it off.
+All right.
+
+I'm sorry to interrupt
+
+you.
+
+8
+
+MR. VONNEGUT:
+
+9
+
+THE COURT:
+
+No.
+
+No problem, Your Honor.
+
+All right.
+
+And again, this is a term
+
+10
+
+that is picked up in the definition of released parties.
+
+11
+
+includes each of the Debtors' related parties.
+
+12
+
+MR. VONNEGUT:
+
+That's right.
+
+It
+
+Released parties and
+
+13
+
+shareholder released parties are separate, Your Honor.
+
+14
+
+Released parties are addressed in Section 10.6 and
+
+15
+
+shareholder released parties are addressed in Section 10.7.
+
+16
+
+THE COURT:
+
+Okay.
+
+But let's go to -- 10.6(B)
+
+17
+
+covers releases by releasing parties.
+
+18
+
+includes holders of claims.
+
+19
+
+MR. VONNEGUT:
+
+20
+
+THE COURT:
+
+And releasing parties
+
+Yes.
+
+So the released parties are released
+
+21
+
+in 10.B, which I view as a third-party release.
+
+22
+
+I'm not quite sure why we have 10.B and 10.7(B), since they
+
+23
+
+seem to in effect be doing the same thing.
+
+24
+25
+
+MR. VONNEGUT:
+groups of people.
+
+212-267-6868
+
+In fact,
+
+Your Honor, they apply to different
+
+Again, we wanted to have --
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 24
+1
+
+THE COURT:
+
+But again, related parties -- the
+
+2
+
+released parties includes the Debtors' related parties,
+
+3
+
+which includes equity holders and their related parties,
+
+4
+
+which would bring in independent contractors, et cetera, et
+
+5
+
+cetera.
+
+6
+7
+
+I don't think this was intentional, but I think
+10.6(B) --
+
+8
+
+MR. VONNEGUT:
+
+9
+
+THE COURT:
+
+10
+
+Your Honor --
+
+-- actually could have the effect of
+
+broadening what you narrowed in 10.7.
+
+11
+
+MR. VONNEGUT:
+
+12
+
+intention, Your Honor.
+
+13
+
+sure.
+
+That's definitely not the
+Again, we'll revisit it and make
+
+14
+
+THE COURT:
+
+10.7(B) --
+
+15
+
+MR. VONNEGUT:
+
+16
+
+THE COURT:
+
+And I --
+
+-- I think is what you intended to do
+
+17
+
+in response to my comments, which was in part in responses
+
+18
+
+to objectors' comments.
+
+19
+
+you were -- the intention was to do this, to back door to
+
+20
+
+10.6(B).
+
+I think -- again, I don't believe
+
+But I think the effect of it --
+
+21
+
+MR. VONNEGUT:
+
+22
+
+THE COURT:
+
+No.
+
+-- can be, because of the definition
+
+23
+
+of Debtors' related parties.
+
+24
+
+of related parties, which includes equity holders and their
+
+25
+
+related parties in their capacity, it really does...
+
+212-267-6868
+
+And given the broad definition
+
+Veritext Legal Solutions
+www.veritext.com
+
+You
+
+516-608-2400
+
+Page 25
+1
+
+see what I'm saying, I think.
+
+2
+
+MR. VONNEGUT:
+
+I do, Your Honor.
+
+We carved out
+
+3
+
+the shareholder payment parties from released parties.
+
+4
+
+also included the carveout for non-opioid excluded claims in
+
+5
+
+Section 10.6(B) and Section 10.7.
+
+6
+
+scrub and make sure there's no holes that shouldn't be
+
+7
+
+there.
+
+8
+9
+
+THE COURT:
+mean, I guess...
+
+Okay.
+
+But again, we'll triple
+
+And why are we having...
+
+parties who are the subject of 10.7(B) be covered by
+
+11
+
+10.6(B)?
+
+13
+
+I
+
+Is the intention, then, not to have the
+
+10
+
+12
+
+We
+
+MR. VONNEGUT:
+
+That's correct.
+
+And frankly, maybe
+
+the --
+
+14
+
+THE COURT:
+
+So that --
+
+15
+
+MR. VONNEGUT:
+
+-- simplest way to deal with this
+
+16
+
+is the way we handled co-defendants and just bluntly carve
+
+17
+
+all of them out 10.6(B).
+
+18
+
+THE COURT:
+
+Okay.
+
+All right.
+
+Now, related to
+
+19
+
+that, you have a good -- clearly the most work was done here
+
+20
+
+on 10.7, which is fair, because the focus was on that.
+
+21
+
+have -- if I can find it now -- maybe I lost it.
+
+22
+
+the definition of shareholder released parties, you have a
+
+23
+
+much more narrow list of other entities related to the
+
+24
+
+shareholder released parties that would be covered.
+
+25
+
+know, as Mr. Uzzi mentioned the other day, it grammatically
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+You
+
+Yeah.
+
+In
+
+You
+
+516-608-2400
+
+Page 26
+1
+
+carved out subcontractors, et cetera.
+
+That still exists in
+
+2
+
+the related parties definition, which again was, I think,
+
+3
+
+originally meant to just be applicable to the shareholders
+
+4
+
+as well.
+
+5
+
+But there's stuff in it now that I don't really
+
+6
+
+think fits for the other released parties, including, you
+
+7
+
+know, trusts, independent contractors, subcontractors.
+
+8
+
+just not sure why those people are being covered anymore.
+
+9
+
+think that's a holdover.
+
+10
+
+MR. VONNEGUT:
+
+I'm
+
+Those were intended to be, as Your
+
+11
+
+Honor mentioned yesterday, ways of preventing back door
+
+12
+
+assertion of claims that are really against the Debtor.
+
+13
+
+THE COURT:
+
+All right.
+
+Well, I guess it really
+
+14
+
+comes back to, again, making it clear that the shareholder
+
+15
+
+released parties are not part of 10.6(B).
+
+16
+17
+
+MR. VONNEGUT:
+
+I
+
+I think that's the solution, Your
+
+Honor --
+
+18
+
+THE COURT:
+
+Okay.
+
+19
+
+MR. VONNEGUT:
+
+-- is to just have a very firm
+
+20
+
+brick wall between shareholder released parties and other
+
+21
+
+released parties.
+
+22
+
+THE COURT:
+
+Okay.
+
+Now, you have in the
+
+23
+
+shareholder released parties definition a sentence towards
+
+24
+
+the end that says, "For purposes of this definition of
+
+25
+
+shareholder released parties, the phrase solely in their
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 27
+1
+
+respective capacities as such, means with respect to a
+
+2
+
+person solely to the extent that,", and then you have X and
+
+3
+
+Y.
+
+4
+
+related parties as well.
+
+I think that would be useful to put in the definition of
+
+5
+
+MR. VONNEGUT:
+
+6
+
+THE COURT:
+
+Sure.
+
+Because there's -- I mean, otherwise,
+
+7
+
+you have it in one place or the other and people are going
+
+8
+
+to say, well, it must be broader than all related parties,
+
+9
+
+because you don't say it there.
+
+10
+
+Lastly -- and this was probably very far from
+
+11
+
+people's minds when they were focusing on this -- the Debtor
+
+12
+
+release in 10.6(A) releases causes of action, which is
+
+13
+
+broadly defined, including against officers and employees.
+
+14
+
+We've carefully put in the compensation orders
+
+15
+
+that there's a disgorgement obligation.
+
+16
+
+be any doubt that that's not being released, that
+
+17
+
+disgorgement obligation.
+
+18
+
+MR. VONNEGUT:
+
+19
+
+THE COURT:
+
+And there shouldn't
+
+And I think -Understood, Your Honor.
+
+I think, arguably, there might be if
+
+20
+
+you have this here the way it is.
+
+21
+
+MR. VONNEGUT:
+
+22
+
+THE COURT:
+
+We can clarify that.
+
+All right.
+
+Okay.
+
+So those are my
+
+23
+
+questions and comments.
+
+24
+
+Fogelman and perhaps one or two other parties may want to
+
+25
+
+address this markup, again, just specifically with respect
+
+212-267-6868
+
+I think -- well, I think Mr.
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 28
+1
+
+to the language and what it does and doesn't do.
+
+2
+
+happy to hear from them.
+
+3
+
+MR. FOGELMAN:
+
+And I'm
+
+Good morning, Your Honor.
+
+This is
+
+4
+
+Larry Fogelman on behalf of the United States.
+
+5
+
+a few concerns to raise about the language.
+
+6
+
+clear, we're reserving all of our objections raised in our
+
+7
+
+brief but --
+
+8
+
+THE COURT:
+
+9
+
+MR. FOGELMAN:
+
+We did have
+
+But, to be
+
+Right.
+-- we raised these points in an
+
+10
+
+effort to assist to the extent the Court is trying to
+
+11
+
+implement directions we understood it to give the other day.
+
+12
+
+THE COURT:
+
+That's right.
+
+13
+
+MR. FOGELMAN:
+
+14
+
+So our first comment relates to the definition of
+
+Thank you, Your Honor.
+
+15
+
+non-opioid excluded claims and, specifically, most
+
+16
+
+concerning (iii).
+
+17
+
+saying yesterday is that to the extent that there's a
+
+18
+
+concern about potential derivative liability, that that's
+
+19
+
+already addressed under the Debtor's release and that there
+
+20
+
+doesn't necessarily need to be any language.
+
+21
+
+other words, (iii) could be struck in its entirety because
+
+22
+
+anything derivative would be picked up from the Debtor's
+
+23
+
+release.
+
+24
+25
+
+What we understood Your Honor to be
+
+Like so in
+
+You know, and the concern we have of (iii) is that
+it could potentially be read to suggest that if the
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 29
+1
+
+shareholder release parties took actions while on the board,
+
+2
+
+that may lead to their direct liability, not derivative
+
+3
+
+liability but direct liability, that somehow because that
+
+4
+
+action was done while they were on the board or working with
+
+5
+
+the company, that that is now getting a release under this
+
+6
+
+(iii).
+
+7
+
+So we would submit the simplest way to deal with
+
+8
+
+it is to just strike (iii).
+
+To the extent that there's any
+
+9
+
+need for it at all, it should use the word "derivative
+
+10
+
+liability" expressly like -- or something simple like (iii)
+
+11
+
+could be something like it's solely based on derivative
+
+12
+
+liability of the Debtors if that's even necessary at all.
+
+13
+
+But otherwise, we're just concerned that all of this
+
+14
+
+language here may create the implication that there is a
+
+15
+
+release for direct claims against the shareholder release
+
+16
+
+parties.
+
+17
+18
+
+That's point one.
+
+I'm happy to move on unless
+
+Your Honor wants to engage about this point first.
+
+19
+
+THE COURT:
+
+20
+
+MAN:
+
+21
+
+THE COURT:
+
+Well, let's just stop on point one.
+
+Your Honor, it's (indiscernible).
+No, I'm just reading the language.
+
+I
+
+22
+
+think -- I don't really see how (iii)(a) through (c) hurts.
+
+23
+
+It would -- I think you're probably right.
+
+24
+
+right that it's language that ensures that derivative
+
+25
+
+liability is not being asserted since the Debtors are
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+I think you are
+
+516-608-2400
+
+Page 30
+1
+
+settling it.
+
+2
+
+that -- so that third parties know that, too.
+
+3
+
+But I don't see how it hurts to make it clear
+
+MR. FOGELMAN:
+
+If Your Honor wants to make it
+
+4
+
+clear, would it not be simpler just to say in (iii) it's
+
+5
+
+solely based on derivative liability of the Debtors?
+
+6
+7
+
+THE COURT:
+
+four opinions to address in the Manville and Quigley cases.
+
+8
+9
+
+Well, but that took the Second Circuit
+
+MR. HUEBNER:
+
+Yeah.
+
+And, Your Honor, for the
+
+record, that is what was guiding.
+
+You know, once you start
+
+10
+
+getting into standards like "solely" and "like," we think
+
+11
+
+this strikes the right balance and we're with Your Honor on
+
+12
+
+this point.
+
+13
+
+thought to try to cue perfectly to what we thought the Court
+
+14
+
+was saying.
+
+15
+
+And we actually obviously all gave it a lot of
+
+THE COURT:
+
+I mean I think the courts are still
+
+16
+
+discussing what derivative liability means in this context.
+
+17
+
+But this uses the language from 524, which is, you know, I
+
+18
+
+think the clearest guide since there's been the most
+
+19
+
+commentary on it.
+
+20
+
+MR. FOGELMAN:
+
+If the concept, Your Honor, is that
+
+21
+
+derivative liability is what's excluded here, you know, no
+
+22
+
+matter how the courts interpret it, wouldn't the phrase
+
+23
+
+"derivative liability" cover all the scenarios defined by
+
+24
+
+the Court?
+
+25
+
+up with language that -- you know, I mean, frankly, who
+
+212-267-6868
+
+Here, there's an attempt based on 524(g) to come
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 31
+1
+
+knows how that language bears under the Second Circuit cases
+
+2
+
+that Your Honor alluded to.
+
+3
+
+But if the concept is simply derivative liability,
+
+4
+
+you know, is what the exclusive is for, I think if it simply
+
+5
+
+says that, rather than trying to enumerate what that means,
+
+6
+
+that would be the more --
+
+7
+
+THE COURT:
+
+Well, I don't mind it saying "does not
+
+8
+
+allege derivative liability including without limitation"
+
+9
+
+and then going through (a) through (c).
+
+10
+
+MR. HUEBNER:
+
+Your Honor, with all due respect to
+
+11
+
+Mr. Fogelman, he's in essence repeated the same request
+
+12
+
+three times and the Court has addressed the view three
+
+13
+
+times.
+
+14
+
+to be unkind but he keeps saying can we do this instead, and
+
+15
+
+the Court just keeps saying no and he just keeps asking it
+
+16
+
+again without new analysis or reasoning.
+
+17
+18
+
+I think if there are other points, just I don't mean
+
+This is not a markup session in a conference room.
+This is a court of law.
+
+19
+
+THE COURT:
+
+Again, I understand his main point.
+
+20
+
+The point was that this wouldn't be a back door.
+
+21
+
+mind saying "derivative liability including without
+
+22
+
+limitation" and then listing those three categories (a)
+
+23
+
+through (c).
+
+24
+
+MR. HUEBNER:
+
+25
+
+MR. FOGELMAN:
+
+212-267-6868
+
+Thank you.
+
+So I don't
+
+Thank you, Your Honor.
+
+Thank you.
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 32
+1
+
+The second point we had, Your Honor, relates to
+
+2
+
+the 11.1(E) language that's incorporated into non-opioid
+
+3
+
+excluded claims.
+
+4
+
+is that let's say a state has a clearly (indiscernible)
+
+5
+
+state cause of action under a state consumer (indiscernible)
+
+6
+
+against the Debtors for clearly non-opioid conduct.
+
+7
+
+And specifically, Your Honor, the concern
+
+I don't think this Court would have jurisdiction
+
+8
+
+to require California or whatever state would bring this
+
+9
+
+claim, for example, to come into court and have to make a
+
+10
+
+showing on an evidentiary record that the claim is
+
+11
+
+colorable.
+
+12
+
+achieved by putting the burden on the shareholder release
+
+13
+
+parties if they want to claim that a lawsuit is somehow a
+
+14
+
+violation of this, for that party to have the burden to make
+
+15
+
+a showing that the complaint somehow is an end run or is
+
+16
+
+really, you know, an opioid claim dressed up (indiscernible)
+
+17
+
+with clothing rather than having a state which might not
+
+18
+
+even be subject to this Court's jurisdiction have to go into
+
+19
+
+this Court and make an evidentiary showing that its claim is
+
+20
+
+colorable.
+
+21
+
+It would -- you know, the point could be best
+
+THE COURT:
+
+Well, that's a fair point.
+
+You know,
+
+22
+
+this is -- I -- the colorable point I didn't understand.
+
+23
+
+It's really "is within the definition of."
+
+24
+
+gatekeeping function I have here is as to the injunction,
+
+25
+
+not as to whether it's colorable.
+
+212-267-6868
+
+The only
+
+So I agree with that
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 33
+1
+
+point.
+
+2
+
+MR. HUEBNER:
+
+Your Honor, one I think overall
+
+3
+
+thing that does bear mention because it's actually important
+
+4
+
+and there's a little bit of a bizarre quality to all of
+
+5
+
+these colloquies.
+
+6
+
+refused and would not agree to be part of NOAT and would not
+
+7
+
+agree to take -- give me a minute, Your Honor, because it's
+
+8
+
+actually important.
+
+9
+10
+
+Mr. Fogelman and the United States
+
+And the United States of America has carved out
+entirely from every one of these releases.
+
+11
+
+THE COURT:
+
+I understand all of that.
+
+I get that
+
+12
+
+Mr. Huebner, but I had actually forgotten to mention this
+
+13
+
+point.
+
+14
+
+and "is within the definition."
+
+15
+
+because the purpose of this is to, in essence, protect the
+
+16
+
+injunction.
+
+17
+
+really -- if I determine that it's not enjoined, then really
+
+18
+
+whether it's colorable or not is for another court.
+
+19
+
+I didn't understand why the phrase "is colorable"
+I get the definition part
+
+But the "is colorable," I didn't -- that's
+
+MR. HUEBNER:
+
+Correct, Your Honor.
+
+20
+
+didn't actually make the point yet.
+
+21
+
+second, I promise I'm just about done.
+
+22
+
+THE COURT:
+
+23
+
+MR. HUEBNER:
+
+I just -- I
+
+If you give me one more
+
+Okay.
+The reason the states have a
+
+24
+
+different view on these things and have signed off on many
+
+25
+
+of these things is because, unlike Mr. Fogelman, it is their
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 34
+1
+
+entity that will bear all the costs of dealing with this.
+
+2
+
+And so I just want to note because it's important the people
+
+3
+
+who actually -- whose claims we're talking about and whose
+
+4
+
+MDT has to pay for all this are not objecting.
+
+5
+
+person who has not agreed to be part of any of this and
+
+6
+
+bears no cost is trying to change the releases that the
+
+7
+
+affected state governmental entities have agreed to.
+
+8
+9
+10
+
+So there are reasons why many of us agreed on this
+language that are relevant to maximizing value for the
+states.
+
+11
+
+THE COURT:
+
+12
+
+MR. HUEBNER:
+
+13
+
+THE COURT:
+
+15
+
+MR. HUEBNER:
+
+THE COURT:
+at all.
+
+MR. HUEBNER:
+
+I'm not --
+
+We've obviously fixed anything that
+
+Look, I'm not faulting you all on this
+
+And that's all I had, Your Honor.
+
+I'm not --
+
+21
+
+THE COURT:
+
+22
+
+MR. HUEBNER:
+
+23
+
+All right.
+
+But I understand that point, so --
+
+19
+20
+
+That's really the point I wanted to
+
+needs to be fixed.
+
+17
+18
+
+Okay.
+
+make.
+
+14
+
+16
+
+And the
+
+Okay.
+-- I'm just really not pushing back
+
+on the gatekeeping issue but --
+
+24
+
+THE COURT:
+
+25
+
+MR. HUEBNER:
+
+212-267-6868
+
+All right.
+-- the context matters here as does
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 35
+1
+
+who's speaking and who's not.
+
+2
+
+THE COURT:
+
+3
+
+MR. UZZI:
+
+That's fair.
+Your Honor, Gerard Uzzi of Milbank.
+
+4
+
+Just what we were trying to -- what we were attempting to
+
+5
+
+accomplish with the colorable language is making sure the
+
+6
+
+gatekeeper function was a true gatekeeping function, and
+
+7
+
+that's it.
+
+8
+
+shouldn't be just bare allegations that if it's going to be
+
+9
+
+carved out here, there should be something more than a
+
+And the compare and contrast is that it
+
+10
+
+simple bare allegation that allows parties to bring
+
+11
+
+lawsuits.
+
+12
+
+that there's something real.
+
+13
+
+And that's all we were trying to say by colorable
+
+THE COURT:
+
+Well, I understand that, but I think
+
+14
+
+you have other devices on that point like Rule 11 and state
+
+15
+
+law equivalents.
+
+16
+
+MR. FOGELMAN:
+
+And, you know, while Mr. Huebner
+
+17
+
+may disagree with this point, shouldn't it also be the
+
+18
+
+burden of the shareholder release parties to make that
+
+19
+
+showing rather than having --
+
+20
+
+THE COURT:
+
+No, I don't think
+
+21
+
+MR. FOGELMAN:
+
+22
+
+THE COURT:
+
+so.
+
+-- states who might not --
+
+I don't think so.
+
+If someone's
+
+23
+
+violating an injunction, I'm not -- I think it's fine this
+
+24
+
+way.
+
+I think -- I don't think that should be changed.
+
+25
+
+MR. FOGELMAN:
+
+212-267-6868
+
+Okay.
+
+Your Honor, I think the last
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 36
+1
+
+point I have is on Schedule X which was not revealed until
+
+2
+
+just before I think the previous hearing.
+
+3
+
+law firm named Norton Rose is getting a release.
+
+4
+
+as other law firms like Paul Weiss and Milbank were cut if
+
+5
+
+they're not contributing anything to the plan, you know,
+
+6
+
+likewise, Norton Rose should not be included on that list
+
+7
+
+either.
+
+8
+9
+
+THE COURT:
+a drafting issue.
+
+It looks like a
+And just
+
+Well, all right, but that's really not
+
+I mean I think I understand the rationale
+
+10
+
+for that which is that, in essence, they've been the subject
+
+11
+
+of enormous discovery here.
+
+12
+
+MR. FOGELMAN:
+
+Okay.
+
+Your Honor, I have nothing
+
+13
+
+further except just to reiterate I think Your Honor's point
+
+14
+
+under 10.6(B) was a very good one and an important one that,
+
+15
+
+you know, to the extent there's a McKinsey out there who
+
+16
+
+worked with the Debtors, they shouldn't be getting a release
+
+17
+
+through the definition of related parties (indiscernible)
+
+18
+
+through the definition of released parties in 10.6(B).
+
+19
+
+THE COURT:
+
+20
+
+MR. ECKSTEIN:
+
+21
+
+one moment?
+
+Okay.
+Your Honor, can I just step in for
+
+This is Ken Eckstein from Kramer Levin?
+
+22
+
+THE COURT:
+
+Sure.
+
+23
+
+MR. ECKSTEIN:
+
+Thank you.
+
+I just didn't want my
+
+24
+
+silence to be misinterpreted.
+
+25
+
+with the Debtor and the Sackler entities over the last few
+
+212-267-6868
+
+We've worked very closely
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 37
+1
+
+days as we have throughout.
+
+2
+
+the recent expansion or narrowing, let's say, of the release
+
+3
+
+with respect to non-opioid claims is a significant issue to
+
+4
+
+the governmental entities and will be very important to the
+
+5
+
+MDT because the MDT has committed in the settlement
+
+6
+
+agreement and in the plan to support the enforceability of
+
+7
+
+the release and has agreed to do so at its own expense.
+
+8
+9
+
+But as Mr. Huebner indicated,
+
+And that was something that we were comfortable
+agreeing to at a point in time when the release was viewed
+
+10
+
+as being more comprehensive.
+
+11
+
+becomes any less clearer or any more murky and to the extent
+
+12
+
+there is going to be the risk of any greater post-effective
+
+13
+
+date jocking for seeing if claims can be created post-
+
+14
+
+effective date that potentially flip through very
+
+15
+
+complicated releases, we are concerned about finding
+
+16
+
+ourselves sort of as the MDT on behalf of the beneficiaries
+
+17
+
+of the plan.
+
+18
+
+public creditors who will be receiving funds through the
+
+19
+
+MDT.
+
+20
+
+But to the extent this release
+
+And that's both the private creditors and the
+
+We're concerned about being burdened by expensive
+
+21
+
+and distracting litigation.
+
+22
+
+significant obligations that we've committed to.
+
+23
+
+directly concerned about making sure that wherever we come
+
+24
+
+to rest, that this release is as clear as possible and that
+
+25
+
+there is little ambiguity because we're not looking to
+
+212-267-6868
+
+And the MDT will have very
+
+Veritext Legal Solutions
+www.veritext.com
+
+So we are
+
+516-608-2400
+
+Page 38
+1
+
+encourage litigation post-effective date to the extent we
+
+2
+
+can avoid it.
+
+3
+
+THE COURT:
+
+Okay.
+
+Well, I mean that was -- that's
+
+4
+
+why I think this was in some sense a drafting session
+
+5
+
+because I was trying to make sure there wasn't ambiguity.
+
+6
+
+And I do understand --
+
+7
+
+MR. FOGELMAN:
+
+8
+
+THE COURT:
+
+9
+
+I do understand the concern that both
+
+you and Mr. Huebner raised on that point.
+
+10
+11
+
+Thank you, Your Honor.
+
+MR. SCHWARTZBERG:
+
+Your Honor, Paul Schwartzberg
+
+from the U.S. Trustee's Office.
+
+12
+
+THE COURT:
+
+Yes.
+
+13
+
+MR. SCHWARTZBERG:
+
+Your Honor, I just raised to
+
+14
+
+bring up two points, but first clear these are in additional
+
+15
+
+to our objection and our oral argument.
+
+16
+
+THE COURT:
+
+Right.
+
+17
+
+MR. SCHWARTZBERG:
+
+The first is that we do adopt
+
+18
+
+the comments by the U.S. Attorneys Office.
+
+19
+
+Your Honor, in regard to the releasing parties where they
+
+20
+
+have the parenthetical, the new definition of releasing
+
+21
+
+parties where they have the parenthetical, at the end where
+
+22
+
+it says "under this plan or treated otherwise," well,
+
+23
+
+"otherwise" is -- we believe is vague and maybe once again
+
+24
+
+trying to get in people or entities that may not be
+
+25
+
+creditors of this case.
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+And, second,
+
+516-608-2400
+
+Page 39
+1
+
+And I think plan or otherwise is not in the
+
+2
+
+definition of claim under 101.
+
+3
+
+THE COURT:
+
+4
+
+MAN:
+
+5
+
+THE COURT:
+
+But a claim is a defined term.
+
+That's correct, Your Honor.
+This is a point that the Seventh
+
+6
+
+Circuit actually disagrees with you on as a fundamental
+
+7
+
+point, so I would take this as a win, Mr. Schwartzberg.
+
+8
+
+might well have lost on this point if they hadn't made this
+
+9
+
+concession.
+
+10
+
+MR. SCHWARTZBERG:
+
+11
+
+THE COURT:
+
+12
+
+You
+
+Thank you, Your Honor.
+
+At least the Seventh Circuit thinks so
+
+in their most recent case on this issue, Ingersoll.
+
+13
+
+MR. SCHWARTZBERG:
+
+14
+
+MR. EDMUNDS:
+
+Thank you, Your Honor.
+
+Your Honor, Brian Edmunds for the
+
+15
+
+State of Maryland and I think in all likelihood for the
+
+16
+
+other objecting states, I just want to note if I can with
+
+17
+
+respect to the matter I raised on Wednesday regarding the
+
+18
+
+10.6(B) releases that while it does appear that Debtors have
+
+19
+
+taken steps to clarify them and to, you know, ensure that
+
+20
+
+the released party -- that the undiscovered McKinsey is
+
+21
+
+excluded from the releases, I have not had time that the
+
+22
+
+plan filed at 11 last night to discuss with other states
+
+23
+
+these issues in full and to fully trace out what the changes
+
+24
+
+have been.
+
+25
+
+And so, you know, I agree for I'm sure completely
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 40
+1
+
+different reasons than Mr. Eckstein agrees that we need to
+
+2
+
+be clear and have clear language on the releases.
+
+3
+
+just wanted to say that while I think this is a step in the
+
+4
+
+right direction, it may be that after fully reviewing this,
+
+5
+
+states have a different view of whether this reaches the
+
+6
+
+level of clarity that we need.
+
+7
+
+And I
+
+And so I'd ask the Court to allow, you know, us
+
+8
+
+the additional time to discuss and comment on the plan that
+
+9
+
+we really didn't understand was being filed at 11 last
+
+10
+
+night.
+
+11
+
+The other thing is the same would go for the
+
+12
+
+shareholder related releases and the changes made there.
+
+13
+
+And I would adopt what Mr. Fogelman has said for the states.
+
+14
+
+But, again, we need to be precise here.
+
+15
+
+is pretty important to how the states' police powers get
+
+16
+
+discharged in the future.
+
+17
+
+closer look than we've been able to at this point.
+
+And I think we're going to take a
+
+18
+
+MR. VONNEGUT:
+
+19
+
+those comments briefly, if I may.
+
+20
+
+THE COURT:
+
+21
+
+MR. VONNEGUT:
+
+I think that this
+
+Your Honor, I'd like to address
+
+Okay.
+
+That's fine.
+
+Okay.
+
+Your Honor, we've been
+
+22
+
+attempting to work with Mr. Edmunds to address his concerns
+
+23
+
+this week.
+
+24
+
+structure was filed on March 15th five months past without
+
+25
+
+comments received from Mr. Edmunds other than we want the
+
+212-267-6868
+
+I would note the plan with this release
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 41
+1
+
+releases deleted.
+
+We asked repeatedly whether there were
+
+2
+
+other revisions to the releases that would be helpful to
+
+3
+
+narrow them.
+
+4
+
+This week I've had several conversations and,
+
+5
+
+frankly, I've continued to ask repeatedly if you have a
+
+6
+
+markup, if you want words changed, please tell us.
+
+7
+
+getting to be a little bit much when we show up at a hearing
+
+8
+
+which was originally scheduled to be the ruling on
+
+9
+
+confirmation to simply be told again we don't think it's
+
+10
+
+It's
+
+clear enough.
+
+11
+
+If parties do not think the releases are clear
+
+12
+
+enough at this stage in the game, we really need to know
+
+13
+
+why.
+
+14
+
+MR. EDMUNDS:
+
+Your Honor, if I could respond.
+
+I
+
+15
+
+mean with all due respect to Mr. Vonnegut, he doesn't quite
+
+16
+
+know the discussions that have happened and that have
+
+17
+
+occurred and is not fully disclosing the level of off-the-
+
+18
+
+record communication between the states and the Debtors with
+
+19
+
+respect to these releases.
+
+20
+
+point fingers on the record here.
+
+21
+
+get the job done, which is to make sure that this new
+
+22
+
+language filed at 11 last night --
+
+23
+
+THE COURT:
+
+And I don't think we need to
+I think we just need to
+
+Look, that's fair, Mr. Edmunds.
+
+But I
+
+24
+
+think there's -- it appears to me subject to the cleanup
+
+25
+
+questions that I had raised that the Debtor release is with
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 42
+1
+
+respect to claims that the Debtors have and that the
+
+2
+
+releasing parties would have, one that as far as non-opioid
+
+3
+
+claims is I think as cabined as one can make it to a true
+
+4
+
+Debtor claim release.
+
+5
+
+And if there's any doubt about that, I think you
+
+6
+
+just have to read the Quigley case and Judge Chan's
+
+7
+
+interpretation of it in her 2019 W.R. Grace opinion.
+
+8
+
+far as the third-party release of the shareholders is
+
+9
+
+concerned, I think it is clear too that except for making
+
+And as
+
+10
+
+clear again that it's cabined as to non-opioid claims by the
+
+11
+
+definition of the excluded non-opioid claims, as is the
+
+12
+
+other release.
+
+13
+
+So I think we're -- at this point, subject to the
+
+14
+
+cleanup, and I think it is just true cleanup that we've
+
+15
+
+discussed, is clear.
+
+16
+
+isn’t, I guess you can let me know Monday or Tuesday -- no,
+
+17
+
+Monday, not Tuesday.
+
+18
+
+it here at this point.
+
+19
+
+MR. EDMUNDS:
+
+20
+
+But if you see something here that
+
+Monday.
+
+But I just don't really see
+
+Thank you, Your Honor.
+
+We're not
+
+trying to delay --
+
+21
+
+THE COURT:
+
+No, I understand.
+
+22
+
+people you're dealing with.
+
+23
+
+You have to talk to eight other lawyers or seven other
+
+24
+
+lawyers.
+
+25
+
+MR. EDMUNDS:
+
+212-267-6868
+
+I get that.
+
+You have a group of
+You're one lawyer.
+
+Thank you, Your Honor
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 43
+1
+
+(indiscernible).
+
+2
+
+MR. HUEBNER:
+
+So, Your Honor, two quick things
+
+3
+
+from the Debtors' side that I think are quite important to
+
+4
+
+note.
+
+5
+
+Mr. Schwartzberg's point, just very quickly, because I think
+
+6
+
+the world should understand the evolution and it will take
+
+7
+
+30 seconds and then I have one other point, then I'm done.
+
+First of all, since we didn't have any colloquy on
+
+8
+9
+
+This provision with the parenthetical after claims
+is what began as the "any other person" language that the
+
+10
+
+U.S. Trustee and the DOJ have a lot of difficulty with.
+
+11
+
+changed it to "causes of action" and took out "any other
+
+12
+
+person" several rounds ago, which we actually believed until
+
+13
+
+the closing 20 seconds of Wednesday's hearing solved
+
+14
+
+everybody's problems.
+
+15
+
+appropriately stood up and said, "For the record, I'm still
+
+16
+
+not (indiscernible) because of causes of action.”
+
+17
+
+We
+
+Mr. Schwartzberg absolutely
+
+We've now deleted causes of action and put in only
+
+18
+
+a parenthetical not applying a defined term.
+
+19
+
+and moved and moved, and I believe they have prevailed in --
+
+20
+
+in -- in -- in -- you know -- in -- in -- in
+
+21
+
+that's a lot to say about that.
+
+22
+
+THE COURT:
+
+23
+
+MR. HUEBNER:
+
+This has moved
+
+-- and I think
+
+Okay.
+With respect to Mr. Edmund's point,
+
+24
+
+I think it's critically important that the record be clear
+
+25
+
+and, Your Honor, we understand and Mr. Edmunds, like many of
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 44
+1
+
+the other AG's are working around the clock on this, you
+
+2
+
+know, and we respect that deeply, but I just wanted the
+
+3
+
+record to bear, when he says working with the states, he
+
+4
+
+means a very small number of objecting states.
+
+5
+
+overwhelming majority of states were part of this draft --
+
+6
+
+THE COURT:
+
+7
+
+MR. HUEBNER:
+
+8
+
+saying the states --
+
+9
+
+THE COURT:
+
+10
+
+I understand it --- I know, but Your Honor, he kept
+
+No, it's -- it's -- it's the objecting
+
+states.
+
+11
+12
+
+The
+
+MR. HUEBNER:
+
+(Indiscernible) it's a very small
+
+number of states.
+
+13
+
+THE COURT:
+
+14
+
+MR. HUEBNER:
+
+I understand.
+And as long as the record is privy
+
+15
+
+the article saying the states are objecting to the releases,
+
+16
+
+sometimes, as you heard on Wednesday, oh it's one of them,
+
+17
+
+sometimes it's three of them, sometimes it's eight of them,
+
+18
+
+but it's never 48 of them who are on the other side.
+
+19
+
+just wanted to make that clear.
+
+20
+
+THE COURT:
+
+21
+
+MR. HUEBNER:
+
+22
+
+THE COURT:
+
+23
+
+MR. HUEBNER:
+
+There's --
+
+It's a --- no confusion in anybody's mind.
+All right.
+So with that, Your Honor, I think
+
+24
+
+the releases are behind us.
+
+25
+
+along with the Court's, you know, kind of electron
+
+212-267-6868
+
+And I
+
+If we missed anything else,
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 45
+1
+
+microscope reading, we will fix it.
+
+2
+
+understand each other now, about what the business deal is,
+
+3
+
+hopefully there is nothing else, given the Court's tape
+
+4
+
+flags and post-it's and highlights, but (indiscernible) at
+
+5
+
+least from the debtor's perspective, these releases have
+
+6
+
+been radically, radically narrowed in the last ten days as
+
+7
+
+to parties and scope, and hopefully that gives many parties
+
+8
+
+a very different view of what is being paid for and what is
+
+9
+
+being consensually given by the creditors and stakeholders
+
+10
+
+I think we all
+
+of the case.
+
+11
+
+THE COURT:
+
+Okay.
+
+Very well, thank you all.
+
+It
+
+12
+
+would be helpful if I got these revisions by Tuesday, in
+
+13
+
+anticipation of a ruling on Wednesday morning.
+
+14
+
+MR. EDMUNDS:
+
+15
+
+THE COURT:
+
+Of course, Your Honor.
+And I -- I -- I may sound like a
+
+16
+
+record with a scratch in it, but it would also be, I think,
+
+17
+
+a real service to millions, if not tens of millions of
+
+18
+
+people, if the objecting states or some subset of them, were
+
+19
+
+able to resolve their differences with the Sackler's.
+
+20
+
+benefit of a lengthy hearing like is, is that the evidence
+
+21
+
+does come out to a great extent, and there will be a ruling
+
+22
+
+on this that goes through the evidence.
+
+23
+
+for either side just to take rhetorical positions in the
+
+24
+
+future.
+
+25
+
+One
+
+That makes it hard
+
+A ruling also makes it very hard to settle
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 46
+1
+
+thereafter.
+
+So the parties basically are left with a choice
+
+2
+
+of resolving their differences now or taking the time,
+
+3
+
+primarily, but also spending the money to fight thereafter.
+
+4
+
+One way or another, either on appeal or in connection with
+
+5
+
+some other form of bankruptcy process.
+
+6
+
+is crystal clear from the record of the trial, on the
+
+7
+
+confirmation hearing, is that time is no one's friend.
+
+8
+
+by that, I really mean, the people who would benefit
+
+9
+
+immeasurably from implementing what all of the states have
+
+And one thing that
+
+And
+
+10
+
+agreed to, as well as, frankly, all of the other
+
+11
+
+constituents in the case, as far as abatement and
+
+12
+
+distributions.
+
+13
+
+that can be used, and I think having heard the lawyers from
+
+14
+
+both sides, they're very talented lawyers.
+
+15
+
+risks they face.
+
+16
+
+realistic about those risks, and just a function of these
+
+17
+
+extra couple of days gives you the opportunity to address
+
+18
+
+them without running the risk of substantial delay of
+
+19
+
+implementing a plan that, at least as far as it's operative
+
+20
+
+effects, is something that I have, I believe, perhaps with
+
+21
+
+the exception of the remaining portion, if there is one of
+
+22
+
+West Virginia's objection, 100% consensus on.
+
+23
+
+So there really is a very narrow window here
+
+They know the
+
+I would hope their clients would also be
+
+So, why don't I turn to the other two matters that
+
+24
+
+also delayed my ruling, and I don't care in which order I
+
+25
+
+take them in.
+
+212-267-6868
+
+Why don't I take the -- the so called MDT's
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 47
+1
+
+or the co-defendant issue first.
+
+2
+
+have just a -- a fundamental question.
+
+3
+
+the plan, and it's definition of co-defendant claim, which
+
+4
+
+includes any claim to any MDT insurance policy, or attempt
+
+5
+
+to recover from any MDT insurance policy, and the treatment
+
+6
+
+of Class 14, which is the co-defendant claims.
+
+7
+
+clear to me that to the extent that a co-defendant has a
+
+8
+
+claim, whether it is a named insured or co-insured or not,
+
+9
+
+it will not have any interest in the MDT trust or the MDT
+
+10
+
+insurance, under this plan.
+
+11
+12
+
+MR. GLEIT:
+
+And on this one, I really
+As I -- as I read
+
+It appears
+
+Is that right?
+
+Your Honor, Jeff Gleit, on behalf of
+
+the debtors, and that is correct.
+
+13
+
+THE COURT:
+
+Okay.
+
+Even it -- even if, and it's
+
+14
+
+not clear from the exhibits whether this is the case, it's
+
+15
+
+actually a named insured or co-insured?
+
+16
+
+MR. GLEIT:
+
+We, there are a few insurance policies
+
+17
+
+that are in -- in the record and I can give you either a
+
+18
+
+list of them or not, but they're -- well, they're blanket
+
+19
+
+endorsements and they're endorsed -- that they are
+
+20
+
+additional insureds and do not have any greater rights than
+
+21
+
+an additional insured in any of the debtor's policies.
+
+22
+
+THE COURT:
+
+All right.
+
+23
+
+MR. GLEIT:
+
+So they're not a direct named party,
+
+24
+
+their -- their right is as an additional insured based upon
+
+25
+
+whatever contracts they have with the debtors.
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 48
+1
+
+THE COURT:
+
+All right.
+
+2
+
+MR. GLEIT:
+
+So it's not an independent insurance
+
+THE COURT:
+
+Well, but -- I guess that begs the
+
+3
+
+right.
+
+4
+5
+
+question, right?
+
+6
+
+did have an independent right to collect on the insurance,
+
+7
+
+they would still not -- they would be precluded not only
+
+8
+
+from collecting on the insurance, but collecting on the fund
+
+9
+
+or the trust?
+
+10
+11
+
+If it were an independent right, if they
+
+MR. GLEIT:
+
+second before I answer, Your Honor.
+
+12
+
+THE COURT:
+
+13
+
+MR GLEIT:
+
+14
+
+THE COURT:
+
+15
+
+I'm just going to -- I'm pausing for a
+
+I mean, I think that -(Indiscernible).
+I think answer is they would under
+
+this -- under this -- under this plan.
+
+16
+
+MR. GLEIT:
+
+If they had an independent right
+
+17
+
+outside to -- to an insurance policy, that -- the plan
+
+18
+
+should not -- I don't believe it's drafted to bar it.
+
+19
+
+drafted here to bar rights against the insurance -- against
+
+20
+
+the debtor's insurance policies where -- where they're just
+
+21
+
+an endorsee, and in -- in addition.
+
+22
+
+THE COURT:
+
+It's
+
+Well, but that -- I guess that begs
+
+23
+
+the question as to whether they actually have an interest in
+
+24
+
+the policy, right?
+
+25
+
+mean, there are lots of policies.
+
+212-267-6868
+
+Which may depend on the nature of -- I
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 49
+1
+
+MR. GLEIT:
+
+Yes, Your Honor.
+
+2
+
+THE COURT:
+
+It may depend on the nature of their,
+
+3
+
+you know, the particular policy and how they're named?
+
+4
+
+Could I -- maybe I -- maybe I'll just cut to the chase.
+
+5
+
+seems to me --
+
+6
+
+MS. STEEGE:
+
+7
+
+THE COURT:
+
+It
+
+But Your Honor --- that if a co-defendant has a
+
+8
+
+contract with the debtor that says you shall take steps to
+
+9
+
+name us a co-insured or -- or a party to the insurance, and
+
+10
+
+the debtor didn't do it, so they're not named, the co-
+
+11
+
+defendant has a contract claim against the debtor.
+
+12
+
+understand the structure of the plan, with respect to that
+
+13
+
+fact pattern, because it's just really taking, literally,
+
+14
+
+through the contract, which the debtor hasn't actually acted
+
+15
+
+on.
+
+16
+
+contract, in a way that gave the co-defendant an actual,
+
+17
+
+enforceable right, in the insurance, I don't understand the
+
+18
+
+debtor's plan.
+
+19
+
+decided -- that fact pattern can only be described and not
+
+20
+
+decided.
+
+21
+
+of those contracts are the same and their rights under the
+
+22
+
+contracts are the same.
+
+And I
+
+On the other hand, if the debtor did act on the
+
+And unfortunately, I think that can't be
+
+And this plan, I think just decides it as if all
+
+23
+
+MR. GLEIT:
+
+But Your Honor --
+
+24
+
+THE COURT:
+
+The contracts with the insurer, that
+
+25
+
+is, not the debtor, the insurance contracts.
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 50
+1
+
+MR. GLEIT:
+
+Understood, Your Honor, may I respond?
+
+2
+
+THE COURT:
+
+Sure.
+
+3
+
+MR. GLEIT:
+
+A few things.
+
+We worked on the
+
+4
+
+stipulation with the so called, DMP's which highlighted the
+
+5
+
+insurance requests in their contracts, which said -- take
+
+6
+
+for an example, Walgreen's would be named as an additional
+
+7
+
+insured under a debtor's policy.
+
+8
+
+I could either send it by separate letter or I could read it
+
+9
+
+into the record, the insurance policies that are part of the
+
+Okay.
+
+And we -- and I --
+
+10
+
+evidentiary record, including the endorsements, which would
+
+11
+
+handle the DMP group, but our argument is based on the
+
+12
+
+Manvel case, that their rights, as additional insureds, and
+
+13
+
+I think it's Page 92, are merely derivative of the debtors -
+
+14
+
+-
+
+15
+
+THE COURT:
+
+That's fine, but -- but, this is the
+
+16
+
+quote from the Manvel case, McArthur, who in essence is a
+
+17
+
+stand in for the DMP's here.
+
+Quote --
+
+18
+
+MR. GLEIT:
+
+Sure.
+
+19
+
+THE COURT:
+
+-- McArthur is not left without a
+
+20
+
+remedy.
+
+It may proceed in the bankruptcy court against the
+
+21
+
+$770 million settlement fund.
+
+22
+
+settlement.
+
+Which was the insurance
+
+23
+
+MR. GLEIT:
+
+(Indiscernible), Your Honor.
+
+24
+
+THE COURT:
+
+And they're not, under this plan, they
+
+25
+
+don't -- they don't have that right.
+
+212-267-6868
+
+They don't have any
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 51
+1
+
+right.
+
+They get nothing.
+
+2
+
+MR. GLEIT:
+
+You're correct, Your Honor, and that's
+
+3
+
+why it's so -- the way, when I read my statement on Monday,
+
+4
+
+was, we have reached an agreement on the DMP's for those --
+
+5
+
+for their treatment under the plan, where they reserved some
+
+6
+
+claims and rights, but when it comes to insurance, they're
+
+7
+
+resting on their papers and we're asking you to find that
+
+8
+
+the claims are not derivative, and if they -- I mean that
+
+9
+
+they are derivative and assuming they are derivative, they
+
+10
+
+basically waive their adequate protection right, under
+
+11
+
+Manvel.
+
+So I understand --
+
+12
+
+THE COURT:
+
+But that's --
+
+13
+
+MR. GLEIT:
+
+-- what Your Honor's --
+
+14
+
+THE COURT:
+
+-- how do they waive their adequate
+
+15
+
+protection rights?
+
+16
+17
+
+MR. GLEIT:
+
+settlement with the debtors.
+
+18
+19
+
+It was -- that's part of the
+
+THE COURT:
+
+I thought they reserved this issue to
+
+MR. GLEIT:
+
+No they reserved the issue and
+
+litigate?
+
+20
+21
+
+(indiscernible) can explain, they reserved the issue to go
+
+22
+
+after the insureds directly outside of the insurance
+
+23
+
+junction.
+
+24
+
+THE COURT:
+
+But they're enjoined.
+
+25
+
+MR. GLEIT:
+
+That's my (indiscernible) --
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 52
+1
+
+THE COURT:
+
+But I thought they were enjoined.
+
+So
+
+2
+
+they -- that's no right because the plan prevents them from
+
+3
+
+doing it.
+
+4
+
+MS. STEEGE:
+
+And Your Honor, pardon me, Catherine
+
+5
+
+Steege, on behalf of the distributor group, and I represent
+
+6
+
+McKesson.
+
+7
+
+believe we have direct claims against the insurance
+
+8
+
+policies, and we think the insurance injunction fails to the
+
+9
+
+extent it doesn't recognize those direct claims.
+
+What we agreed was that with regard to -- we
+
+That's the
+
+10
+
+objection we preserved.
+
+We agreed to rest on our briefs.
+
+11
+
+The record contains a stipulation showing the contractual
+
+12
+
+provision for those distributors and pharmacies who have
+
+13
+
+these provisions, where the debtor was required to name this
+
+14
+
+as an additional insured, and the policies are part of the
+
+15
+
+record, then they contain the language that would indicate
+
+16
+
+what the debtor did to effectuate that right.
+
+17
+
+the issue before, Your Honor, is if we have direct rights
+
+18
+
+that live with the decision, we have determined we have
+
+19
+
+derivative rights as counsel argues, that yields a different
+
+20
+
+decision.
+
+So I think
+
+21
+
+THE COURT:
+
+But neither of you have briefed what
+
+22
+
+that means, derivative rights.
+
+23
+
+that.
+
+24
+
+the language.
+
+25
+
+in essence, to decide -- I mean, this is why I had these
+
+You just haven't covered
+
+I -- I don't -- you haven't -- you haven't tied it to
+
+212-267-6868
+
+You're asking me to do -- you're asking me,
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 53
+1
+
+questions.
+
+2
+
+whether we have derivative rights or direct rights.
+
+3
+
+asking me to interpret the policy terms to -- to see whether
+
+4
+
+you have a right to proceed directly against the insurer, as
+
+5
+
+opposed to proceeding against the debtor to get -- and to
+
+6
+
+compel the debtor to collect from the insurer?
+
+7
+
+-- is that the issue you want me to decide?
+
+8
+9
+
+I don't -- I -- when you say the issue is
+
+MS. STEEGE:
+correct.
+
+Are you
+
+Is that what
+
+Yes, Your Honor, I believe that's
+
+What we're -- what we're saying is, we have
+
+10
+
+independent contractual rights, as additional insureds that
+
+11
+
+the policies that are in the record, indicate what the
+
+12
+
+debtor did to effectuate that, and the contract provisions
+
+13
+
+that required them to do so, and that therefore, because we
+
+14
+
+have these direct rights, the insurance injunction can't bar
+
+15
+
+us from asserting those.
+
+16
+
+preserved.
+
+17
+
+THE COURT:
+
+18
+
+MS. STEEGE:
+
+19
+
+That's the objection that we've
+
+But -- I -- I -I supposed (indiscernible) claiming
+
+from the estate, we have waived that.
+
+20
+
+THE COURT:
+
+21
+
+MS. FRAZIER:
+
+22
+
+THE COURT:
+
+All right.
+
+But -- I've read --
+
+Your Honor --- I've read your briefs carefully.
+
+I
+
+23
+
+don't think there is one case in either brief that
+
+24
+
+interprets whether a -- a -- a party in the same position as
+
+25
+
+the MDP's, can proceed directly against an insurer or not.
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 54
+1
+
+That's just not covered.
+
+2
+
+Manvel, but Manvel is all about a channeling injunction, and
+
+3
+
+there's no channeling here.
+
+4
+
+MS. FRAZIER:
+
+5
+
+THE COURT:
+
+On the debtor's side, they argue
+
+So if you --
+
+Your Honor --- you're really asking me to, I
+
+6
+
+think, interpret an issue of insurance law, and no one's
+
+7
+
+briefed insurance law.
+
+8
+
+say that in the plan, you have direct rights to the extent
+
+9
+
+it's determined you have direct rights and leave it at that.
+
+10
+
+And if someone wants to pursue their direct rights, they can
+
+11
+
+pursue them.
+
+12
+
+state court or federal court, arguing that the merits of the
+
+13
+
+insurance coverage issue as to whether it's direct or not.
+
+14
+
+So my suggestion to you all is to
+
+And they can litigate that in front of the
+
+MS. FRAZIER:
+
+Your Honor, Heather Frazier of
+
+15
+
+Gilbert LLP on behalf of the Ad Hoc Committee of
+
+16
+
+Governmental Claimants and other contingent litigation
+
+17
+
+claims.
+
+18
+
+this coverage issues.
+
+19
+
+this -- your questioning today, we believe the releases are
+
+20
+
+clear.
+
+21
+
+matter if their claims are derivative or direct under the
+
+22
+
+insurance policies --
+
+23
+
+Our position is that, Your Honor, need not decide
+As Your Honor, started out this --
+
+They have released all of their claims.
+
+THE COURT:
+
+It does not
+
+Well, no one's briefed that issue
+
+24
+
+either.
+
+25
+
+so that could be preserved too, include whether these direct
+
+212-267-6868
+
+No one's briefed the terms of the release.
+
+Veritext Legal Solutions
+www.veritext.com
+
+You --
+
+516-608-2400
+
+Page 55
+1
+
+claims are released.
+
+2
+
+sure this is --
+
+3
+
+MS. FRAZIER:
+
+4
+
+THE COURT:
+
+To me that -- look, I -- I'm not quite
+
+Your Honor it --- being litigated in this context,
+
+5
+
+since the parties have agreed that these rights, to the
+
+6
+
+extent they exist, are preserved.
+
+7
+
+spell out, clearly, what those rights are that are
+
+8
+
+preserved, and the debtors' reservations to them, including
+
+9
+
+that they may have been waived as part of a release.
+
+10
+11
+
+MR. HUEBNER:
+
+So why not -- why not
+
+Your Honor, may I make a procedural
+
+suggestion?
+
+12
+
+THE COURT:
+
+13
+
+MR. HUEBNER:
+
+Okay.
+Davis Polk is not handling this
+
+14
+
+because we are conflicted because many of these counter
+
+15
+
+parties are, in fact, clients of our firm.
+
+16
+
+there is a resolution in here, somewhere, that people did
+
+17
+
+not intend to ask the Court to do something that they were
+
+18
+
+not comfortable with.
+
+19
+
+it groping around on this hearing.
+
+20
+
+THE COURT:
+
+21
+
+MR. HUEBNER:
+
+I feel like
+
+And I'm not sure we're going to reach
+
+Well -So if I'll make a suggestion, we
+
+22
+
+have until Wednesday, we have Ms. Frazier, we have Mr. Gleit
+
+23
+
+as (indiscernible) counsel, we have Ms. Steege and a great
+
+24
+
+number of other people, who thought they worked this all out
+
+25
+
+in a way that was acceptable.
+
+212-267-6868
+
+If I could ask and forgive me
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 56
+1
+
+for trying to be Master of Ceremonies as opposed to advocate
+
+2
+
+and litigant, because we are conflicted and that's why my
+
+3
+
+boss is staying off.
+
+4
+
+I think there are answers, and I think it might
+
+5
+
+make sense to let people to think about it and package them
+
+6
+
+up, just like on the release in the section in the first
+
+7
+
+part, Your Honor, catches stuff.
+
+8
+
+carefully than 500 lawyers, who thought it was all done
+
+9
+
+right, and we need to adjust and fix it, as the Court sort
+
+Somehow you read more
+
+10
+
+of needs it.
+
+Let the parties who are working on this figure
+
+11
+
+it out, because I don't think any of them think they're
+
+12
+
+asking you to do something that -- that they're not -- that
+
+13
+
+they don't think is appropriate, but it may make sense to
+
+14
+
+let them caucus and come back.
+
+15
+
+THE COURT:
+
+All right.
+
+Well, I just want to be
+
+16
+
+clear.
+
+17
+
+hearing, an insurance coverage dispute as to whether someone
+
+18
+
+has a direct right against an insurer or only can recover
+
+19
+
+through the debtor.
+
+20
+
+confirmation, whether if a party does have a direct right,
+
+21
+
+it waived it as part of a release.
+
+22
+
+been briefed to me.
+
+23
+
+-- it's not a condition to confirmation.
+
+24
+
+issue that the parties have already agreed to reserve to be
+
+25
+
+decided post confirmation, and that's a good idea.
+
+212-267-6868
+
+I am not deciding, as part of this confirmation
+
+I'm also not deciding, as part of
+
+Which again, has not
+
+The parties can reserve that issue.
+
+Veritext Legal Solutions
+www.veritext.com
+
+I
+
+It's I think an
+
+So if
+
+516-608-2400
+
+Page 57
+1
+
+you just want to, you know, preserve your rights, and lay
+
+2
+
+that out and only those rights are preserved, that's fine.
+
+3
+
+I think that's how you should deal with it.
+
+4
+
+that --
+
+5
+
+MAN:
+
+6
+
+THE COURT:
+
+I appreciate
+
+Your Honor --- you all were working very hard to
+
+7
+
+narrow all your disputes and have left this one for last,
+
+8
+
+but until I actually focused on it over the last couple of
+
+9
+
+days --
+
+10
+
+MS. SHANNON:
+
+11
+
+THE COURT:
+
+12
+
+MS. SHANNON:
+
+13
+
+THE COURT:
+
+14
+
+MAN:
+
+(Indiscernible) --- it just -(Indiscernible) --- it wasn't --
+
+I'm sorry.
+
+Ms. Shannon from Pennsylvania, I
+
+15
+
+believe, if you could please put your phone back on mute
+
+16
+
+(indiscernible).
+
+17
+
+THE COURT:
+
+So anyway, I think it is -- I do now
+
+18
+
+understand it.
+
+19
+
+a plan confirmation issue, which is the Manville issue.
+
+20
+
+That is a plan confirmation issue.
+
+21
+
+what we're talking about here now that I've had my questions
+
+22
+
+answered.
+
+23
+
+MAN:
+
+I think it is a reserved issue as opposed to
+
+Right.
+
+I don't think that's
+
+So I see Mr. Eckstein has come off
+
+24
+
+mute, and unlike me he is able to be involved.
+
+25
+
+perhaps hear that he has a magic answer for everybody.
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+So let us
+
+516-608-2400
+
+Page 58
+1
+
+MR. ECKSTEIN:
+
+Your Honor, I don't have a magic
+
+2
+
+answer, but I actually think that I concur with Mr.
+
+3
+
+Huebner's suggestion.
+
+4
+
+I don't think it's fair to necessarily view this as an
+
+5
+
+agreement to defer disputes with respect to insurance to
+
+6
+
+post-effective date.
+
+7
+
+for the parties following this hearing to sit down and
+
+8
+
+continue to speak about maybe clarifying what was intended
+
+9
+
+here because I fear that we could take steps backward and I
+
+10
+
+This is an extremely important issue.
+
+I think it is going to be important
+
+don't want to --
+
+11
+
+THE COURT:
+
+12
+
+MR. ECKSTEIN:
+
+13
+
+THE COURT:
+
+14
+
+MR. ECKSTEIN:
+
+15
+
+Right.
+
+Well --
+
+-- do that at this point in time.
+
+-- if you -So I think we need some time to
+
+talk this through.
+
+16
+
+THE COURT:
+
+17
+
+to be very frank with you all.
+
+18
+
+narrow issue, but I think it is an issue of reserved rights.
+
+19
+
+I don't think it's a condition to confirmation, and it's not
+
+20
+
+opening up all the other things that the parties have
+
+21
+
+resolved.
+
+22
+
+is whether this release covers this set of facts or not, I
+
+23
+
+guess I can decide that issue.
+
+24
+
+something that was briefed to me.
+
+25
+
+it was briefed to me unless there was a brief that I didn't
+
+212-267-6868
+
+That's fine.
+
+That's fine, but I want
+
+The issue, I believe, is a
+
+It really is just -- I guess if the narrow issue
+
+That certainly was not
+I mean, not one word of
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 59
+1
+
+get, you know, that we couldn't find on the docket.
+
+2
+
+as far as the coverage issue is concerned -- I think I've
+
+3
+
+said what I want to say.
+
+4
+
+MR. ECKSTEIN:
+
+So, but
+
+I think your point is clear, Your
+
+5
+
+Honor, but I think Your Honor appreciates from a slant
+
+6
+
+standpoint and from a settlement standpoint, the MDT is
+
+7
+
+expecting to utilize the proceeds of insurance for the
+
+8
+
+benefit of the abatement funds and the creditors have relied
+
+9
+
+very directly on the insurance.
+
+10
+
+THE COURT:
+
+11
+
+MR. ECKSTEIN:
+
+12
+
+Well, that's true.
+And I think what we want to avoid
+
+is competition with the insurance.
+
+13
+
+THE COURT:
+
+That -- I understand that, but if they
+
+14
+
+actually have a property right in the insurance that they
+
+15
+
+can enforce, I think that was a vain hope because they're
+
+16
+
+not getting --
+
+17
+
+MR. ECKSTEIN:
+
+18
+
+THE COURT:
+
+19
+
+MR. ECKSTEIN:
+
+20
+
+THE COURT:
+
+21
+
+MR. ECKSTEIN:
+
+That's why I think --
+
+-- anything on account of that --- we need to have some more --
+
+-- property right under the plan.
+That's why I think we need to have
+
+22
+
+some more discussions because we think that they are getting
+
+23
+
+very significant benefits under the plan.
+
+24
+
+very valuable, and so I think -- I'm hoping we can work this
+
+25
+
+out through a little more discussion.
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+The releases are
+
+516-608-2400
+
+Page 60
+1
+
+THE COURT:
+
+Okay.
+
+Very well.
+
+All right.
+
+Then
+
+2
+
+the other point I had was a whole different set of --
+
+3
+
+involved a whole different set of lawyers, which is --
+
+4
+
+pertains to the U.S. Trustee's objection to certain aspects
+
+5
+
+of the plan treatment of fee claims.
+
+6
+
+here about the defined term "professional fee claims" and
+
+7
+
+the incorporated term "professional persons", but instead
+
+8
+
+Section 5.8, which, based on the evidence before me, was a
+
+9
+
+carefully and heavily negotiated set of provisions to deal
+
+10
+
+primarily with what appear to me to be pre-petition claims
+
+11
+
+against the Debtors' estates, but some post-petition claims.
+
+12
+
+And I have testimony generally as to the
+
+And I'm not talking
+
+13
+
+reasonableness of these provisions with -- I think two
+
+14
+
+exceptions.
+
+15
+
+address because the parties have adequately briefed
+
+16
+
+everything else.
+
+17
+
+on since it's his objection?
+
+18
+
+were careful to note last time in your responding to my
+
+19
+
+questions on this set of issues, I'm not assuming that
+
+20
+
+you're waiving all your other arguments.
+
+21
+
+wanted to have some clarity on these issues.
+
+And I -- and that's all I really want to
+
+And I didn't -- do I have Mr. Schwartzberg
+
+22
+
+MR. SCHWARTZBERG:
+
+23
+
+THE COURT:
+
+Yes.
+
+Good.
+
+And I'm -- as you
+
+I just really
+
+Yes, Your Honor.
+
+And that goes for everyone else too.
+
+24
+
+Assume for the moment, and I'm not binding anyone to this
+
+25
+
+assumption because I know there are arguments that would
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 61
+1
+
+render the assumption irrelevant.
+
+2
+
+that one concludes that 1129(a)(4) would apply to the
+
+3
+
+payments contemplated, albeit not as an administrative
+
+4
+
+expense, but just contemplated by Section 5.8 of the plan.
+
+5
+
+But assume for the moment
+
+And assume for the moment that there's ample
+
+6
+
+testimony that where 5.8 covers what would be a contingency
+
+7
+
+fee or spelled out in terms of a percent fee, and the
+
+8
+
+evidence makes it clear that those fees are reasonable in
+
+9
+
+the marketplace and negotiated down as part of the overall
+
+10
+
+settlement with an increase in the settlement to pay for
+
+11
+
+them.
+
+So I'm asking you to assume all that.
+
+12
+
+There are a couple of categories of fees that are
+
+13
+
+not covered by a percent for a frankly contingency fee type
+
+14
+
+mechanism.
+
+15
+
+5.08(g) and the public schools costs and expenses, I think,
+
+16
+
+maybe not, in 4.08(h).
+
+17
+
+the case of the PI Claimant costs both for the Ad Hoc Group
+
+18
+
+of Individual Victims and the NAS Committee in connection
+
+19
+
+with the Chapter 11 cases determine or presented based on
+
+20
+
+the hourly rates of those counts.
+
+21
+
+They are the PI Claimant costs and expenses in
+
+Those are, I believe, going to be
+
+And as far as the public schools, there's a
+
+22
+
+dedicated amount that I think also is going to be based, or
+
+23
+
+at least evaluated as far as reasonableness is concerned
+
+24
+
+based on an hourly rate.
+
+25
+
+(indiscernible), a contingency fee that's not been disclosed
+
+212-267-6868
+
+Or with regard to H
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 62
+1
+
+for the class counsel.
+
+2
+
+not agree that these two categories are subject to
+
+3
+
+1129(a)(4).
+
+4
+
+review the reasonableness of those two categories?
+
+5
+
+really a question for the -- I guess maybe for Mr. Shore.
+
+6
+
+Again, I'm asking you to assume but
+
+How is it contemplated that the Court would
+
+MR. SHORE:
+
+It's
+
+Your Honor, Chris Shore from White,
+
+7
+
+White and Case on behalf of the Ad Hoc Group of Personal
+
+8
+
+Injury Victims.
+
+9
+
+plan with respect to a reasonableness review of those fees
+
+There is no current contemplation in the
+
+10
+
+because, I don't want to fight here, assumption with respect
+
+11
+
+to 1129(a)(4) --
+
+12
+
+THE COURT:
+
+Right.
+
+13
+
+MR. SHORE:
+
+-- applying to the technical way in
+
+14
+
+which the distributions are structured.
+
+So you know --
+
+15
+
+THE COURT:
+
+Okay.
+
+16
+
+MR. SHORE:
+
+-- there seem to be options that would
+
+17
+
+be available for that, and we could discuss that, but the
+
+18
+
+current -- to answer your question, there's no current drug
+
+19
+
+(indiscernible).
+
+20
+
+THE COURT:
+
+Okay.
+
+And I think I saw briefly, I
+
+21
+
+think it's counsel for the public schools come on.
+
+I don't
+
+22
+
+know if I have the public schools' counsel on or not.
+
+23
+
+Okay.
+
+24
+
+answer to that question.
+
+25
+
+an application, which obviously Mr. Schwartzberg says I
+
+No.
+
+Well, I just wanted to make sure I understood the
+
+212-267-6868
+
+I mean, one option would simply be
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 63
+1
+
+should review under 503(b), but it may well be that I come
+
+2
+
+out that I review it under 1129(a)(4).
+
+3
+
+I will also note that both of these groups have
+
+4
+
+been so active in these cases that it's hard to see why they
+
+5
+
+wouldn't be covered by 503(b).
+
+6
+
+notion that there's no reasonableness review under
+
+7
+
+1129(a)(4) for those two categories.
+
+8
+
+MR. SCHWARTZBERG:
+
+9
+
+THE COURT:
+
+But I am troubled by the
+
+Your Honor?
+
+Well, I don't know if, Mr. Shore, you
+
+10
+
+were going to say something first.
+
+11
+
+Mr. Schwartzberg.
+
+12
+
+MR. SHORE:
+
+I was.
+
+Then I'll hear from you,
+
+Let me address the only
+
+13
+
+pending objection, which is with respect to there has to be
+
+14
+
+a 503(b) application.
+
+15
+
+THE COURT:
+
+Right.
+
+16
+
+MR. SHORE:
+
+As we pointed out in our papers, the
+
+17
+
+Debtors are not paying these expenses.
+
+18
+19
+
+THE COURT:
+
+The expenses --
+
+No, I get the 503(b).
+
+I'm really
+
+focusing on 1129(a)(4).
+
+20
+
+MR. SHORE:
+
+Well, let me just -- with 503(b), the
+
+21
+
+consequence of a 503(b) application is that if the state
+
+22
+
+pays the fees, given the way the plan is structured, that
+
+23
+
+technically would come out of the public (indiscernible)
+
+24
+
+because they bear all the risk of admin expenses.
+
+25
+
+was that the money put into the trust --
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+The deal
+
+516-608-2400
+
+Page 64
+1
+
+THE COURT:
+
+2
+
+MR. SHORE: -- to spread out -- right.
+
+3
+
+THE COURT:
+
+I understand.
+
+4
+
+MR. SHORE:
+
+So --
+
+5
+
+THE COURT:
+
+That's why I'm focusing on 1129(a)(4).
+
+6
+
+MR. SHORE:
+
+I just wanted to, you know, tie up the
+
+7
+
+I understand.
+
+record on --
+
+8
+
+THE COURT:
+
+Right.
+
+9
+
+MR. SHORE:
+
+-- on 503.
+
+10
+
+THE COURT:
+
+Right.
+
+11
+
+MR. SHORE:
+
+On 1129(a)(4), the distinction here is
+
+12
+
+that the disclosures were made to the group, and the -- who
+
+13
+
+bears the risk of (indiscernible).
+
+14
+
+that if Your Honor reviewed the invoices of White Case or
+
+15
+
+the invoices of Ask, LLP and Niger who worked throughout
+
+16
+
+this case that you're going to find anything unreasonable.
+
+17
+
+The issue would be who bears the burden of the
+
+18
+
+unreasonableness.
+
+And I'm not suggesting
+
+19
+
+THE COURT:
+
+Not the burden of proof --
+
+20
+
+MR. SHORE:
+
+So let's this is --
+
+21
+
+THE COURT:
+
+-- but who suffers if it is
+
+22
+
+unreasonable.
+
+23
+
+MR. SHORE:
+
+Right.
+
+Well, the way that the
+
+24
+
+structure works is the -- unlike the other groups, the
+
+25
+
+contingency fees of the individual members of the ad hoc
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 65
+1
+
+group are carved out under 5.8(i).
+
+2
+
+be a bottom-of-the-line deduction from the -- or below-the-
+
+3
+
+line deduction from the recoveries of personal injury
+
+4
+
+victims who, for example, have hired (indiscernible)
+
+5
+
+Thornton, who has worked throughout this case
+
+6
+
+(indiscernible).
+
+7
+
+And so they're going to
+
+Right?
+
+So what ends up happening is with respect to
+
+8
+
+anything that would be unreasonable, the members of the ad
+
+9
+
+hoc group would still have to pay those -- get double-taxed,
+
+10
+
+right?
+
+They don't get their contingency fee reimbursed.
+
+11
+
+They have to pay those fees, and the 95 percent of other
+
+12
+
+creditors who voted in favor of this get relief from that,
+
+13
+
+which is just an allocation of the risk there that people
+
+14
+
+have accepted in the context of the plan.
+
+15
+
+So that -- that's -- and I think 1129(8)(4) argued
+
+16
+
+that the trust which is receiving a distribution from the
+
+17
+
+master distribution trust is really not receiving property
+
+18
+
+of the Debtor directly.
+
+19
+
+that it's a form over substance matter.
+
+20
+
+is there is substance to the distinction in the way we've
+
+21
+
+done this.
+
+22
+
+throughout the entire Creditor body, which was not to be.
+
+So it is a -- the argument would be
+And what I'm saying
+
+Because otherwise, those fees get spread out
+
+23
+
+THE COURT:
+
+Well, that's if it -- if 503 applies.
+
+24
+
+MR. SHORE:
+
+Right, but even if -- the way this is
+
+25
+
+structured that it was put through, the other way to do it
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 66
+1
+
+would be to put the fees up at the MVT and then the free-
+
+2
+
+rider problem is spread differently, as opposed to the fees
+
+3
+
+getting inserted at the PI trust.
+
+4
+
+THE COURT:
+
+All right.
+
+5
+
+MR. SHORE:
+
+But there is a distinct -- a real
+
+6
+
+distinction to the way the plan was set up where the Debtor
+
+7
+
+is distributing to the MVT, and that the MVT, not a debtor,
+
+8
+
+is distributing to the PI trust.
+
+9
+
+THE COURT:
+
+10
+
+for the fees.
+
+11
+
+questions.
+
+12
+
+schools, but --
+
+13
+
+I understand, although it does provide
+
+So I think I have the answers to my
+
+I don't really have the answers on the public
+
+MR. HUEBNER:
+
+Your Honor, if I could jump in for a
+
+14
+
+second.
+
+I'm trying to get you the answer on the public
+
+15
+
+schools.
+
+16
+
+I'm guessing that while we all sit here that's probably not
+
+17
+
+going to happen in time.
+
+18
+
+put in a letter to help explain.
+
+19
+
+they might not have just known, you know, that their issues
+
+20
+
+were resolved several months ago, that this hearing frankly
+
+21
+
+was on for today --
+
+I've emailed their counsel (indiscernible), though
+
+22
+
+THE COURT:
+
+23
+
+MR. HUEBNER:
+
+24
+
+So it may be that we ask them to
+I don't (indiscernible) --
+
+Right.
+-- about their fees.
+
+Your Honor,
+
+let me help with some --
+
+25
+
+THE COURT:
+
+212-267-6868
+
+Well, can I just say --
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 67
+1
+
+MR. HUEBNER:
+
+2
+
+THE COURT:
+
+3
+
+them.
+
+4
+
+by the --
+
+-- I think you could relay this to
+
+There are two categories of fees and expenses covered
+
+5
+
+MR. HUEBNER:
+
+6
+
+THE COURT:
+
+7
+
+H.
+-- the H, right, for the public
+
+schools.
+
+8
+9
+
+-- because it actually might --
+
+MR. HUEBNER:
+
+Yeah, you mean H(ii).
+
+I have a
+
+note, Your Honor.
+
+10
+
+THE COURT:
+
+5.8H, and then (i) is 500,000 for
+
+11
+
+payment of reimbursement and expenses, such as for special
+
+12
+
+bankruptcy counsel.
+
+Now --
+
+13
+
+MR. HUEBNER:
+
+14
+
+THE COURT:
+
+Yep.
+-- I -- just because it says special
+
+15
+
+bankruptcy counsel, I'm assuming that's post-petition, so
+
+16
+
+it's not covered by UM&M.
+
+17
+
+Merchants and Manufacturers, so it is a post-petition
+
+18
+
+amount.
+
+19
+
+$500,000 worked, you know, 20 hours for it, that's not
+
+20
+
+reasonable.
+
+21
+
+or reimburse the punitive class counsel.
+
+22
+
+probably there is a contingency fee analysis there, but I
+
+23
+
+don't know what it is.
+
+24
+
+which I have ample testimony is reasonable, you know?
+
+25
+
+think -- this --
+
+212-267-6868
+
+It's not covered by United
+
+And you know, if the people that are getting this
+
+I have no idea.
+
+When two, the (II) is to pay
+And I'm assuming
+
+Unlike the amount for the others,
+
+Veritext Legal Solutions
+www.veritext.com
+
+I
+
+516-608-2400
+
+Page 68
+1
+
+MR. HUEBNER:
+
+2
+
+THE COURT:
+
+3
+
+I don't know.
+
+4
+
+And Your Honor ---- might be a 50 percent contingency.
+
+So that's really what I'm focusing on.
+
+MR. HUEBNER:
+
+Your Honor, I agree, and I actually
+
+5
+
+have H1 and (ii) open in front of me and so I've been
+
+6
+
+following along.
+
+7
+
+approach would've simply have been because it may be that
+
+8
+
+the contingency fee is unusually low and that it should be
+
+9
+
+wrapped into a single approach, which is reasonable and --
+
+It also may be, frankly, that the better
+
+10
+
+THE COURT:
+
+11
+
+MR. HUEBNER:
+
+12
+
+THE COURT:
+
+13
+
+Well, yeah.
+
+If I knew --
+
+-- maybe it'd (indiscernible).
+-- that it was 20 percent or 10
+
+percent or whatever, that shouldn't be a problem.
+
+14
+
+MR. HUEBNER:
+
+15
+
+THE COURT:
+
+16
+
+MR. HUEBNER:
+
+17
+
+THE COURT:
+
+18
+
+MR. HUEBNER:
+
+19
+
+THE COURT:
+
+And --
+
+Exactly.
+-- if that were the case -So (indiscernible) --- I think I would need --- (indiscernible) --- an 1129(a)(4) application.
+
+I think
+
+20
+
+I may for the 500,000 because that doesn't seem to be tied
+
+21
+
+necessarily even to hourly rates.
+
+22
+
+MR. HUEBNER:
+
+Yep.
+
+And it may be that combining
+
+23
+
+them into a number and having the contingency lawyers pay
+
+24
+
+the bankruptcy things out of a very reasonable fee is an
+
+25
+
+even easier approach.
+
+212-267-6868
+
+So we -- as steward of the process,
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 69
+1
+
+we will chase it down.
+
+2
+
+because I think it's actually very -- I hope it will helpful
+
+3
+
+for 45 seconds zoom out on this because it's important and I
+
+4
+
+think it will give context to the answers both that you got
+
+5
+
+and that you did not get.
+
+6
+
+Your Honor, let me, if I may,
+
+So Your Honor, Mr. Price, as I told you on Monday,
+
+7
+
+as counsel to the UCC, I've counted 30 intra-Creditor and
+
+8
+
+other settlements in the plan of which this is one, and I
+
+9
+
+only counted 14.
+
+Probably had I listed 30, I think somebody
+
+10
+
+would've come and found me and done things to me.
+
+11
+
+stopped at 14.
+
+12
+
+So I
+
+As I think I made clear, sometimes the Debtors
+
+13
+
+were deeply involved in those.
+
+Sometimes they were utterly
+
+14
+
+not involved at all, and they were told this is the deal we
+
+15
+
+have reached, put it in the plan.
+
+16
+
+it.
+
+17
+
+came up to us, we were flummoxed because essentially we were
+
+18
+
+told the states are refusing to allow the amount of
+
+19
+
+attorneys' fees negotiated for between private parties and
+
+20
+
+their creditors.
+
+Sometimes we facilitate
+
+Sometimes we actually mediated.
+
+21
+
+When this attorney fee
+
+And some states are refusing to allow other states
+
+22
+
+to be paid with their contingency fee contracts required.
+
+23
+
+And we said we're confused, and they said, well, we're not
+
+24
+
+just creditors, we're states, and we want to ensure that as
+
+25
+
+much money as humanly possible goes to abatement and less
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 70
+1
+
+money goes to lawyers.
+
+2
+
+you remember their twin hats.
+
+3
+
+on everyone and on each other, including states who had
+
+4
+
+outside counsel and states who didn't.
+
+5
+
+evidence makes clear they dramatically by hundreds of
+
+6
+
+millions of dollars lowered the attorney's fees otherwise
+
+7
+
+applicable.
+
+8
+
+THE COURT:
+
+9
+
+MR. HUEBNER:
+
+10
+11
+
+THE COURT:
+
+And that made a lot of sense when
+
+Right.
+
+So then went in and hammered
+
+Because I think the
+
+And the --
+
+In essence --- record is clear on that point.
+
+I
+
+understand that.
+
+12
+
+MR. HUEBNER:
+
+Understood, Your Honor.
+
+And so I --
+
+13
+
+but let -- and I apologize.
+
+14
+
+get to the punchline, and I'm sorry for that.
+
+15
+
+character flaw.
+
+16
+
+case, the Debtor's Estate would be directed to just send the
+
+17
+
+money to the Claimants and the lawyers would just scoop
+
+18
+
+whatever it is their contracts say and we know it would be
+
+19
+
+much, much higher than this.
+
+20
+
+substantially limits the fees and that's the overall
+
+21
+
+context.
+
+22
+
+certainly not objecting because he's trying to take 800
+
+23
+
+million dollars away from victims and instead give it back
+
+24
+
+to lawyers who have conceded it to their clients.
+
+25
+
+So I'm confident we will figure it out.
+
+212-267-6868
+
+I know that I take too long to
+It's just a
+
+So the issue is as follows: in any other
+
+What 5.8 does is it
+
+I know that Mr. Schwartzberg is certainly,
+
+Veritext Legal Solutions
+www.veritext.com
+
+It's just
+
+516-608-2400
+
+Page 71
+1
+
+again, it's important that it be clear to everybody.
+
+2
+
+context of 5.8 is taking hundreds of millions of dollars
+
+3
+
+away from lawyers who had contracted for those amounts and
+
+4
+
+instead makes sure that their clients get it.
+
+5
+
+was one of the very many intercreditor public policy
+
+6
+
+settlements embedded in the plan.
+
+7
+
+The
+
+And so this
+
+And, you know, it brings me to my final point,
+
+8
+
+which is on many levels, I wish I had never said one word at
+
+9
+
+this confirmation hearing because it would have actually
+
+10
+
+been a truer representation of this plan if the
+
+11
+
+representatives of the tort victims had themselves done the
+
+12
+
+argument as to why this settlement is in everyone's best
+
+13
+
+interest and the representatives of the states had made oral
+
+14
+
+argument about how they insisted that hundreds of millions
+
+15
+
+of dollars be transferred from lawyers to victims.
+
+16
+
+Creditors Committee should have testified orally, not just
+
+17
+
+in their awesome brief and made argument about how the
+
+18
+
+Iridium standard is satisfied.
+
+19
+
+The
+
+So on some level, the fact that the Debtors'
+
+20
+
+counsel in our many meetings kept getting allocated all the
+
+21
+
+oral arguments in some ways cast a misimpression.
+
+22
+
+not the Debtors' plan; it's everyone's plan.
+
+23
+
+victims' plan and the states' plan and the PIs plan, and the
+
+24
+
+hospitals' plan, and the tribes' plan.
+
+25
+
+important thing of anything that I hope this confirmation
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+This is
+
+It's the
+
+And that's the most
+
+516-608-2400
+
+Page 72
+1
+
+hearing conveyed.
+
+2
+
+the victims for the victims, supported by the victims and
+
+3
+
+this attorney fee thing, with which I will close, is a
+
+4
+
+tremendous public policy win for the victims that is cloaked
+
+5
+
+in lawyer language and 5.8(Q)(h)(1)(i), but it's important
+
+6
+
+that people understand this was public servants hammering on
+
+7
+
+lawyers to take 10 percent and 12 percent and 14 percent
+
+8
+
+instead of 20 or 30 or 40.
+
+9
+
+we believe that 5.8 is defensible and why analytically --
+
+10
+
+and this is in the briefs -- it's not at all obvious that
+
+11
+
+1129(a)(4) applies because it wouldn't have applied in any
+
+12
+
+other case but for the insistence that the fees be lowered.
+
+13
+
+Otherwise, the Claimant Representatives would have just
+
+14
+
+gotten the money and they would have just scooped a much
+
+15
+
+larger amount as their contracts contemplated.
+
+16
+
+It's not Purdue's plan.
+
+It's the plan of
+
+And I hope that helps inform why
+
+So, Your Honor, I just wanted to frame it because
+
+17
+
+it's just a public, important case.
+
+18
+
+that it is helpful and I have nothing further.
+
+19
+
+THE COURT:
+
+Okay.
+
+I hope, I just hope
+
+Well, I think that was largely
+
+20
+
+for perhaps the public because I think you-all can tell from
+
+21
+
+my questions that all of what you said came through with
+
+22
+
+this regard to this provision in the parties' briefs and the
+
+23
+
+evidence presented in the declarations with the two
+
+24
+
+exceptions that I was addressing because, you know, I don't
+
+25
+
+know, I don't think that the PI Group and the NAS Group were
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 73
+1
+
+hammered because there's no -- it just says they'll get paid
+
+2
+
+what they get paid.
+
+3
+
+hourly rates.
+
+4
+
+So I also think they're being paid on
+
+I've seen their counsel.
+
+They've been responsible
+
+5
+
+counsel in the case, but I do have some concern that
+
+6
+
+notwithstanding the arguments that have been made, that
+
+7
+
+technically 1129(a)(4) doesn't apply, that there should be a
+
+8
+
+mechanism to address the reasonableness of these two
+
+9
+
+categories that hasn't really been addressed in the evidence
+
+10
+
+for far.
+
+11
+
+MR. HUEBNER:
+
+Understood.
+
+As I said, we will get
+
+12
+
+to the schools as soon as this hearing is over and figure
+
+13
+
+out what the facts are to get the Court hopefully quite
+
+14
+
+comfortable and I can see Mr. Shore.
+
+15
+
+side of things and we'll respond to the Court in the way
+
+16
+
+that he seems, he believes most appropriate.
+
+17
+
+THE COURT:
+
+Okay.
+
+We'll figure out his
+
+All right.
+
+Mr. Schwartzberg,
+
+18
+
+it was mostly a question for the plan proponent side, but I
+
+19
+
+don't know if you have anything to say on this?
+
+20
+
+MR. SCHWARTZBERG:
+
+21
+
+THE COURT:
+
+I do, Your Honor.
+
+This is isn't intended to be oral
+
+22
+
+argument on all the issues, because all the fee issues were
+
+23
+
+briefed and I heard evidence on them and I got evidence on
+
+24
+
+them.
+
+25
+
+point.
+
+I was really just focusing on this fairly narrow
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 74
+1
+
+MR. SCHWARTZBERG:
+
+Yes, Your Honor.
+
+What we
+
+2
+
+believed it boiled down to was transparency and oversight.
+
+3
+
+Victims' monies being used to pay attorney fees and we
+
+4
+
+appreciate and are happy that they are being less, but we
+
+5
+
+believe there should be oversight and transparency of those
+
+6
+
+fees so that when the money gets paid, victims know where
+
+7
+
+it's going and how much is being paid.
+
+8
+9
+
+THE COURT:
+
+Well, I think it spells out and I have
+
+uncontested affidavits on every category of fee here, I
+
+10
+
+believe, except for the PI claimant costs and expenses in
+
+11
+
+the public schools.
+
+12
+
+transparency.
+
+13
+
+So frankly, I think I have
+
+MR. SCHWARTZBERG:
+
+And, if I may, Your Honor, it's
+
+14
+
+not a question with respect to the PI Trustee, there will be
+
+15
+
+transparency with respect to money coming in and money out.
+
+16
+
+THE COURT:
+
+Oh, I understand that.
+
+There is a
+
+17
+
+mechanism in the plan for the allocation of the money and
+
+18
+
+how it's paid over time.
+
+19
+
+administrative expenses here.
+
+20
+
+503 issue, I don't believe.
+
+21
+
+issue.
+
+22
+
+So we're not talking about
+
+MR. SCHWARTZBERG:
+
+This is not, this is not a
+I think it's an 1129(a)(4)
+
+And I will speak to Mr. Huebner
+
+23
+
+to the extent that Your Honor were to rule that 1129(a)(4)
+
+24
+
+does apply here, notwithstanding the objection to that,
+
+25
+
+we'll work out a mechanism for who does the reasonableness
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 75
+1
+
+review and how --
+
+2
+
+THE COURT:
+
+It says the Court.
+
+1129(a)(4) says
+
+3
+
+the Court.
+
+4
+
+the other ones, which is uncontroverted.
+
+5
+
+can delegate it to some other group or some other person.
+
+6
+
+Okay, thank you.
+
+7
+
+So, I have, as the Court, I have evidence on all
+
+MR. ISRAEL:
+
+I don't think we
+
+Your Honor, Harold Israel very
+
+8
+
+briefly on behalf of NAS Committee and with respect to our
+
+9
+
+relatively small portion of the PI Trust, I would submit
+
+10
+
+that the declaration does support the war that we are
+
+11
+
+getting paid on and perhaps to be carved out of that, but
+
+12
+
+understand that Your Honor may feel different.
+
+13
+
+THE COURT:
+
+It supports -- look, you group has
+
+14
+
+been very active in the case and frankly I think if they
+
+15
+
+wanted to, could prevail on a substantial contribution, 503
+
+16
+
+application, but they decided that they're willing to be
+
+17
+
+paid this way instead, which is not as good as a means of
+
+18
+
+payment than getting the money up front.
+
+On the other hand,
+
+19
+
+the quality of the work isn't the issue.
+
+It's really just a
+
+20
+
+loadstar, you know, looking at the hours.
+
+21
+
+good work, but it turns out that the hours were five times
+
+22
+
+as much than a normal firm would make to do that good work,
+
+23
+
+then that's a problem.
+
+24
+
+star if it's actually one-half the time.
+
+25
+
+MR. ISRAEL:
+
+212-267-6868
+
+If you did really
+
+On the other hand, you get a gold
+
+Understood, Your Honor.
+
+Veritext Legal Solutions
+www.veritext.com
+
+Thank you.
+
+516-608-2400
+
+Page 76
+1
+
+THE COURT:
+
+I think Congress, in this context,
+
+2
+
+really did want the Court to make that reasonableness
+
+3
+
+determination, although they left it up to, Congress left it
+
+4
+
+up to the Court how to do that.
+
+5
+
+evaluating a contingency fee.
+
+6
+
+a contingency fee, your group.
+
+7
+
+don't think I have evidence on the NAS PI groups being on a
+
+8
+
+contingency fee.
+
+9
+
+but I think it's an hourly calculation, which requires my
+
+And that includes
+I don't think your firm is on
+I think they're hourly.
+
+I
+
+If I missed that, you should let me know,
+
+10
+
+looking at the hours.
+
+11
+
+MR. ISRAEL:
+
+12
+
+THE COURT:
+
+Understood, Your Honor.
+All right.
+
+Thank you.
+
+Thank you.
+Okay.
+
+That
+
+13
+
+was very helpful to me on both of those issues: the 508
+
+14
+
+issue and the codefendant issue.
+
+15
+
+taking the extra time to clarify that for me, those
+
+16
+
+questions.
+
+So I appreciate everyone
+
+17
+
+I don't know if there's anything else?
+
+18
+
+MR. KAMINETZKY:
+
+Your Honor, I have one
+
+19
+
+administrative issue, if you could give me another 90
+
+20
+
+seconds, or give us another 90 seconds.
+
+21
+
+THE COURT:
+
+22
+
+MR. KAMINETZKY:
+
+23
+
+on behalf of the Debtors.
+
+24
+
+injunction with this Court entered on June 17th, at Docket
+
+25
+
+274 in the Adversary Proceeding No. 19-08289 is set to
+
+212-267-6868
+
+Okay.
+Benjamin Kaminetzky of Davis Polk
+The most recent preliminary
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 77
+1
+
+expire this Monday, August 30th.
+
+So there will be a small
+
+2
+
+gap in the protection afforded by the preliminary injection
+
+3
+
+and the voluntary injection between Monday and Wednesday,
+
+4
+
+September 1st, which is when the Court intends to issue its
+
+5
+
+ruling on confirmation.
+
+6
+
+We thought through this and we believe the most
+
+7
+
+expedient way to deal with this issue is for the Court to
+
+8
+
+enter a very modest bridge order extending the preliminary
+
+9
+
+injunction through its ruling on confirmation on Wednesday,
+
+10
+
+September 1st.
+
+11
+
+At that time, should the Court confirm the plan,
+
+12
+
+the Debtors intend to request that the Court grant another
+
+13
+
+short bridge extension.
+
+14
+
+confirmation order that would extend the preliminary
+
+15
+
+injunction through the effective date.
+
+16
+
+56(a) of the proposed confirmation order.
+
+17
+
+however, or likely will be that the actual order is not
+
+18
+
+entered on Wednesday if this plan is confirmed on that day
+
+19
+
+and in any event, Bankruptcy Rule 3020(e) provides that the
+
+20
+
+confirmation order is stayed until the expiration of 14 days
+
+21
+
+after entry of the order.
+
+22
+
+bridge order at that time between September 1st and the
+
+23
+
+expiration of the 14-day stay.
+
+24
+25
+
+There's a provision in the proposed
+
+That is at Paragraph
+It may be,
+
+So the Debtors would seek a
+
+If the Court does not confirm the plan on
+Wednesday, the Debtors would also seek short extension to
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 78
+1
+
+assess the appropriateness of seeking a further extension as
+
+2
+
+well as the appropriate contours of form of any such
+
+3
+
+extension.
+
+4
+
+The UCC, the AHC, the MSGE support this request.
+So what the Debtors have done is we've prepared a
+
+5
+
+form of order that is virtually identical to the forms of
+
+6
+
+order previous entered by the Court.
+
+7
+
+provision allowing the states to agree to voluntarily abide
+
+8
+
+by the preliminary injunction rather than be formally bound
+
+9
+
+by it.
+
+This includes the
+
+The Debtors assume that the states and other
+
+10
+
+governmental entities, including the plan objectors, will
+
+11
+
+want to continue to voluntarily abide by the order rather
+
+12
+
+than be bound by it.
+
+13
+
+So, in sum, Your Honor, we just need a bridge to
+
+14
+
+get us to Wednesday and then on Wednesday we can see what
+
+15
+
+happens and then see what other further bridge is necessary.
+
+16
+
+THE COURT:
+
+Okay.
+
+17
+
+MR. TROOP:
+
+Your Honor, if I may, it's Andy Troop
+
+18
+
+for the non-consenting states.
+
+19
+
+Debtors continuing inability to reach out to us and talk to
+
+20
+
+us about these issues that really are focused on members of
+
+21
+
+the non-consenting states and not the other groups that have
+
+22
+
+consented to the relief that they're requesting.
+
+23
+
+have no authority from my group to make any recommendation
+
+24
+
+for that.
+
+25
+
+THE COURT:
+
+212-267-6868
+
+I remained flummoxed by the
+
+That's fine.
+
+I clearly
+
+Can I ask you when does
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 79
+1
+
+this expire?
+
+At the end of the day on Monday?
+
+2
+
+MR. KAMINETZKY:
+
+3
+
+THE COURT:
+
+4
+
+MR. KAMINETZKY:
+
+5
+
+THE COURT:
+
+Monday.
+
+At the end of the day.
+
+Okay.
+
+Yeah.
+My strong inclination would be
+
+6
+
+to provide that bridge order on Monday, but you should talk
+
+7
+
+it through with Mr. Troop.
+
+8
+
+sought and the state of the case at this point, it would be
+
+9
+
+highly unlikely that I wouldn't grant the relief, but I
+
+10
+
+Given, given the short extension
+
+think you just ought to run it by Mr. Troop's clients.
+
+11
+
+MR. KAMINETZKY:
+
+Yeah.
+
+The flummoxed, with all
+
+12
+
+due respect, is due to the fact we thought we would get a
+
+13
+
+ruling today.
+
+14
+
+THE COURT:
+
+15
+
+MR. KAMINETZKY:
+
+16
+
+we would imagine.
+
+17
+
+I understand.
+So this is as modest a request as
+
+So.
+
+THE COURT:
+
+Frankly, I'm glad that you remembered
+
+18
+
+it.
+
+I thought that the injection went through the
+
+19
+
+confirmation hearing, but now recall that you-all tailored
+
+20
+
+it to be time-sensitive because you were worried -- people
+
+21
+
+were worried it would be unduly delayed, the confirmation
+
+22
+
+hearing, which as you can see --
+
+23
+
+MR. KAMINETZKY:
+
+24
+
+THE COURT:
+
+25
+
+Right --
+
+-- was just the opposite.
+
+So why
+
+don't we leave it at that?
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 80
+1
+
+MR. TROOP:
+
+Thank you, Your Honor.
+
+2
+
+THE COURT:
+
+Okay.
+
+3
+
+MR. EDMUNDS:
+
+Your Honor, if I may quickly, Brian
+
+4
+
+Edmunds for the State of Maryland.
+
+5
+
+for specifically the objecting states, echo what Mr. Troop
+
+6
+
+said for the objecting states, though I think communication
+
+7
+
+through him will cover us.
+
+8
+9
+
+THE COURT:
+
+Okay.
+
+I would just echo that
+
+Thank you.
+
+Look, this is -- to
+
+me, this is a technical administrative extension and, in all
+
+10
+
+likelihood, I would grant it, but I also want to let you
+
+11
+
+know that I have two battling rabbi brothers in court on
+
+12
+
+Monday for most of the day and while you may be sweating
+
+13
+
+bullets that it has not been entered by four in the
+
+14
+
+afternoon, it will get entered one way or the other, I'm
+
+15
+
+confident, on Monday.
+
+16
+
+chambers, don't panic.
+
+17
+
+Sacks brother.
+
+18
+
+MR. EDMUNDS:
+
+19
+
+THE COURT:
+
+20
+
+It's just I have to deal with the
+
+Okay.
+Okay, thank you.
+
+All right, thank you
+
+all.
+
+21
+22
+
+If you haven't heard from my
+
+(Whereupon, these proceedings were concluded at
+11:48 AM)
+
+23
+24
+25
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+Page 81
+1
+
+C E R T I F I C A T I O N
+
+2
+3
+4
+
+I, Sonya Ledanski Hyde, certified that the foregoing
+transcript is a true and accurate record of the proceedings.
+
+5
+6
+7
+8
+
+Sonya Ledanski Hyde
+
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+Veritext Legal Solutions
+
+21
+
+330 Old Country Road
+
+22
+
+Suite 300
+
+23
+
+Mineola, NY 11501
+
+24
+25
+
+Date:
+
+August 27, 2021
+
+212-267-6868
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+[& - addressed]
+&
+& 3:12 5:8 17:11
+1
+1 72:5
+10 68:12 72:7
+10.3 19:4
+10.6 18:2,14 19:10
+20:9 23:14,16
+24:7,20 25:5,11
+25:17 26:15 27:12
+36:14,18 39:18
+10.7 18:3,14 19:10
+20:9 21:7 23:22
+24:14 25:10,20
+10.7. 23:15 24:10
+25:5
+10.b 23:21,22
+100 46:22
+10001 3:15
+10007 3:21
+10014 4:4
+10017 3:6
+10019 4:11
+10036 5:11
+1006 4:3
+101 39:2
+10601 1:14
+10:00 2:7
+10:03 1:17
+11 13:6 14:12
+35:14 39:22 40:9
+41:22 61:19
+11.1 32:2
+1129 61:2 62:3,11
+63:2,7,19 64:5,11
+65:15 68:19 72:11
+73:7 74:20,23
+75:2
+11501 81:23
+1177 5:10
+11:48 80:22
+12 72:7
+
+212-267-6868
+
+Page 1
+1300 5:3
+14 47:6 69:9,11
+72:7 77:20,23
+15th 40:24
+164 16:17
+17th 76:24
+19-08289 76:25
+19-23649 1:3
+1st 14:20 77:4,10
+77:22
+2
+2 5:3
+20 43:13 67:19
+68:12 72:8
+200 4:17
+201 4:3
+2019 42:7
+2021 1:16 81:25
+20852 4:18
+248 1:13
+27 1:16 81:25
+274 76:25
+3
+30 43:7 69:7,9
+72:8
+300 1:13 81:22
+3020 77:19
+3077 2:6,6
+30th 77:1
+31 4:10
+3137 2:6
+32 21:16
+330 81:21
+3484 2:6
+3485 2:6
+3486 2:6
+3rd 3:20
+4
+4 61:2 62:3,11
+63:2,7,19 64:5,11
+65:15 68:19 72:11
+73:7 74:20,23
+
+75:2
+4.08 61:16
+40 72:8
+45 69:3
+450 3:5
+48 44:18
+5
+5.08 61:15
+5.8 60:8 61:4,6
+65:1 70:19 71:2
+72:5,9
+5.8h 67:10
+50 68:2
+500 56:8
+500,000 67:10,19
+68:20
+503 63:1,5,14,18
+63:20,21 64:9
+65:23 74:20 75:15
+508 76:13
+524 30:17,24
+52nd 4:10
+55 3:14
+56 77:16
+6
+60602 5:4
+7
+770 50:21
+8
+8 65:15
+800 70:22
+86 3:20
+9
+9/13/2021 2:7
+90 76:19,20
+92 50:13
+95 65:11
+a
+aaron 6:3
+abatement 46:11
+59:8 69:25
+
+Veritext Legal Solutions
+www.veritext.com
+
+abby 6:10
+abide 78:7,11
+ability 17:3
+able 15:7 40:17
+45:19 57:24
+absolutely 16:25
+43:14
+acceptable 55:25
+accepted 65:14
+accomplish 35:5
+account 59:18
+accurate 81:4
+achieved 32:12
+act 49:15
+acted 49:14
+action 18:20 20:6
+20:13 21:2 27:12
+29:4 32:5 43:11
+43:16,17
+actions 29:1
+active 63:4 75:14
+actual 49:16
+77:17
+ad 4:9 5:2 54:15
+61:17 62:7 64:25
+65:8
+adam 7:20 11:17
+added 19:5
+addition 13:19
+48:21
+additional 38:14
+40:8 47:20,21,24
+50:6,12 52:14
+53:10
+address 13:10,23
+14:16,22 27:25
+30:7 40:18,22
+46:17 60:15 63:12
+73:8
+addressed 14:9
+23:14,15 28:19
+31:12 73:9
+
+516-608-2400
+
+[addressing - attorneys]
+addressing 72:24
+adequate 51:10
+51:14
+adequately 60:15
+adjournment 2:3
+adjust 56:9
+admin 63:24
+administrative
+61:3 74:19 76:19
+80:9
+adopt 38:17 40:13
+adversary 76:25
+advise 16:3
+advocate 56:1
+affidavits 74:9
+afforded 77:2
+afternoon 80:14
+ag's 44:1
+ago 43:12 66:20
+agree 32:25 33:6
+33:7 39:25 62:2
+68:4 78:7
+agreed 15:20
+18:19 19:4 34:5,7
+34:8 37:7 46:10
+52:6,10 55:5
+56:24
+agreeing 37:9
+agreement 19:2
+37:6 51:4 58:5
+agrees 40:1
+ahc 78:3
+aisling 9:18
+al 13:3
+albeit 61:3
+aleali 5:16
+alexander 8:18
+alfano 5:17
+alice 11:22
+allegation 35:10
+allegations 35:8
+allege 31:8
+
+212-267-6868
+
+Page 2
+
+allen 11:24
+allison 12:11
+allocated 71:20
+allocation 16:2
+65:13 74:17
+allow 40:7 69:18
+69:21
+allowing 78:7
+allows 35:10
+alluded 31:2
+amanda 9:16
+ambiguity 37:25
+38:5
+amended 13:6
+14:12 16:20,21
+17:15,16 19:13
+america 33:9
+americas 5:10
+amount 14:10
+61:22 67:18,23
+69:18 72:15
+amounts 71:3
+ample 61:5 67:24
+analysis 31:16
+67:22
+analytically 72:9
+andrew 4:13 5:17
+9:17
+andy 78:17
+angela 7:22
+anker 5:18
+ann 8:17
+announce 15:5
+16:9
+announcement
+14:22
+answer 20:20
+48:11,14 57:25
+58:2 62:18,24
+66:14
+answered 57:22
+answers 19:25
+56:4 66:10,11
+
+69:4
+anticipation
+45:13
+anybody's 44:21
+anymore 26:8
+anyway 57:17
+apologize 15:6
+70:13
+appeal 46:4
+appear 39:18
+60:10
+appears 41:24
+47:6
+applicable 26:3
+70:7
+application 62:25
+63:14,21 68:19
+75:16
+applied 72:11
+applies 17:20
+65:23 72:11
+apply 23:24 61:2
+73:7 74:24
+applying 43:18
+62:13
+appreciate 15:19
+57:3 74:4 76:14
+appreciates 59:5
+approach 68:7,9
+68:25
+appropriate
+56:13 73:16 78:2
+appropriately
+43:15
+appropriateness
+78:1
+architecture
+17:24 18:17
+ardavan 6:21
+arguably 27:19
+argue 54:1
+argued 65:15
+
+Veritext Legal Solutions
+www.veritext.com
+
+argues 52:19
+arguing 54:12
+argument 14:10
+38:15 50:11 65:18
+71:12,14,17 73:22
+arguments 60:20
+60:25 71:21 73:6
+arik 10:5
+artem 11:10
+article 44:15
+asked 13:4,16
+41:1
+asking 31:15 51:7
+52:24,24 53:3
+54:5 56:12 61:11
+62:1
+aspect 13:24
+aspects 13:13 60:4
+asserted 29:25
+asserting 53:15
+assertion 26:12
+assess 78:1
+assist 28:10
+assume 60:24
+61:1,5,11 62:1
+78:9
+assuming 51:9
+60:19 67:15,21
+assumption 60:25
+61:1 62:10
+atinson 5:19
+attempt 30:24
+47:4
+attempting 35:4
+40:22
+attorney 3:4 4:15
+4:16 69:16 72:3
+74:3
+attorney's 3:19
+70:6
+attorneys 3:13 4:2
+4:9 5:2,9 22:19
+38:18 69:19
+
+516-608-2400
+
+[audio - case]
+audio 17:5
+august 1:16 77:1
+81:25
+auslander 5:20
+authority 78:23
+authorization 2:4
+authorize 2:4
+available 13:17
+62:17
+avenue 3:5 5:10
+avoid 38:2 59:11
+awesome 71:17
+b
+b 1:21 18:2,3,14
+18:14 19:10,10
+20:9,9,17 21:7
+23:16,22 24:7,14
+24:20 25:5,10,11
+25:17 26:15 36:14
+36:18 39:18 63:1
+63:5,14,18,20,21
+babies 5:2
+back 15:22 18:17
+20:10,14,15 24:19
+26:11,14 31:20
+34:22 56:14 57:15
+70:23
+backdoor 21:6
+backward 58:9
+balance 30:11
+baltimore 4:18
+bankruptcy 1:1
+1:11,23 18:24
+46:5 50:20 67:12
+67:15 68:24 77:19
+bar 48:18,19
+53:14
+baranpuria 5:21
+bare 35:8,10
+based 14:1 29:11
+30:5,24 47:24
+50:11 60:8 61:19
+61:22,24
+212-267-6868
+
+Page 3
+basically 46:1
+51:10
+battling 80:11
+bear 33:3 34:1
+44:3 63:24
+bears 31:1 34:6
+64:13,17
+began 43:9
+begs 48:4,22
+behalf 17:11 28:4
+37:16 47:11 52:5
+54:15 62:7 75:8
+76:23
+beiderman 7:21
+believe 19:12 22:9
+24:18 38:23 43:19
+46:20 48:18 52:7
+53:8 54:19 57:15
+58:17 61:16 72:9
+74:5,10,20 77:6
+believed 13:7
+43:12 74:2
+believes 73:16
+bench 14:1,17
+beneficiaries
+37:16
+benefit 14:11
+45:20 46:8 59:8
+benefits 19:6
+59:23
+benjamin 3:10
+23:1 76:22
+bernard 6:21
+best 32:11 71:12
+better 68:6
+beyond 21:7
+binding 60:24
+bit 33:4 41:7
+bizarre 33:4
+blabey 5:22
+blacklined 14:12
+blanket 47:18
+
+blunt 19:8
+bluntly 25:16
+board 29:1,4
+body 65:22
+bograd 5:23
+boiled 74:2
+boss 56:3
+bottom 65:2
+bound 78:8,12
+brauner 5:24
+bressler 5:25
+brian 4:20 9:4
+39:14 80:3
+brick 26:20
+bridge 77:8,13,22
+78:13,15 79:6
+brief 19:22 28:7
+53:23 58:25 71:17
+briefed 52:21 54:7
+54:23,24 56:22
+58:24,25 60:15
+73:23
+briefing 14:23
+briefly 16:22
+17:17 40:19 62:20
+75:8
+briefs 52:10 53:22
+72:10,22
+bring 16:11 24:4
+32:8 35:10 38:14
+brings 71:7
+broad 24:23
+broadening 18:11
+24:10
+broader 27:8
+broadly 27:13
+brother 80:17
+brothers 80:11
+brown 6:1
+brunswick 6:2
+bryce 7:2
+bullets 80:13
+
+Veritext Legal Solutions
+www.veritext.com
+
+burden 32:12,14
+35:18 64:17,19
+burdened 37:20
+business 45:2
+c
+c 3:1 6:12,17 8:15
+13:1 29:22 31:9
+31:23 81:1,1
+cabined 42:3,10
+cahn 6:3
+calculation 76:9
+california 14:6
+15:6,10,17,19
+32:8
+california's 14:2,2
+called 14:3 46:25
+50:4
+camera 17:6,7
+capacities 27:1
+capacity 24:25
+care 46:24
+careful 60:18
+carefully 21:13
+27:14 53:22 56:8
+60:9
+caroline 7:4
+carve 25:16
+carved 17:24 18:1
+18:14 25:2 26:1
+33:9 35:9 65:1
+75:11
+carveout 14:3
+17:20 18:11 19:10
+25:4
+case 1:3 14:25
+15:15 19:8 38:25
+39:12 42:6 45:10
+46:11 47:14 50:12
+50:16 53:23 61:17
+62:7 64:14,16
+65:5 68:15 70:16
+72:12,17 73:5
+75:14 79:8
+516-608-2400
+
+[cases - concerning]
+cases 30:7 31:1
+61:19 63:4
+cast 71:21
+catches 56:7
+categories 31:22
+61:12 62:2,4 63:7
+67:3 73:9
+category 74:9
+catherine 7:21
+11:14 52:4
+caucus 56:14
+cause 32:5
+causes 18:20 20:6
+20:12 21:2 27:12
+43:11,16,17
+ceremonies 56:1
+certain 13:13 60:4
+certainly 16:9
+58:23 70:21,22
+certified 81:3
+cetera 22:20 24:4
+24:5 26:1
+chalos 6:4
+chambers 3:20
+80:16
+chan's 42:6
+change 17:23 18:5
+18:15 20:3,14
+34:6
+changed 15:19
+35:24 41:6 43:11
+changes 14:11
+15:12 16:21 17:16
+18:7,10 19:12
+39:23 40:12
+channeling 21:19
+54:2,3
+chapter 13:6
+14:12 61:19
+character 70:15
+chase 49:4 69:1
+check 22:7
+
+212-267-6868
+
+Page 4
+chicago 5:4
+choice 46:1
+chris 62:6
+christina 10:11
+christopher 10:14
+11:4
+cicero 6:5
+circuit 30:6 31:1
+39:6,11
+circulate 13:4
+cite 19:1
+citing 19:3
+claim 17:18 18:1
+18:12,18,23 32:9
+32:10,13,16,19
+39:2,3 42:4 47:3,4
+47:8 49:11
+claimant 61:14,17
+72:13 74:10
+claimants 54:16
+70:17
+claiming 53:18
+claims 17:24
+18:11,13,21 19:11
+19:16 20:5 23:18
+25:4 26:12 28:15
+29:15 32:3 34:3
+37:3,13 42:1,3,10
+42:11 43:8 47:6
+51:6,8 52:7,9
+54:17,20,21 55:1
+60:5,6,10,11
+clarify 27:21
+39:19 76:15
+clarifying 58:8
+clarity 40:6 60:21
+class 47:6 62:1
+67:21
+claudia 11:13
+clause 22:20
+cleanup 18:5
+41:24 42:14,14
+
+clear 17:19 19:5
+22:21 26:14 28:6
+30:1,4 37:24
+38:14 40:2,2
+41:10,11 42:9,10
+42:15 43:24 44:19
+46:6 47:7,14
+54:20 56:16 59:4
+61:8 69:12 70:5
+70:10 71:1
+clearer 37:11
+clearest 30:18
+clearly 15:2 16:6
+17:12 25:19 32:4
+32:6 55:7 78:22
+clerk 23:3,5
+clients 46:15
+55:15 70:24 71:4
+79:10
+clint 6:16
+cloaked 72:4
+clock 44:1
+close 72:3
+closely 36:24
+closer 40:17
+closing 43:13
+clothing 32:17
+code 18:24
+codefendant
+76:14
+coleman 6:6,8
+collect 48:6 53:6
+collecting 48:8,8
+colloquies 33:5
+colloquy 43:4
+colorable 32:11
+32:20,22,25 33:13
+33:16,18 35:5,11
+combining 68:22
+come 30:24 32:9
+37:23 45:21 56:14
+57:23 62:21 63:1
+63:23 69:10
+
+Veritext Legal Solutions
+www.veritext.com
+
+comes 20:16
+21:17 26:14 51:6
+comfortable 37:8
+55:18 73:14
+coming 20:13,15
+74:15
+comment 28:14
+40:8
+commentary
+30:19
+comments 14:14
+14:15 24:17,18
+27:23 38:18 40:19
+40:25
+committed 37:5
+37:22
+committee 54:15
+61:18 71:16 75:8
+communication
+41:18 80:6
+company 29:5
+compare 35:7
+compel 53:6
+compensation
+27:14
+competition 59:12
+complaint 32:15
+completely 39:25
+compliance 19:7
+complicated
+37:15
+comprehensive
+37:10
+conceded 70:24
+concept 30:20
+31:3
+concern 28:18,24
+32:3 38:8 73:5
+concerned 22:11
+29:13 37:15,20,23
+42:9 59:2 61:23
+concerning 28:16
+
+516-608-2400
+
+[concerns - covers]
+concerns 28:5
+40:22
+concession 39:9
+concluded 80:21
+concludes 61:2
+concur 58:2
+condition 56:23
+58:19
+conduct 32:6
+conference 31:17
+confident 70:25
+80:15
+confirm 20:11
+77:11,24
+confirmation 2:1
+13:6,9 41:9 46:7
+56:16,20,23,25
+57:19,20 58:19
+71:9,25 77:5,9,14
+77:16,20 79:19,21
+confirmed 77:18
+conflicted 55:14
+56:2
+confused 21:11
+69:23
+confusion 44:21
+congress 76:1,3
+connection 46:4
+61:18
+connolly 6:7
+consensually 45:9
+consensus 46:22
+consented 78:22
+consenting 4:9
+78:18,21
+consequence
+63:21
+consla 6:9
+constituents
+46:11
+consumer 32:5
+contain 52:15
+
+212-267-6868
+
+Page 5
+contains 52:11
+contemplated
+61:3,4 62:3 72:15
+contemplation
+62:8
+contested 13:9
+context 30:16
+34:25 55:4 65:14
+69:4 70:21 71:2
+76:1
+contingency 61:6
+61:13,25 64:25
+65:10 67:22 68:2
+68:8,23 69:22
+76:5,6,8
+contingent 54:16
+continuance 2:1
+continue 58:8
+78:11
+continued 41:5
+continuing 78:19
+contours 78:2
+contract 49:8,11
+49:14,16 53:12
+contracted 71:3
+contractors 22:13
+22:20 24:4 26:7
+contracts 47:25
+49:21,22,24,25
+50:5 69:22 70:18
+72:15
+contractual 52:11
+53:10
+contrast 35:7
+contributed 14:6
+contributing 14:3
+36:5
+contribution
+15:21 75:15
+conversation 16:7
+conversations
+16:10 41:4
+
+conveyed 72:1
+correct 21:4,5,9
+25:12 33:19 39:4
+47:12 51:2 53:9
+corrected 19:1
+cost 34:6
+costs 34:1 61:14
+61:15,17 74:10
+counsel 52:19
+55:23 62:1,21,22
+66:15 67:12,15,21
+69:7 70:4 71:20
+73:4,5
+counted 69:7,9
+counter 55:14
+country 81:21
+counts 61:20
+couple 14:24
+15:13 46:17 57:8
+61:12
+course 45:14
+court 1:1,11 13:2
+15:3 16:4,17 17:8
+17:9,13,19 19:14
+19:17,20,24 20:3
+20:21 21:6,10,21
+22:1,8,23,25 23:4
+23:6,9,16,20 24:1
+24:9,14,16,22
+25:8,14,18 26:13
+26:18,22 27:6,19
+27:22 28:8,10,12
+29:19,21 30:6,13
+30:15,24 31:7,12
+31:15,18,19 32:7
+32:9,19,21 33:11
+33:18,22 34:11,14
+34:17,21,24 35:2
+35:13,20,22 36:8
+36:19,22 38:3,8
+38:12,16 39:3,5
+39:11 40:7,20
+41:23 42:21 43:22
+
+Veritext Legal Solutions
+www.veritext.com
+
+44:6,9,13,20,22
+45:11,15 47:13,22
+48:1,4,12,14,22
+49:2,7,24 50:2,15
+50:19,20,24 51:12
+51:14,18,24 52:1
+52:21 53:17,20,22
+54:5,12,12,23
+55:4,12,17,20
+56:9,15 57:6,11
+57:13,17 58:11,13
+58:16 59:10,13,18
+59:20 60:1,23
+62:3,12,15,20
+63:9,15,18 64:1,3
+64:5,8,10,19,21
+65:23 66:4,9,22
+66:25 67:2,6,10
+67:14 68:2,10,12
+68:15,17,19 70:8
+70:10 72:19 73:13
+73:15,17,21 74:8
+74:16 75:2,2,3,3
+75:13 76:1,2,4,12
+76:21,24 77:4,7
+77:11,12,24 78:6
+78:16,25 79:3,5
+79:14,17,24 80:2
+80:8,11,19
+court's 32:18
+44:25 45:3
+courts 30:15,22
+cover 21:19 30:23
+80:7
+coverage 54:13,18
+56:17 59:2
+covered 22:22
+25:10,24 26:8
+52:22 54:1 61:13
+63:5 67:3,16,16
+covers 19:12
+23:17 58:22 61:6
+
+516-608-2400
+
+[create - discussions]
+create 29:14
+created 37:13
+creditor 65:22
+69:7
+creditors 18:7
+37:17,18 38:25
+45:9 59:8 65:12
+69:20,24 71:16
+critically 43:24
+criticism 20:25
+cross 19:1
+crystal 46:6
+cue 30:13
+cunningham 6:10
+current 62:8,18
+62:18
+cut 36:4 49:4
+d
+d 1:22 5:6,18
+11:11 13:1 19:4
+damian 9:23
+daniel 6:7 8:19
+10:23 12:13
+danielle 8:21
+danny 23:1
+darren 8:14
+dasaro 6:13
+date 37:13,14
+38:1 58:6 77:15
+81:25
+dates 17:3
+david 5:22 6:1
+9:14 12:15
+davis 3:3 6:14
+17:11 55:13 76:22
+day 17:19 25:25
+28:11 77:18,23
+79:1,3 80:12
+days 37:1 45:6
+46:17 57:9 77:20
+deal 16:7,11,15
+25:15 29:7 45:2
+57:3 60:9 63:24
+212-267-6868
+
+Page 6
+69:14 77:7 80:16
+dealing 34:1
+42:22
+dearman 6:15
+deborah 7:17
+debtor 1:9 20:22
+26:12 27:11 36:25
+41:25 42:4 49:8
+49:10,11,14,15,25
+52:13,16 53:5,6
+53:12 56:19 65:18
+66:6,7
+debtor's 28:19,22
+45:5 47:21 48:20
+49:18 50:7 54:1
+70:16
+debtors 3:4 13:4,5
+14:5 15:2 17:12
+20:17 21:8,23
+23:11 24:2,23
+29:12,25 30:5
+32:6 36:16 39:18
+41:18 42:1 43:3
+47:12,25 50:13
+51:17 55:8 60:11
+63:17 69:12 71:19
+71:22 76:23 77:12
+77:21,25 78:4,9
+78:19
+decide 52:25 53:7
+54:17 58:23
+decided 15:23
+49:19,20 56:25
+75:16
+decides 49:20
+deciding 56:16,19
+decision 15:20
+52:18,20
+declaration 75:10
+declarations
+72:23
+dedicated 61:22
+
+deduction 65:2,3
+deeply 44:2 69:13
+defendant 13:13
+16:19 47:1,3,6,7
+49:7,11,16
+defendants 25:16
+defensible 72:9
+defer 58:5
+defined 17:22,25
+18:23,24,24 21:13
+21:16,23 22:9,12
+22:16 27:13 30:23
+39:3 43:18 60:6
+definitely 24:11
+definition 13:15
+17:18 20:4,15
+21:22 22:1 23:10
+24:22,23 25:22
+26:2,23,24 27:3
+28:14 32:23 33:14
+33:14 36:17,18
+38:20 39:2 42:11
+47:3
+del 12:16
+delay 42:20 46:18
+delayed 46:24
+79:21
+delegate 75:5
+deleted 17:21 41:1
+43:17
+department 4:1
+depend 48:24
+49:2
+derivative 28:18
+28:22 29:2,9,11
+29:24 30:5,16,21
+30:23 31:3,8,21
+50:13 51:8,9,9
+52:19,22 53:2
+54:21
+described 49:19
+determination
+76:3
+
+Veritext Legal Solutions
+www.veritext.com
+
+determine 33:17
+61:19
+determined 52:18
+54:9
+devices 35:14
+differences 45:19
+46:2
+different 23:24
+33:24 40:1,5 45:8
+52:19 60:2,3
+75:12
+differently 66:2
+difficulty 43:10
+direct 29:2,3,15
+47:23 52:7,9,17
+53:2,14 54:8,9,10
+54:13,21,25 56:18
+56:20
+directed 70:16
+direction 40:4
+directions 28:11
+directly 18:1,14
+37:23 51:22 53:4
+53:25 59:9 65:18
+disagree 35:17
+disagrees 39:6
+discharged 40:16
+disclosed 61:25
+disclosing 41:17
+disclosures 64:12
+discovery 19:7
+36:11
+discuss 13:17 18:9
+19:16 39:22 40:8
+62:17
+discussed 17:19
+18:6 19:4 42:15
+discussing 30:16
+discussion 14:10
+59:25
+discussions 41:16
+59:22
+
+516-608-2400
+
+[disgorgement - exceptions]
+disgorgement
+27:15,17
+dispute 56:17
+disputes 13:17
+57:7 58:5
+distinct 66:5
+distinction 64:11
+65:20 66:6
+distracting 37:21
+distributing 66:7
+66:8
+distribution 65:16
+65:17
+distributions
+46:12 62:14
+distributor 52:5
+distributors 52:12
+district 1:2
+dmp 18:6 50:11
+dmp's 50:4,17
+51:4
+docken 6:16
+docket 59:1 76:24
+document 2:6
+doing 23:23 52:3
+doj 43:10
+dollars 70:6,23
+71:2,15
+door 20:14,16
+24:19 26:11 31:20
+double 22:7 65:9
+doubt 16:18 27:16
+42:5
+dougherty 6:17
+douglas 9:5
+douglass 10:6
+draft 44:5
+drafted 21:13
+48:18,19
+drafting 21:12
+36:9 38:4
+drain 1:22 13:2
+
+212-267-6868
+
+Page 7
+
+dramatically 70:5
+dressed 32:16
+drug 62:18
+dubel 6:18
+due 31:10 41:15
+79:12,12
+dylan 6:9
+d’angelo 6:11
+d’apice 6:12
+e
+e 1:21,21 3:1,1
+5:22 9:13,19,20
+11:1,21 13:1,1
+32:2 77:19 81:1
+easier 68:25
+eberhardt 6:19
+echo 80:4,5
+eck 11:25
+eckstein 5:13 6:20
+36:20,21,23 40:1
+57:23 58:1,12,14
+59:4,11,17,19,21
+ecro 1:25
+edan 8:23
+edmund's 43:23
+edmunds 4:20
+39:14,14 40:22,25
+41:14,23 42:19,25
+43:25 45:14 80:3
+80:4,18
+edward 9:19
+effect 23:23 24:9
+24:20
+effective 37:12,14
+38:1 58:6 77:15
+effects 46:20
+effectuate 52:16
+53:12
+effectuated 18:6
+effort 14:19 28:10
+eight 42:23 44:17
+either 17:4 36:7
+45:23 46:4 47:17
+
+50:8 53:23 54:24
+electron 44:25
+eli 3:9 17:11
+eliminated 14:5
+elisa 8:2
+elizabeth 10:25
+email 13:5
+emailed 66:15
+embedded 71:6
+emily 7:18
+employee 2:4
+employees 27:13
+encompassed
+18:17
+encourage 38:1
+encouraged 16:6
+endorsed 47:19
+endorsee 48:21
+endorsements
+47:19 50:10
+ends 65:7
+enforce 59:15
+enforceability
+37:6
+enforceable 49:17
+engage 29:18
+enjoined 33:17
+51:24 52:1
+enormous 36:11
+ensure 39:19
+69:24
+ensures 29:24
+enter 77:8
+entered 76:24
+77:18 78:6 80:13
+80:14
+entire 65:22
+entirely 33:10
+entirety 19:12
+28:21
+entities 25:23 34:7
+36:25 37:4 38:24
+78:10
+
+Veritext Legal Solutions
+www.veritext.com
+
+entity 34:1
+entry 77:21
+enumerate 31:5
+equity 22:2 24:3
+24:24
+equivalents 35:15
+eric 11:16
+error 20:8
+eskandari 6:21
+essence 19:25
+31:11 33:15 36:10
+50:16 52:25 70:9
+essentially 69:17
+estate 53:19 70:16
+estates 60:11
+et 13:3 22:20 24:4
+24:4 26:1
+ethan 8:9
+evaluated 61:23
+evaluating 76:5
+evan 8:6,7
+event 77:19
+everybody 15:7
+16:6,11 57:25
+71:1
+everybody's
+43:14
+everyone's 71:12
+71:22
+evidence 45:20,22
+60:8 61:8 70:5
+72:23 73:9,23,23
+75:3 76:7
+evidentiary 32:10
+32:19 50:10
+evolution 43:6
+exactly 18:23
+68:14
+example 22:13
+32:9 50:6 65:4
+exception 46:21
+exceptions 60:14
+72:24
+
+516-608-2400
+
+[excluded - fx]
+excluded 17:18
+18:1,4,12,13
+19:11,16 25:4
+28:15 30:21 32:3
+39:21 42:11
+exclusive 31:4
+excused 19:6
+exhibit 19:1
+exhibits 47:14
+exist 55:6
+exists 26:1
+expanded 21:7
+expansion 37:2
+expecting 59:7
+expedient 77:7
+expense 37:7 61:4
+expenses 61:14,15
+63:17,17,24 67:3
+67:11 74:10,19
+expensive 37:20
+expiration 77:20
+77:23
+expire 77:1 79:1
+explain 20:8,19
+51:21 66:18
+expressly 29:10
+extend 77:14
+extending 77:8
+extension 77:13
+77:25 78:1,3 79:7
+80:9
+extent 27:2 28:10
+28:17 29:8 36:15
+37:10,11 38:1
+45:21 47:7 52:9
+54:8 55:6 74:23
+extra 46:17 76:15
+extremely 58:3
+f
+f 1:21 11:9 81:1
+face 46:15
+facilitate 69:15
+
+212-267-6868
+
+Page 8
+fact 23:21 49:13
+49:19 55:15 71:19
+79:12
+facts 58:22 73:13
+fails 52:8
+fair 14:10 25:20
+32:21 35:2 41:23
+58:4
+fairly 73:24
+fall 13:15
+family 3:13
+far 22:10 27:10
+42:2,8 46:11,19
+59:2 61:21,23
+73:10
+farrell 6:22
+faulting 34:17
+favor 65:12
+fear 58:9
+federal 54:12
+fee 16:19 60:5,6
+61:7,7,13,25
+65:10 67:22 68:8
+68:24 69:16,22
+72:3 73:22 74:9
+76:5,6,8
+feel 55:15 75:12
+fees 61:8,12 62:9
+63:22 64:25 65:11
+65:21 66:1,2,10
+66:23 67:3 69:19
+70:6,20 72:12
+74:3,6
+femino 6:23
+fight 46:3 62:10
+figure 56:10 70:25
+73:12,14
+filed 17:15 18:7
+39:22 40:9,24
+41:22
+final 71:7
+finally 14:8 16:5
+
+find 25:21 51:7
+59:1 64:16
+finding 37:15
+fine 17:9 19:17
+35:23 40:20 50:15
+57:2 58:16,16
+78:25
+fingers 41:20
+finzi 6:24
+firm 26:19 36:3
+55:15 75:22 76:5
+firms 36:4
+first 17:18 20:3,11
+28:14 29:18 38:14
+38:17 43:4 47:1
+56:6 63:10
+fits 26:6
+fitzsimmons 6:25
+five 40:24 75:21
+fix 45:1 56:9
+fixed 34:15,16
+flags 45:4
+flaw 70:15
+flip 37:14
+floor 3:20
+flummoxed 69:17
+78:18 79:11
+focus 25:20
+focused 57:8
+78:20
+focusing 27:11
+63:19 64:5 68:3
+73:24
+fogelman 3:23
+27:24 28:3,4,9,13
+30:3,20 31:11,25
+33:5,25 35:16,21
+35:25 36:12 38:7
+40:13
+following 58:7
+68:6
+follows 70:15
+
+Veritext Legal Solutions
+www.veritext.com
+
+foregoing 81:3
+forgive 55:25
+forgotten 33:12
+form 46:5 65:19
+78:2,5
+formally 78:8
+forms 78:5
+found 69:10
+four 30:7 80:13
+frame 72:16
+frank 58:17
+frankel 5:8
+franklin 9:25
+frankly 25:12
+30:25 41:5 46:10
+61:13 66:20 68:6
+74:11 75:14 79:17
+frazier 7:1 53:21
+54:4,14,14 55:3
+55:22
+frederick 11:1
+free 66:1
+friedman 7:2
+friend 46:7
+front 54:11 68:5
+75:18
+full 39:23
+fully 14:24 39:23
+40:4 41:17
+function 32:24
+35:6,6 46:16
+fund 14:4,7 15:21
+48:8 50:21
+fundamental 39:6
+47:2
+funds 37:18 59:8
+further 13:23
+14:14,21 36:13
+72:18 78:1,15
+future 40:16
+45:24
+fx 8:11
+
+516-608-2400
+
+[g - holes]
+g
+g 6:10,14 13:1
+30:24 61:15
+gabe 6:2
+galle 7:3
+game 41:12
+gange 7:4
+gap 77:2
+gary 5:25 7:14
+gatekeeper 35:6
+gatekeeping
+32:24 34:23 35:6
+gather 14:4
+geldreich 7:5
+general 4:15
+generally 60:12
+geoffrey 7:12
+gerard 3:17 6:5
+19:18 35:3
+getting 29:5 30:10
+36:3,16 41:7
+59:16,22 66:3
+67:18 71:20 75:11
+75:18
+gibson 7:6
+giddens 7:7
+gilbert 7:8 54:15
+gill 7:5
+give 14:18,20
+28:11 33:7,20
+47:17 69:4 70:23
+76:19,20
+given 14:19 15:8
+24:23 45:3,9
+63:22 79:7,7
+gives 45:7 46:17
+giving 21:1
+glad 79:17
+gleit 7:9 47:11,11
+47:16,23 48:2,10
+48:13,16 49:1,23
+50:1,3,18,23 51:2
+51:13,16,20,25
+212-267-6868
+
+Page 9
+55:22
+go 15:15 16:20
+17:6,7 18:16
+19:23,24 20:10
+23:16 32:18 40:11
+51:21
+goes 45:22 60:23
+69:25 70:1
+going 14:6 15:5
+16:10 23:5 27:7
+31:9 35:8 37:12
+40:16 48:10 55:18
+58:6 61:16,22
+63:10 64:16 65:1
+66:17 74:7
+gold 7:10 75:23
+goldstein 7:11
+good 13:2 15:5,6
+22:7 25:19 28:3
+36:14 56:25 60:17
+75:17,21,22
+goodman 7:12
+gostin 7:13
+gotten 72:14
+gotto 7:14
+governmental
+34:7 37:4 54:16
+78:10
+grace 42:7
+grammatically
+25:25
+grant 77:12 79:9
+80:10
+great 17:2 45:21
+55:23
+greater 37:12
+47:20
+green 7:15,16
+greenspan 7:17
+gregory 8:8
+grim 7:18
+groping 55:19
+
+group 4:9 5:2
+13:13 42:21 50:11
+52:5 61:17 62:7
+64:12 65:1,9
+72:25,25 75:5,13
+76:6 78:23
+groups 23:25 63:3
+64:24 76:7 78:21
+guard 7:19
+guess 16:13 20:16
+20:17 25:9 26:13
+42:16 48:4,22
+58:21,23 62:5
+guessing 66:16
+guide 30:18
+guiding 30:9
+gulf 13:20 15:6
+h
+h 5:13 6:20 12:11
+61:16,24 67:5,6,8
+72:5
+h1 68:5
+haberkorn 7:20
+hadley 3:12
+half 75:24
+hammered 70:2
+73:1
+hammering 72:6
+hand 49:15 75:18
+75:23
+handle 50:11
+handled 25:16
+handling 55:13
+happen 66:17
+happened 41:16
+happening 65:7
+happens 78:15
+happy 15:14 28:2
+29:17 74:4
+hard 45:22,25
+57:6 63:4
+harold 5:6 75:7
+
+Veritext Legal Solutions
+www.veritext.com
+
+hats 70:2
+hayden 6:6,8
+heading 21:10
+headphones 17:2
+17:4
+hear 15:2 17:12
+19:19 28:2 57:25
+63:10
+heard 44:16 46:13
+73:23 80:15
+hearing 2:1,1,3,3
+2:6 14:5,19 17:1
+36:2 41:7 43:13
+45:20 46:7 55:19
+56:17 58:7 66:20
+71:9 72:1 73:12
+79:19,22
+heather 7:1 54:14
+heavily 60:9
+heitzenrater 7:21
+held 2:7 18:18
+help 22:15 66:18
+66:24
+helpful 41:2 45:12
+69:2 72:18 76:13
+helps 72:8
+herring 7:22
+he’s 23:1,2
+higher 70:19
+highlighted 50:4
+highlights 45:4
+highly 79:9
+hired 65:4
+hirshman 7:23
+hoc 4:9 5:2 54:15
+61:17 62:7 64:25
+65:9
+holders 18:20,21
+20:5 22:2 23:18
+24:3,24
+holdover 26:9
+holes 25:6
+
+516-608-2400
+
+[hon - intended]
+hon 1:22
+honor 15:1,4,10
+15:11,15,17 16:5
+16:13,25 17:10,14
+18:8 19:9,13,18
+19:21 20:19 21:4
+21:9,18 22:6,15
+23:8,13,24 24:8
+24:12 25:2 26:11
+26:17 27:18 28:3
+28:13,16 29:18,20
+30:3,8,11,20 31:2
+31:10,24 32:1,3
+33:2,7,19 34:19
+35:3,25 36:12,20
+38:7,10,13,19
+39:4,10,13,14
+40:18,21 41:14
+42:19,25 43:2,25
+44:7,23 45:14
+47:11 48:11 49:1
+49:6,23 50:1,23
+51:2 52:4,17 53:8
+53:21 54:4,14,17
+54:18 55:3,10
+56:7 57:5 58:1
+59:5,5 60:22 62:6
+63:8 64:14 66:13
+66:23 67:9 68:1,4
+69:1,6 70:12
+72:16 73:20 74:1
+74:13,23 75:7,12
+75:25 76:11,18
+78:13,17 80:1,3
+honor's 16:15
+36:13 51:13
+hope 46:15 59:15
+69:2 71:25 72:8
+72:17,17
+hopefully 45:3,7
+73:13
+hoping 59:24
+
+212-267-6868
+
+Page 10
+hospitals 71:24
+hourly 61:20,24
+68:21 73:3 76:6,9
+hours 67:19 75:20
+75:21 76:10
+howard 11:15
+hudson 3:14 7:24
+huebner 3:8 15:1
+15:1,4 16:25
+22:24 30:8 31:10
+31:24 33:2,12,19
+33:23 34:12,15,19
+34:22,25 35:16
+37:1 38:9 43:2,23
+44:7,11,14,21,23
+55:10,13,21 66:13
+66:23 67:1,5,8,13
+68:1,4,11,14,16
+68:18,22 70:9,12
+73:11 74:22
+huebner's 58:3
+hugh 9:8
+humanly 69:25
+hundreds 70:5
+71:2,14
+hurley 7:25 8:1
+hurts 29:22 30:1
+hyde 2:25 81:3,8
+hyder 8:2
+i
+idea 56:25 67:20
+identical 78:5
+ii 17:21 67:8,20
+68:5
+iii 28:16,21,24
+29:6,8,10,22 30:4
+il 5:4
+illustrating 18:22
+imagine 79:16
+imes 8:3
+immeasurably
+46:9
+
+implement 28:11
+implementing
+46:9,19
+implication 29:14
+important 33:3,8
+34:2 36:14 37:4
+40:15 43:3,24
+58:3,6 69:3 71:1
+71:25 72:5,17
+improves 17:5
+inability 78:19
+incentive 2:4
+inclination 79:5
+include 22:2
+54:25
+included 25:4
+36:6
+includes 21:22,22
+22:2,12 23:11,18
+24:2,3,24 47:4
+76:4 78:6
+including 26:6
+27:13 31:8,21
+50:10 55:8 70:3
+78:10
+income 17:21,21
+incorporated 32:2
+60:7
+increase 61:10
+indelicato 8:4
+independent
+22:13,19 24:4
+26:7 48:2,5,6,16
+53:10
+indicate 52:15
+53:11
+indicated 37:1
+indiscernible
+15:25 16:14 23:1
+23:3 29:20 32:4,5
+32:16 36:17 43:1
+43:16 44:11 45:4
+48:13 50:23 51:21
+
+Veritext Legal Solutions
+www.veritext.com
+
+51:25 53:18 55:23
+57:10,12,16 61:25
+62:19 63:23 64:13
+65:4,6 66:15,18
+68:11,16,18
+individual 61:18
+64:25
+ineloquent 16:1
+inform 72:8
+informed 13:21
+ingersoll 39:12
+initial 18:7
+injection 77:2,3
+79:18
+injunction 21:20
+32:24 33:16 35:23
+52:8 53:14 54:2
+76:24 77:9,15
+78:8
+injury 62:8 65:3
+inserted 66:3
+insisted 71:14
+insistence 72:12
+insurance 47:4,5
+47:10,16 48:2,6,8
+48:17,19,20 49:9
+49:17,25 50:5,9
+50:21 51:6,22
+52:7,8 53:14 54:6
+54:7,13,22 56:17
+58:5 59:7,9,12,14
+insured 47:8,8,15
+47:15,21,24 49:9
+50:7 52:14
+insureds 47:20
+50:12 51:22 53:10
+insurer 49:24
+53:4,6,25 56:18
+insurers 13:21
+intend 55:17
+77:12
+intended 18:16
+22:10 24:16 26:10
+
+516-608-2400
+
+[intended - left]
+58:8 73:21
+intends 77:4
+intensity 15:21
+intention 24:12,19
+25:9
+intentional 24:6
+intercreditor 71:5
+interest 47:9
+48:23 71:13
+interlocked 21:14
+interpret 30:22
+53:3 54:6
+interpretation
+42:7
+interprets 53:24
+interrupt 23:6
+intra 69:7
+invoices 64:14,15
+involved 14:2
+57:24 60:3 69:13
+69:14
+involving 13:20
+iridium 71:18
+irrelevant 61:1
+isley 7:13
+isn’t 42:16
+israel 5:6 75:7,7
+75:25 76:11
+issacharoff 8:5
+issue 13:19 34:23
+36:9 37:3 39:12
+47:1 51:18,20,21
+52:17 53:1,7 54:6
+54:13,23 56:22,24
+57:18,19,19,20
+58:3,17,18,18,21
+58:23 59:2 64:17
+70:15 74:20,21
+75:19 76:14,14,19
+77:4,7
+issues 13:8,12
+14:9,22 16:19
+39:23 54:18 60:19
+
+212-267-6868
+
+Page 11
+60:21 66:19 73:22
+73:22 76:13 78:20
+it'd 68:11
+i’m 23:2
+j
+j 3:9 7:10,25 8:21
+9:17 10:15 11:4
+11:20,24 12:1
+james 7:16 9:6,25
+10:22 12:10
+jared 7:15
+jason 10:18
+jay 5:20
+jeff 47:11
+jeffrey 7:9 8:22
+10:15
+jenna 7:24
+jennifer 10:1
+jeremey 10:21
+jeremy 8:15
+jerome 11:18
+job 41:21
+jocking 37:13
+john 6:17,18 7:19
+8:24,25
+jonathan 9:13
+12:3
+jones 8:6,7
+jordan 10:16 12:5
+joseph 6:14 8:8
+10:12,23 11:12,23
+joyce 12:2
+jr 7:16 12:12
+judge 1:23 13:2
+42:6
+jump 66:13
+junction 51:23
+june 76:24
+jurisdiction 32:7
+32:18
+justice 4:1
+justin 1:25
+
+known 66:19
+knows 15:7 31:1
+k 7:22
+kotler 8:16
+kami 10:9
+kramer 5:8 8:17
+kaminetzky 3:10
+36:21
+8:9 76:18,22,22
+l
+79:2,4,11,15,23
+karavolas 8:10
+l 7:2 11:25
+karen 8:12
+l.p. 1:7 13:3
+katherine 7:3
+language 28:1,5
+10:4
+28:20 29:14,21,24
+kathleen 9:15
+30:17,25 31:1
+keeps 31:14,15,15
+32:2 34:9 35:5
+kelly 8:11
+40:2 41:22 43:9
+ken 36:21
+52:15,24 72:5
+kennedy 8:12
+largely 72:19
+kenneth 5:13 6:20 larger 72:15
+kept 44:7 71:20
+larry 28:4
+kesselman 8:13
+lasalle 5:3
+kevin 9:2
+lastly 27:10
+key 2:4
+laura 6:23 9:7
+kind 44:25
+lauren 12:14,16
+kirk 9:5
+22:25
+klein 8:14
+law 31:18 35:15
+kleinman 8:15
+36:3,4 54:6,7
+knew 68:10
+lawrence 3:23
+know 15:23 16:9
+8:16
+22:23,25 25:25
+lawsuit 32:13
+26:7 28:24 30:2,9 lawsuits 35:11
+30:17,21,25 31:4 lawyer 42:22 72:5
+32:11,16,21 35:16 lawyers 42:23,24
+36:5,15 39:19,25
+46:13,14 56:8
+40:7 41:12,16
+60:3 68:23 70:1
+42:16 43:20 44:2
+70:17,24 71:3,15
+44:7,25 46:14
+72:7
+49:3 57:1 59:1
+lay 57:1
+60:25 62:14,22
+lead 29:2
+63:9 64:6 66:19
+leave 54:9 79:25
+67:18,19,23,24
+ledanski 2:25 81:3
+68:3 70:13,18,21
+81:8
+71:7 72:24,25
+lees 8:18
+73:19 74:6 75:20 left 13:10,20
+76:8,17 80:11
+14:23 46:1 50:19
+57:7 76:3,3
+k
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+[legal - miller]
+legal 81:20
+lengthy 45:20
+lennard 8:19
+letter 50:8 66:18
+level 40:6 41:17
+71:19
+levels 71:8
+levenfeld 5:1
+leventhal 8:20
+levin 5:8 36:21
+levine 8:21
+lexington 3:5
+liability 28:18
+29:2,3,3,10,12,25
+30:5,16,21,23
+31:3,8,21
+liaisons 22:14
+lianna 11:6
+liesenmer 8:22
+light 14:14
+likelihood 39:15
+80:10
+likewise 36:6
+limit 18:20
+limitation 31:8,22
+limited 13:21
+17:20
+limits 20:4 70:20
+linda 8:3
+line 16:18,19 65:2
+65:3
+lisovicz 8:23
+list 13:5 25:23
+36:6 47:18
+listed 69:9
+listing 31:22
+literally 49:13
+litigant 56:2
+litigate 51:19
+54:11
+litigated 55:4
+litigation 37:21
+38:1 54:16
+
+212-267-6868
+
+Page 12
+little 17:23 33:4
+37:25 41:7 59:25
+live 52:18
+livy 9:11
+llc 5:1
+llp 3:3,12 4:8 5:8
+54:15 64:15
+loadstar 75:20
+long 44:14 70:13
+longer 17:25
+longmire 8:24
+look 34:17 40:17
+41:23 55:1 75:13
+80:8
+looking 37:25
+75:20 76:10
+looks 36:2
+lost 25:21 39:8
+lot 15:9 30:12
+43:10,21 70:1
+lots 48:25
+louis 5:23
+low 68:8
+lowered 70:6
+72:12
+lowne 8:25
+m
+m 4:13 8:7 9:8,9
+11:8 12:2
+mackenzie 9:1
+maclay 9:2
+magali 7:7
+magic 57:25 58:1
+main 31:19
+majority 44:5
+making 19:5
+21:14 26:14 35:5
+37:23 42:9
+man 29:20 39:4
+57:5,14,23
+manufacturers
+67:17
+
+manvel 50:12,16
+51:11 54:2,2
+manville 30:7
+57:19
+mara 8:20
+marc 8:13 11:9,20
+march 40:24
+mario 6:11
+marion 10:10
+mark 6:4,15 8:4
+10:2
+marketplace 61:9
+markman 7:13
+markup 27:25
+31:17 41:6
+marshall 3:8 15:1
+marsters 9:3
+martin 12:9,10
+maryland 4:15,16
+19:5 39:15 80:4
+master 56:1 65:17
+masumoto 9:4
+mathew 6:22
+matter 1:5 30:22
+39:17 54:21 65:19
+matters 34:25
+46:23
+matthew 6:25
+7:10
+maura 9:15
+maximizing 34:9
+mayer 9:5
+mcarthur 50:16
+50:19
+mcclammy 9:6
+mccloud 9:7
+mccloy 3:12
+mcdonald 9:8
+mckesson 52:6
+mckinsey 36:15
+39:20
+mcnulty 9:9
+
+Veritext Legal Solutions
+www.veritext.com
+
+md 4:18
+mdp's 53:25
+mdt 34:4 37:5,5
+37:16,19,21 47:4
+47:5,9,9 59:6
+mdt's 46:25
+mean 25:9 27:6
+30:15,25 31:13
+36:9 38:3 41:15
+46:8 48:12,25
+51:8 52:25 58:24
+62:24 67:8
+means 15:23 27:1
+30:16 31:5 44:4
+52:22 75:17
+meant 14:17
+18:23 26:3
+mechanism 61:14
+73:8 74:17,25
+mediated 69:16
+medical 22:14
+meetings 71:20
+megan 10:19
+meises 9:10
+melissa 7:6 11:25
+members 64:25
+65:8 78:20
+mention 33:3,12
+mentioned 25:25
+26:11
+merchants 67:17
+merely 50:13
+merits 54:12
+mezei 9:11
+michael 5:19 7:11
+9:21 11:2 12:1
+michele 7:23 9:10
+10:8
+microscope 45:1
+milbank 3:12
+19:19 35:3 36:4
+miller 9:12
+
+516-608-2400
+
+[million - okay]
+million 50:21
+70:23
+millions 45:17,17
+70:6 71:2,14
+mind 31:7,21
+44:21
+minds 27:11
+mineola 81:23
+minor 15:14
+minute 33:7
+misimpression
+71:21
+misinterpreted
+36:24
+missed 44:24 76:8
+mitchell 5:20 8:1
+mitnick 9:13
+modest 77:8 79:15
+molton 9:14
+moment 36:21
+60:24 61:1,5
+monaghan 9:15
+monday 42:16,17
+42:17 51:3 69:6
+77:1,3 79:1,2,6
+80:12,15
+money 46:3 63:25
+69:25 70:1,17
+72:14 74:6,15,15
+74:17 75:18
+monies 74:3
+months 40:24
+66:20
+morales 9:16
+morning 13:2,21
+14:16,19 28:3
+45:13
+motion 2:3,5,5
+move 29:17
+moved 43:18,19
+43:19
+msge 78:3
+
+212-267-6868
+
+Page 13
+muha 9:17
+murky 37:11
+murray 9:18
+mute 17:6,7 57:15
+57:24
+mvt 66:1,7,7
+n
+n 3:1 7:3 13:1
+81:1
+naftalis 5:8
+name 49:9 52:13
+named 36:3 47:8
+47:15,23 49:3,10
+50:6
+narrow 14:13
+18:16 25:23 41:3
+46:12 57:7 58:18
+58:21 73:24
+narrowed 22:3,10
+24:10 45:6
+narrower 21:15
+narrowing 37:2
+nas 5:2 61:18
+72:25 75:8 76:7
+nathalie 9:20
+nathaniel 9:12
+nature 48:24 49:2
+necessarily 28:20
+58:4 68:21
+necessary 29:12
+78:15
+need 13:23 20:8
+28:20 29:9 40:1,6
+40:14 41:12,19,20
+54:17 56:9 58:14
+59:19,21 68:17
+78:13
+needs 18:18 34:16
+56:10
+negotiate 15:8
+negotiated 60:9
+61:9 69:19
+
+neiger 9:19
+neil 8:11
+neither 52:21
+never 16:7,11
+44:18 71:8
+new 1:2 3:6,15,21
+4:4,11 5:11 17:15
+18:12 31:16 38:20
+41:21
+news 15:5,6
+nicholas 10:7
+nickolas 8:10
+nieves 9:20
+niger 64:15
+night 39:22 40:10
+41:22
+ninth 17:16
+noat 33:6
+non 4:9 17:24
+18:11,12 19:11,16
+20:17,22 21:8
+25:4 28:15 32:2,6
+37:3 42:2,10,11
+78:18,21
+normal 75:22
+north 5:3
+norton 36:3,6
+note 16:5 34:2
+39:16 40:23 43:4
+60:18 63:3 67:9
+noted 14:8
+notice 2:3
+notion 63:6
+notwithstanding
+73:6 74:24
+number 15:9,18
+16:8 44:4,12
+55:24 68:23
+ny 1:14 3:6,15,21
+4:4,11 5:11 81:23
+
+Veritext Legal Solutions
+www.veritext.com
+
+o
+o 1:21 13:1 81:1
+obaldo 9:24
+objecting 34:4
+39:16 44:4,9,15
+45:18 70:22 80:5
+80:6
+objection 13:13
+13:22,25 15:24
+16:2 38:15 46:22
+52:10 53:15 60:4
+60:17 63:13 74:24
+objections 28:6
+objectors 16:8
+24:18 78:10
+obligation 27:15
+27:17
+obligations 37:22
+obvious 72:10
+obviously 14:17
+15:5,8,16,25 16:3
+21:12 30:12 34:15
+62:25
+occurred 41:17
+office 3:19 4:15
+38:11,18
+officers 27:13
+oh 44:16 74:16
+okay 17:9 19:14
+19:17 20:2 21:10
+21:21 22:8 23:4
+23:16 25:8,18
+26:18,22 27:22
+33:22 34:11,21
+35:25 36:12,19
+38:3 40:20,21
+43:22 45:11 47:13
+50:7 55:12 60:1
+62:15,20,23 72:19
+73:17 75:6 76:12
+76:21 78:16 79:5
+80:2,8,18,19
+
+516-608-2400
+
+[old - plan]
+old 81:21
+once 30:9 38:23
+one's 46:7 54:6,23
+54:24
+ones 15:14 21:1
+75:4
+ongoing 19:7
+open 13:10,20
+68:5
+opening 58:20
+operative 46:19
+opinion 42:7
+opinions 30:7
+opioid 17:24
+18:11,12 19:11,16
+25:4 28:15 32:2,6
+32:16 37:3 42:2
+42:10,11
+opportunity
+46:17
+opposed 20:24
+53:5 56:1 57:18
+66:2
+opposite 79:24
+option 62:24
+options 62:16
+oral 14:10 38:15
+71:13,21 73:21
+orally 71:16
+order 2:5 18:17
+46:24 77:8,14,16
+77:17,20,21,22
+78:5,6,11 79:6
+orders 27:14
+originally 14:18
+21:12 26:3 41:8
+ought 79:10
+outside 48:17
+51:22 70:4
+overall 33:2 61:9
+70:20
+overnight 17:15
+
+212-267-6868
+
+Page 14
+oversight 74:2,5
+overwhelming
+44:5
+ozment 9:25
+o’neil 9:21
+o’neill 9:22
+o’sullivan 9:23
+p
+p 3:1,1 7:20 12:8
+13:1
+package 56:5
+page 21:16 50:13
+paid 45:8 69:22
+73:1,2,2 74:6,7,18
+75:11,17
+pamela 11:19
+panic 80:16
+papers 51:7 63:16
+paragraph 77:15
+pardon 52:4
+parenthetical
+18:22 38:20,21
+43:8,18
+paris 10:19
+part 14:1 16:10
+24:17 26:15 33:6
+33:14 34:5 44:5
+50:9 51:16 52:14
+55:9 56:7,16,19
+56:21 61:9
+particular 49:3
+parties 13:7,11,16
+13:22 14:13,14,23
+15:9,19 16:16,17
+17:1 18:15,21,25
+20:4,5,15,23 21:1
+21:7,17,19,22,23
+21:24 22:5,9,12
+22:12,16,18,22,24
+23:10,11,12,13,14
+23:15,17,17,20
+24:1,2,2,3,23,24
+24:25 25:3,3,10
+
+25:22,24 26:2,6
+26:15,20,21,23,25
+27:4,8,24 29:1,16
+30:2 32:13 35:10
+35:18 36:17,18
+38:19,21 41:11
+42:2 45:7,7 46:1
+55:5,15 56:10,22
+56:24 58:7,20
+60:15 69:19 72:22
+party 18:2,4,18,19
+19:10 22:13,21,22
+23:21 32:14 39:20
+42:8 47:23 49:9
+53:24 56:20
+patrick 9:21
+pattern 49:13,19
+paul 4:6,17 10:17
+11:7,8 13:20 36:4
+38:10
+pausing 48:10
+pay 34:4 61:10
+65:9,11 67:20
+68:23 74:3
+paying 63:17
+payment 25:3
+67:11 75:18
+payments 61:3
+pays 63:22
+peacock 10:1
+pearlstein 5:1
+pending 63:13
+pennsylvania
+57:14
+people 23:25 26:8
+27:7 34:2 38:24
+42:22 45:18 46:8
+55:16,24 56:5
+65:13 67:18 72:6
+79:20
+people's 27:11
+percent 14:4,7
+61:7,13 65:11
+
+Veritext Legal Solutions
+www.veritext.com
+
+68:2,12,13 72:7,7
+72:7
+perfectly 30:13
+person 27:2 34:5
+43:9,12 75:5
+personal 62:7
+65:3
+persons 13:16
+60:7
+perspective 45:5
+pertain 13:12
+pertains 60:4
+peter 6:12
+petition 60:10,11
+67:15,17
+pharma 1:7 13:3
+pharmacies 52:12
+philip 5:18
+phone 57:15
+phrase 26:25
+30:22 33:13
+pi 61:14,17 66:3,8
+72:25 74:10,14
+75:9 76:7
+picked 23:10
+28:22
+pillsbury 4:8
+pis 71:23
+pittman 4:8
+place 4:17 27:7
+plains 1:14
+plan 2:4 13:6,9,16
+13:25 14:9,12
+15:13 16:20,21
+17:15,16 18:3
+19:13 21:19 22:4
+36:5 37:6,17
+38:22 39:1,22
+40:8,23 46:19
+47:3,10 48:15,17
+49:12,18,20 50:24
+51:5 52:2 54:8
+57:19,20 59:20,23
+
+516-608-2400
+
+[plan - questions]
+60:5 61:4 62:9
+63:22 65:14 66:6
+69:8,15 71:6,10
+71:22,22,23,23,23
+71:24,24 72:1,1
+73:18 74:17 77:11
+77:18,24 78:10
+plan's 13:14
+pleadings 13:8,10
+please 17:4,7 41:6
+57:15
+plevin 10:2
+pohl 10:3
+point 20:10,11
+21:12 22:7,8
+29:17,18,19 30:12
+31:19,20 32:1,11
+32:21,22 33:1,13
+33:20 34:12,18
+35:14,17 36:1,13
+37:9 38:9 39:5,7,8
+40:17 41:20 42:13
+42:18 43:5,7,23
+58:12 59:4 60:2
+70:10 71:7 73:25
+79:8
+pointed 63:16
+points 28:9 31:13
+38:14
+police 40:15
+policies 47:16,21
+48:20,25 50:9
+52:8,14 53:11
+54:22
+policy 47:4,5
+48:17,24 49:3
+50:7 53:3 71:5
+72:4
+polk 3:3 17:11
+55:13 76:22
+porter 10:4
+portion 46:21
+75:9
+
+212-267-6868
+
+Page 15
+position 53:24
+54:17
+positions 45:23
+possible 16:12
+37:24 69:25
+post 37:12,13 38:1
+45:4 56:25 58:6
+60:11 67:15,17
+potential 28:18
+potentially 28:25
+37:14
+powers 40:15
+pre 60:10
+precise 40:14
+precluded 48:7
+preis 10:5
+preliminary
+76:23 77:2,8,14
+78:8
+prepared 78:4
+present 5:15
+presentation
+19:22 20:1
+presented 61:19
+72:23
+preserve 57:1
+preserved 52:10
+53:16 54:25 55:6
+55:8 57:2
+press 10:6
+pressing 16:1
+pretty 17:15
+21:13 40:15
+prevail 75:15
+prevailed 43:19
+preventing 26:11
+prevents 52:2
+previous 36:2
+78:6
+prey 10:7
+price 69:6
+primarily 46:3
+60:10
+
+prior 17:3
+private 37:17
+69:19
+privy 44:14
+priya 5:21
+probably 15:18
+16:19 20:7 27:10
+29:23 66:16 67:22
+69:9
+problem 23:8
+66:2 68:13 75:23
+problems 43:14
+procedural 55:10
+proceed 50:20
+53:4,25
+proceeding 53:5
+76:25
+proceedings 1:12
+80:21 81:4
+proceeds 59:7
+process 46:5
+68:25
+professional
+13:15 60:6,7
+professionals
+13:15
+promise 33:21
+promoters 22:13
+proof 64:19
+property 59:14,20
+65:17
+proponent 73:18
+proposed 77:13
+77:16
+protect 33:15
+protected 21:16
+21:19,22 22:4
+protection 51:10
+51:15 77:2
+protective 2:5
+provide 66:9 79:6
+provided 14:12
+
+Veritext Legal Solutions
+www.veritext.com
+
+provides 20:12
+77:19
+provision 19:5
+43:8 52:12 72:22
+77:13 78:7
+provisions 21:14
+52:13 53:12 60:9
+60:13
+public 37:18
+61:15,21 62:21,22
+63:23 66:11,14
+67:6 71:5 72:4,6
+72:17,20 74:11
+pulggari 10:8
+punchline 70:14
+punitive 67:21
+purdue 1:7 13:3
+purdue's 72:1
+purpose 33:15
+purposes 26:24
+pursue 54:10,11
+pushing 34:22
+put 14:17 17:2
+22:19 27:3,14
+43:17 57:15 63:25
+65:25 66:1,18
+69:15
+putting 32:12
+q
+quality 33:4 75:19
+quarropas 1:13
+question 16:13,16
+20:20,24 21:11
+47:2 48:5,23 62:5
+62:18,24 73:18
+74:14
+questioning 54:19
+questions 13:10
+14:1,24 16:15,24
+19:23,24 27:23
+41:25 53:1 57:21
+60:19 66:11 72:21
+76:16
+516-608-2400
+
+[quick - required]
+quick 15:11 17:8
+43:2
+quickly 15:4 43:5
+80:3
+quigley 30:7 42:6
+quinn 10:9
+quirk 10:10
+quite 23:22 41:15
+43:3 55:1 73:13
+quote 50:16,17
+r
+r 1:21 3:1 6:3 7:9
+9:24 13:1 81:1
+rabbi 80:11
+rachael 10:13
+rachel 9:24
+radically 45:6,6
+raise 14:25 28:5
+raised 28:6,9 38:9
+38:13 39:17 41:25
+rate 61:24
+rates 61:20 68:21
+73:3
+rationale 36:9
+raymond 3:13
+rdd 1:3
+reach 55:18 78:19
+reached 51:4
+69:15
+reaches 40:5
+read 15:15 22:1
+28:25 42:6 47:2
+50:8 51:3 53:20
+53:22 56:7
+reading 29:21
+45:1
+ready 15:15
+real 35:12 45:17
+66:5
+realistic 46:16
+realized 13:7
+really 14:11 15:19
+20:16,24 24:25
+212-267-6868
+
+Page 16
+26:5,12,13 29:22
+32:16,23 33:17,17
+34:12,22 36:8
+40:9 41:12 42:17
+46:8,12 47:1
+49:13 54:5 58:21
+60:14,20 62:5
+63:18 65:17 66:11
+68:3 73:9,24
+75:19,20 76:2
+78:20
+reason 33:23
+reasonable 61:8
+67:20,24 68:9,24
+reasonableness
+60:13 61:23 62:4
+62:9 63:6 73:8
+74:25 76:2
+reasoning 31:16
+reasons 34:8 40:1
+recall 79:19
+received 40:25
+receiving 37:18
+65:16,17
+recognize 52:9
+recommendation
+78:23
+record 17:11 30:9
+32:10 41:18,20
+43:15,24 44:3,14
+45:16 46:6 47:17
+50:9,10 52:11,15
+53:11 64:7 70:10
+81:4
+recover 47:5
+56:18
+recoveries 65:3
+redundant 21:15
+reflects 14:13
+17:15
+refused 33:6
+refusing 69:18,21
+
+regard 38:19 52:6
+61:24 72:22
+regarding 39:17
+regret 16:23
+reimburse 67:21
+reimbursed 65:10
+reimbursement
+67:11
+reiterate 36:13
+related 2:5 13:9
+18:5,10 21:23,24
+22:9,12,16,24
+23:11 24:1,2,3,23
+24:24,25 25:18,23
+26:2 27:4,8 36:17
+40:12
+relates 28:14 32:1
+relatively 75:9
+relay 67:2
+release 14:9,13
+18:2,18 19:6
+20:12 21:2,7
+22:10,11,21,22
+23:21 27:12 28:19
+28:23 29:1,5,15
+29:15 32:12 35:18
+36:3,16 37:2,7,9
+37:10,24 40:23
+41:25 42:4,8,12
+54:24 55:9 56:6
+56:21 58:22
+released 18:25
+22:18,22 23:10,12
+23:13,14,15,20,20
+24:2 25:3,22,24
+26:6,15,20,21,23
+26:25 27:16 36:18
+39:20 54:20 55:1
+releases 15:8
+17:25 18:13,16
+19:11 20:17,22
+22:17 23:17 27:12
+33:10 34:6 37:15
+
+Veritext Legal Solutions
+www.veritext.com
+
+39:18,21 40:2,12
+41:1,2,11,19
+44:15,24 45:5
+54:19 59:23
+releasing 18:15,19
+18:21 20:4,5,15
+20:22 21:1,2,7
+23:17,17 38:19,20
+42:2
+relevant 34:9
+relied 59:8
+relief 65:12 78:22
+79:9
+rely 13:8
+remain 16:6
+remainder 16:2
+remained 78:18
+remaining 13:12
+13:22 16:8 46:21
+remedy 50:20
+remember 70:2
+remembered
+79:17
+remove 18:20
+render 61:1
+repeated 31:11
+repeatedly 41:1,5
+represent 52:5
+representation
+71:10
+representatives
+71:11,13 72:13
+reps 22:14
+request 13:6
+31:11 77:12 78:3
+79:15
+requested 17:8
+requesting 78:22
+requests 50:5
+require 32:8
+required 52:13
+53:13 69:22
+
+516-608-2400
+
+[requires - seeing]
+requires 76:9
+reservations 55:8
+reserve 56:22,24
+reserved 51:5,18
+51:20,21 57:18
+58:18
+reserving 28:6
+resolution 55:16
+resolve 45:19
+resolved 13:22,25
+15:24 58:21 66:20
+resolving 46:2
+respect 13:8 15:10
+15:17 27:1,25
+31:10 37:3 39:17
+41:15,19 42:1
+43:23 44:2 49:12
+58:5 62:9,10
+63:13 65:7 74:14
+74:15 75:8 79:12
+respective 27:1
+respond 41:14
+50:1 73:15
+responding 60:18
+response 24:17
+responses 24:17
+responsible 73:4
+rest 37:24 52:10
+resting 51:7
+revealed 36:1
+review 13:9 62:4
+62:9 63:1,2,6 75:1
+reviewed 16:21
+64:14
+reviewing 40:4
+revised 14:9 15:8
+revisions 41:2
+45:12
+revisit 24:12
+rhetorical 45:23
+ricarte 10:11
+rice 10:12
+
+212-267-6868
+
+Page 17
+richard 11:3,5
+rider 66:2
+right 19:21 21:3
+21:21 23:6,9,12
+25:18 26:13 27:22
+28:8,12 29:23,24
+30:11 34:14,24
+36:8 38:16 40:4
+44:22 47:10,22,24
+48:1,3,5,5,6,16,24
+49:17 50:25 51:1
+51:10 52:2,16
+53:4,20 56:9,15
+56:18,20 57:23
+58:11 59:14,20
+60:1 62:12 63:15
+64:2,8,10,23 65:6
+65:10,24 66:4,22
+67:6 70:8 73:17
+76:12 79:23 80:19
+rights 13:20 47:20
+48:19 49:21 50:12
+51:6,15 52:17,19
+52:22 53:2,2,10
+53:14 54:8,9,10
+55:5,7 57:1,2
+58:18
+ringer 10:13
+risk 37:12 46:18
+63:24 64:13 65:13
+risks 46:15,16
+road 81:21
+robert 1:22 6:24
+9:1,3
+robertson 10:14
+robinson 9:22
+room 1:13 31:17
+rose 36:3,6
+rosen 10:15
+rosenbaum 10:16
+rothstein 10:17
+rounds 43:12
+
+roxana 5:16
+rubinstein 10:18
+rule 35:14 74:23
+77:19
+ruling 13:5 14:17
+14:20 41:8 45:13
+45:21,25 46:24
+77:5,9 79:13
+run 32:15 79:10
+rundlet 10:19
+running 46:18
+russell 10:20
+ryan 10:21 11:11
+12:4
+s
+s 2:6 3:1,10 7:12
+7:16 8:4,14 9:4
+10:17 12:14 13:1
+sackler 3:13 36:25
+sackler's 45:19
+sacklers 18:19
+sacks 80:17
+saint 4:17
+sales 22:14
+salwen 10:22
+samuel 8:5
+sara 5:24 11:21
+satisfied 71:18
+saval 10:23
+saw 62:20
+saying 25:1 28:17
+30:14 31:7,14,15
+31:21 44:8,15
+53:9 65:19
+says 20:17 26:24
+31:5 38:22 44:3
+49:8 62:25 67:14
+73:1 75:2,2
+scenarios 30:23
+schedule 14:19
+19:2 36:1
+scheduled 41:8
+
+Veritext Legal Solutions
+www.veritext.com
+
+schinfeld 10:24
+schlecker 10:25
+schmidt 11:1
+schools 61:15,21
+62:21,22 66:12,15
+67:7 73:12 74:11
+schwartzberg 4:6
+38:10,10,13,17
+39:7,10,13 43:14
+60:16,22 62:25
+63:8,11 70:21
+73:17,20 74:1,13
+74:22
+schwartzberg's
+43:5
+scoop 70:17
+scooped 72:14
+scope 18:16 45:7
+scott 3:8 7:8
+scratch 45:16
+screen 23:2
+scriveners 20:7
+scrub 25:6
+second 21:11 30:6
+31:1 32:1 33:21
+38:18 48:11 66:14
+seconds 43:7,13
+69:3 76:20,20
+section 19:4 23:14
+23:15 25:5,5 56:6
+60:8 61:4
+sections 18:2,14
+19:9
+see 16:12,17 17:23
+18:8,12 19:9,19
+20:3 21:17 25:1
+29:22 30:1 42:15
+42:17 53:3 57:23
+63:4 73:14 78:14
+78:15 79:22
+seeing 14:11
+37:13
+
+516-608-2400
+
+[seek - strike]
+seek 77:21,25
+seeking 78:1
+seen 14:8 73:4
+send 50:8 70:16
+sense 16:20,22
+38:4 56:5,13 70:1
+sensitive 79:20
+sentence 26:23
+separate 23:13
+50:8
+september 14:20
+77:4,10,22
+servants 72:6
+service 45:17
+session 31:17 38:4
+set 17:15 18:7
+21:13 58:22 60:2
+60:3,9,19 66:6
+76:25
+seth 10:24
+settle 45:25
+settlement 18:6
+19:2 37:5 50:21
+50:22 51:17 59:6
+61:10,10 71:12
+settlements 69:8
+71:6
+settling 22:11
+30:1
+seven 42:23
+seventh 39:5,11
+shannon 9:9
+57:10,12,14
+shareholder
+18:25 19:2 22:10
+22:18,21 23:13,15
+25:3,22,24 26:14
+26:20,23,25 29:1
+29:15 32:12 35:18
+40:12
+shareholders 22:3
+22:17,18 26:3
+42:8
+
+212-267-6868
+
+Page 18
+shareholding
+22:11
+shaw 4:8
+shepherd 11:2
+shira 12:7
+shore 11:3,4 62:5
+62:6,6,13,16 63:9
+63:12,16,20 64:2
+64:4,6,9,11,20,23
+65:24 66:5 73:14
+short 77:13,25
+79:7
+shortly 18:9
+show 41:7
+showing 32:10,15
+32:19 35:19 52:11
+side 43:3 44:18
+45:23 54:1 73:15
+73:18
+sides 46:14
+signed 33:24
+significant 37:3
+37:22 59:23
+silbert 11:5
+silence 36:24
+simmonds 11:6
+simple 29:10
+35:10
+simpler 30:4
+simplest 25:15
+29:7
+simply 31:3,4
+41:9 62:24 68:7
+singer 11:7,8
+single 68:9
+sir 21:25
+sit 58:7 66:16
+skapof 11:9
+skip 15:16
+skorostensky
+11:10
+slant 59:5
+
+slaugh 11:11
+small 14:4 16:8
+44:4,11 75:9 77:1
+sole 13:12
+solely 26:25 27:2
+29:11 30:5,10
+solution 26:16
+solutions 81:20
+solved 43:13
+somebody 69:9
+someone's 35:22
+sonya 2:25 81:3,8
+soon 16:3 73:12
+sorkin 11:12
+sorry 23:6 57:14
+70:14
+sort 37:16 56:9
+sought 79:8
+sound 17:1 45:15
+southern 1:2
+speak 23:2 58:8
+74:22
+speaking 35:1
+special 67:11,14
+specifically 27:25
+28:15 32:3 80:5
+spell 55:7
+spelled 61:7
+spells 74:8
+spending 46:3
+spread 64:2 65:21
+66:2
+springer 11:13
+st 13:20
+stacy 6:13
+stage 41:12
+stakeholders 45:9
+stand 50:17
+standard 71:18
+standards 30:10
+standpoint 59:6,6
+star 75:24
+
+Veritext Legal Solutions
+www.veritext.com
+
+start 30:9
+started 54:18
+state 4:15,16
+13:24 14:2 32:4,5
+32:5,8,17 34:7
+35:14 39:15 54:12
+63:21 79:8 80:4
+statement 51:3
+states 1:1,11 4:1,9
+14:4 28:4 33:5,9
+33:23 34:10 35:21
+39:16,22 40:5,13
+40:15 41:18 44:3
+44:4,5,8,10,12,15
+45:18 46:9 69:18
+69:21,21,24 70:3
+70:4 71:13,23
+78:7,9,18,21 80:5
+80:6
+stay 20:7 77:23
+stayed 77:20
+staying 56:3
+steege 11:14 49:6
+52:4,5 53:8,18
+55:23
+steel 11:15
+step 36:20 40:3
+stephanie 6:19
+stephen 10:3
+steps 39:19 49:8
+58:9
+steward 68:25
+stipulation 50:4
+52:11
+stodola 11:16
+stood 43:15
+stop 16:7,11 29:19
+stopped 69:11
+straight 19:23
+street 1:13 3:20
+4:3,10
+strike 29:8
+
+516-608-2400
+
+[strikes - toto]
+strikes 20:5 30:11
+strong 79:5
+struck 28:21
+structure 15:21
+40:24 49:12 64:24
+structured 62:14
+63:22 65:25
+stuff 26:5 56:7
+subcontractors
+26:1,7
+subject 14:10
+25:10 32:18 36:10
+41:24 42:13 62:2
+submit 29:7 75:9
+subset 17:25
+45:18
+substance 18:9
+19:16 65:19,20
+substantial 46:18
+75:15
+substantially 15:8
+70:20
+substantive 18:4
+suffers 64:21
+suggest 28:25
+suggesting 64:13
+suggestion 54:7
+55:11,21 58:3
+suite 4:3 5:3 81:22
+sum 78:13
+summarize 16:22
+support 37:6
+75:10 78:3
+supported 72:2
+supports 75:13
+supposed 53:18
+sure 14:23 15:7
+20:13 22:3 23:2
+23:22 24:13 25:6
+26:8 27:5 35:5
+36:22 37:23 38:5
+39:25 41:21 50:2
+50:18 55:2,18
+
+212-267-6868
+
+Page 19
+62:23 71:4
+sweating 80:12
+swingle 11:17
+t
+t 7:15 10:20 81:1
+81:1
+tailored 79:19
+take 33:7 39:7
+40:16 43:6 45:23
+46:25,25 49:8
+50:5 58:9 70:13
+70:22 72:7
+taken 39:19
+talented 46:14
+talk 42:23 58:15
+78:19 79:6
+talking 34:3 57:21
+60:5 74:18
+tape 45:3
+tapley 11:18
+taxed 65:9
+taxes 17:20,20,21
+technical 62:13
+80:9
+technically 63:23
+73:7
+tele 1:12
+telephonically 3:8
+3:9,10,17,23 4:6
+4:13,20 5:15
+tell 41:6 72:20
+ten 45:6
+tens 45:17
+tenth 17:14 19:13
+term 17:22 18:1
+18:12,23 21:16,24
+22:9,12,16,17
+23:9 39:3 43:18
+60:6,7
+terms 21:13 22:4
+53:3 54:24 61:7
+testified 71:16
+
+testimony 60:12
+61:6 67:24
+thank 17:10,14
+28:13 31:24,24,25
+36:23 38:7 39:10
+39:13 42:19,25
+45:11 75:6,25
+76:11,12 80:1,8
+80:19,19
+thanks 17:13
+19:20
+theodore 12:12
+thing 23:23 33:3
+40:11 46:5 71:25
+72:3
+things 15:11,18
+33:24,25 43:2
+50:3 58:20 68:24
+69:10 73:15
+think 14:1 15:18
+17:5 19:25 20:7
+20:10,16,20,23,25
+22:9 24:6,6,16,18
+24:20 25:1 26:2,6
+26:9,16 27:3,17
+27:19,23,23 29:22
+29:23,23 30:10,15
+30:18 31:4,13
+32:7 33:2 35:13
+35:20,22,23,24,24
+35:25 36:2,9,13
+38:4 39:1,15 40:3
+40:14,16 41:9,11
+41:19,20,24 42:3
+42:5,9,13,14 43:3
+43:5,20,24 44:23
+45:1,16 46:13
+48:12,14 49:18,20
+50:13 52:8,16
+53:23 54:6 56:4,4
+56:5,11,11,13,23
+57:3,17,18,20
+58:2,4,6,14,18,19
+
+Veritext Legal Solutions
+www.veritext.com
+
+59:2,4,5,11,15,17
+59:21,22,24 60:13
+61:15,22 62:20,21
+65:15 66:10 67:2
+67:25 68:17,19
+69:2,4,9,12 70:4
+72:19,20,25 73:2
+74:8,11,20 75:4
+75:14 76:1,5,6,7,9
+79:10 80:6
+thinks 39:11
+third 18:2,18
+19:10 22:13,21,22
+23:21 30:2 42:8
+thomas 9:22
+thornton 65:5
+thought 30:13,13
+51:18 52:1 55:24
+56:8 77:6 79:12
+79:18
+three 31:12,12,22
+44:17
+thurmond 11:19
+tie 64:6
+tied 52:23 68:20
+time 37:9 39:21
+40:8 46:2,7 58:12
+58:14 60:18 66:17
+74:18 75:24 76:15
+77:11,22 79:20
+times 31:12,13
+75:21
+timothy 7:25
+title 20:21
+tobak 11:20
+today 13:17 16:18
+54:19 66:21 79:13
+told 13:24 41:9
+69:6,14,18
+tonnesen 11:21
+tort 71:11
+toto 15:24
+
+516-608-2400
+
+[trace - wanted]
+trace 39:23
+transcribed 2:25
+transcript 81:4
+transferred 71:15
+transparency
+74:2,5,12,15
+treated 38:22
+treatment 13:14
+47:5 51:5 60:5
+tremendous 72:4
+trial 46:6
+tribes 71:24
+triple 25:5
+troop 4:13 78:17
+78:17 79:7 80:1,5
+troop's 79:10
+troubled 63:5
+true 35:6 42:3,14
+59:10 81:4
+truer 71:10
+trust 2:4 47:9
+48:9 63:25 65:16
+65:17 66:3,8 75:9
+trustee 4:2 43:10
+74:14
+trustee's 38:11
+60:4
+trusts 26:7
+try 16:6 30:13
+trying 16:7,11
+20:20,24,25 23:1
+28:10 31:5 34:6
+35:4,11 38:5,24
+42:20 56:1 66:14
+70:22
+tsier 11:22
+tuesday 42:16,17
+45:12
+turn 15:11 18:8
+19:15 20:9 23:5
+46:23
+turner 11:23
+
+212-267-6868
+
+Page 20
+turns 19:1 75:21
+tweed 3:12
+twin 70:2
+two 13:22 14:22
+15:11,18 18:2,10
+27:24 38:14 43:2
+46:23 60:13 62:2
+62:4 63:7 67:3,20
+72:23 73:8 80:11
+type 61:13
+typically 15:14
+u
+u.s. 1:23 4:2 38:11
+38:18 43:10 60:4
+ucc 69:7 78:3
+um&m 67:16
+uncontested 74:9
+uncontroverted
+75:4
+understand 14:24
+31:19 32:22 33:11
+33:13 34:18 35:13
+36:9 38:6,8 40:9
+42:21 43:6,25
+44:6,13 45:2
+49:12,17 51:11
+57:18 59:13 64:1
+64:3 66:9 70:11
+72:6 74:16 75:12
+79:14
+understood 22:6
+27:18 28:11,16
+50:1 62:23 70:12
+73:11 75:25 76:11
+underwood 11:24
+undiscovered
+39:20
+unduly 79:21
+unfortunately
+49:18
+united 1:1,11 4:1
+28:4 33:5,9 67:16
+
+unkind 31:14
+unreasonable
+64:16,22 65:8
+unreasonableness
+64:18
+unusually 68:8
+update 13:19 16:3
+upset 15:25
+use 14:19 17:4
+22:4 29:9
+useful 27:3
+uses 30:17
+utilize 59:7
+utterly 69:13
+uzzi 3:17 18:9
+19:15,18,18,21
+20:2,19 21:4,9,18
+21:25 22:6 25:25
+35:3,3
+v
+vague 38:23
+vain 59:15
+valle 12:16
+valuable 59:24
+value 34:9
+van 11:25
+varick 4:3
+venditto 12:1
+veritext 81:20
+victims 61:18 62:8
+65:4 70:23 71:11
+71:15,23 72:2,2,2
+72:4 74:3,6
+video 1:12
+view 23:21 31:12
+33:24 40:5 45:8
+58:4
+viewed 37:9
+villnave 12:2
+vincent 5:17
+violating 35:23
+violation 32:14
+
+Veritext Legal Solutions
+www.veritext.com
+
+virginia 15:22
+virginia's 13:25
+46:22
+virtually 78:5
+vitiated 22:4
+voluntarily 78:7
+78:11
+voluntary 15:20
+77:3
+vonnegut 3:9
+15:12 16:14 17:7
+17:10,11,14 19:15
+22:15 23:8,12,19
+23:24 24:8,11,15
+24:21 25:2,12,15
+26:10,16,19 27:5
+27:18,21 40:18,21
+41:15
+voted 65:12
+w
+w.r. 42:7
+wagner 12:3,4
+waiting 15:22
+waive 51:10,14
+waived 53:19 55:9
+56:21
+waiving 60:20
+walgreen's 50:6
+walk 15:12 17:8
+17:16
+walker 1:25
+wall 26:20
+want 14:16 15:17
+20:13 22:3 27:24
+32:13 34:2 36:23
+39:16 40:25 41:6
+53:7 56:15 57:1
+58:10,16 59:3,11
+60:14 62:10 69:24
+76:2 78:11 80:10
+wanted 13:10,19
+14:25 19:8 23:25
+34:12 40:3 44:2
+516-608-2400
+
+[wanted - zylberberg]
+44:19 60:21 62:23
+64:6 72:16 75:15
+wants 14:21 29:18
+30:3 54:10
+war 75:10
+wardwell 3:3
+17:11
+way 18:5 21:6
+25:15,16 27:20
+29:7 35:24 46:4
+49:16 51:3 55:25
+62:13 63:22 64:23
+65:20,24,25 66:6
+73:15 75:17 77:7
+80:14
+ways 26:11 71:21
+we've 17:18,21
+18:25 19:5 27:14
+34:15 36:24 37:22
+40:17,21 42:14
+43:17 53:15 65:20
+78:4
+weber 12:5
+wednesday 14:20
+39:17 44:16 45:13
+55:22 77:3,9,18
+77:25 78:14,14
+wednesday's
+43:13
+week 40:23 41:4
+weinberg 12:6
+weiner 12:7
+weintraub 12:8
+weis 12:9,10
+weiss 12:11 36:4
+wells 12:12
+wendy 12:6
+went 70:2 79:18
+west 4:10 13:25
+15:22 46:22
+we’re 13:3
+whichever 16:16
+
+212-267-6868
+
+Page 21
+white 1:14 62:6,7
+64:14
+wide 13:4
+william 10:20
+12:8
+willing 75:16
+win 39:7 72:4
+window 46:12
+winthrop 4:8
+wired 17:4
+wireless 17:4
+wish 71:8
+wolf 12:13
+word 17:21 29:9
+58:24 71:8
+words 28:21 41:6
+work 14:13 25:19
+40:22 59:24 74:25
+75:19,21,22
+worked 36:16,24
+50:3 55:24 64:15
+65:5 67:19
+working 13:5 29:4
+44:1,3 56:10 57:6
+works 64:24
+world 43:6
+worried 79:20,21
+would've 68:7
+69:10
+wrapped 68:9
+x
+x 1:4,10 27:2 36:1
+y
+y 27:3
+yards 3:14
+yeah 20:11 25:21
+30:8 67:8 68:10
+79:4,11
+yep 67:13 68:22
+yesterday 13:5
+15:9 26:11 28:17
+yields 52:19
+
+york 1:2 3:6,15,21
+4:4,11 5:11
+z
+z 11:13
+zabel 12:14
+zoom 69:3
+zylberberg 12:15
+
+Veritext Legal Solutions
+www.veritext.com
+
+516-608-2400
+
+
